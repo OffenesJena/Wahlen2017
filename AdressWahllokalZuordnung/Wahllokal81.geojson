@@ -1,0 +1,3269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5238492224609,
+          50.9375151771296
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.523107631927,
+          50.9384435297529
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.52207797098,
+          50.9383712800193
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5218436328711,
+          50.9382958299897
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5217735809335,
+          50.9382707967292
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5215057241966,
+          50.9381871727498
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5211100653138,
+          50.9379098771002
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5207870715746,
+          50.9377401352424
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5206972095962,
+          50.9379029723638
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5241889700225,
+          50.9375802561441
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5245340978689,
+          50.9376046536011
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5248798261103,
+          50.9376763348925
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.524981991169,
+          50.9379709345666
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5240476665849,
+          50.9379799727887
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.523913574959,
+          50.9382944574364
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5234172056641,
+          50.9384630662558
+        ]
+      },
+      "properties": {
+        "Strasse": "Auf der Höhe",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5182377896741,
+          50.9281705326963
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Hummel-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5191703304547,
+          50.9295270888972
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5202624512309,
+          50.9295954223155
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5196900336471,
+          50.9292353603042
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5199848562564,
+          50.9292975317629
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.519419605736,
+          50.9289509779262
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51907615564,
+          50.9290268614237
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5191124833777,
+          50.9292789381036
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5193087650688,
+          50.9297599982248
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5186336156034,
+          50.9290873973749
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5189941004377,
+          50.9297395362118
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5189230463016,
+          50.9295430489411
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "2b",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.519319015714,
+          50.9299470307695
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5194300798747,
+          50.9297395073621
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5196045274981,
+          50.9298968045279
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5197199095267,
+          50.9296842204648
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5198167038533,
+          50.929859948849
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5198216816487,
+          50.929663577676
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5197791934943,
+          50.929383195119
+        ]
+      },
+      "properties": {
+        "Strasse": "Carl-Spitzweg-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.520121002673,
+          50.9288153752273
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-A.-Tischbein-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5204602341792,
+          50.9286008354079
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-A.-Tischbein-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5205643937271,
+          50.9287629637675
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-A.-Tischbein-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5182071880759,
+          50.929477824915
+        ]
+      },
+      "properties": {
+        "Strasse": "Lucas-Cranach-Allee",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5182603410413,
+          50.9296670592215
+        ]
+      },
+      "properties": {
+        "Strasse": "Lucas-Cranach-Allee",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5178429735519,
+          50.9285503433354
+        ]
+      },
+      "properties": {
+        "Strasse": "Lucas-Cranach-Allee",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.517377266789,
+          50.9277557837667
+        ]
+      },
+      "properties": {
+        "Strasse": "Lyonel-Feininger-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5162872785204,
+          50.9279732862228
+        ]
+      },
+      "properties": {
+        "Strasse": "Lyonel-Feininger-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5170673745402,
+          50.9276663922811
+        ]
+      },
+      "properties": {
+        "Strasse": "Lyonel-Feininger-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.516677979185,
+          50.9277214337107
+        ]
+      },
+      "properties": {
+        "Strasse": "Lyonel-Feininger-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5162711260314,
+          50.9277879161624
+        ]
+      },
+      "properties": {
+        "Strasse": "Lyonel-Feininger-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5123541016356,
+          50.9287156116523
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51286596352,
+          50.929975677426
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5121070216163,
+          50.9301500269875
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.511888685172,
+          50.9302226354669
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5119895646855,
+          50.9303497703278
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5126659765801,
+          50.9300958694424
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5130276988004,
+          50.9300119033384
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5131413421416,
+          50.9299016051024
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5134126223239,
+          50.9299137859463
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5132962511283,
+          50.9299654247393
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "19a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5137161836888,
+          50.9300752937265
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "19b",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5121706584981,
+          50.9289510610873
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5125554502818,
+          50.9291358979413
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "1c",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5127473171181,
+          50.9294082127723
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5135593975533,
+          50.9298092785165
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5136499151854,
+          50.9296963748823
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5136924073168,
+          50.9295552367062
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5137180013318,
+          50.9294017809293
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.513501413027,
+          50.9293662362589
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5133034300937,
+          50.9292857718759
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5130557144336,
+          50.9292984388383
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.512776232854,
+          50.9290659874431
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "27a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5126160118476,
+          50.9287653073703
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5125552911506,
+          50.9285683631174
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "29",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5127558032442,
+          50.9282931995216
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "29a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5124010146989,
+          50.9295067636559
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.512143457835,
+          50.929546472837
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5116434933723,
+          50.929405406179
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "5a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5121189261776,
+          50.9296780684323
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5116911928375,
+          50.9297470205535
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5120218594938,
+          50.9298156912083
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5123665066956,
+          50.9296784366483
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenroda",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5309689510124,
+          50.9260864358969
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Grund",
+        "Hausnummer": "100b",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5347472486173,
+          50.9291446702876
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Grund",
+        "Hausnummer": "60a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5343280679569,
+          50.9261991909705
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Grund",
+        "Hausnummer": "75",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5361030180572,
+          50.9306376498545
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5350123851855,
+          50.9302302404786
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5154219415973,
+          50.9278154872979
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "108",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5151291017474,
+          50.9278455965549
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "110",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5148212340895,
+          50.9278903075013
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "112",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5349599257197,
+          50.9297197047344
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5337714951938,
+          50.9286310883534
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5355995188261,
+          50.9305530010103
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5341735477376,
+          50.9300173666877
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5340687025471,
+          50.9299288520685
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5338866181705,
+          50.9297951449191
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5355004271151,
+          50.9302554341149
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5343139653641,
+          50.9296878520601
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5340570729926,
+          50.9294309529422
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "32a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5334162422023,
+          50.9292344102211
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5331699901159,
+          50.9290998103532
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5353838004242,
+          50.9307055976099
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5328340704044,
+          50.928687840212
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5305373925445,
+          50.9271518012452
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5303504409631,
+          50.9270866295981
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "43",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5301410244486,
+          50.9268844014179
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "45",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5298501055965,
+          50.9267208832283
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "47",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5295831332497,
+          50.9266063035407
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "49",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5300699803797,
+          50.9273604636753
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "50",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5293856431991,
+          50.9263872045627
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "51",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5293748128895,
+          50.9260837712025
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "57",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5291239458211,
+          50.9270138184984
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "58",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.528840823402,
+          50.9260409504019
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "59",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5351862228585,
+          50.9305720365189
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5290732502461,
+          50.9268064843988
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "60",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5287489959249,
+          50.9265982927197
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "62",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5279146799771,
+          50.9259693260341
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "64",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5276805687403,
+          50.9259181559736
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "66",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5273547594667,
+          50.9258793947756
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "68",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5268852578558,
+          50.9258143696755
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "70",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5222504502458,
+          50.9235346162937
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "75",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5224858540289,
+          50.9229797394423
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "75a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5350626002406,
+          50.9303385592887
+        ]
+      },
+      "properties": {
+        "Strasse": "Münchenrodaer Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5187960914301,
+          50.9286218696881
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Klee-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5184698786842,
+          50.9286784633512
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Klee-Strasse",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5184124401347,
+          50.9285358776077
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Klee-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5195666423746,
+          50.9285123921825
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Klee-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.519687275162,
+          50.9284800405998
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Klee-Strasse",
+        "Hausnummer": "5a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5188916211741,
+          50.9284315351767
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Klee-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5199844097101,
+          50.9284736248346
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Klee-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5178707730194,
+          50.9294280561449
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5176466356173,
+          50.9289708402827
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5175634336448,
+          50.9289860636895
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5173512896988,
+          50.9290343961462
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5172454947334,
+          50.9290538671875
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5170709911123,
+          50.9290804914148
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5169870522737,
+          50.9290959744884
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5168066624684,
+          50.9291305742713
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5167130465023,
+          50.9291451362351
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5175675441654,
+          50.9294441466329
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5177477076872,
+          50.9292396280856
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5176494656312,
+          50.9292574492172
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "2b",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5174384569428,
+          50.9292777874835
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5173485710225,
+          50.9292893385829
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5172580025154,
+          50.9293049203351
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5171980601171,
+          50.9293313164519
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5171090546536,
+          50.9293470393771
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5168758509382,
+          50.9292949643975
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5178876991107,
+          50.9289415866977
+        ]
+      },
+      "properties": {
+        "Strasse": "Rembrandtstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5446801552608,
+          50.9387111630668
+        ]
+      },
+      "properties": {
+        "Strasse": "Remderodaer Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5172870649475,
+          50.9376540891626
+        ]
+      },
+      "properties": {
+        "Strasse": "Remderodaer Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5173585739141,
+          50.9380005010675
+        ]
+      },
+      "properties": {
+        "Strasse": "Remderodaer Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5174610120581,
+          50.938338230699
+        ]
+      },
+      "properties": {
+        "Strasse": "Remderodaer Strasse",
+        "Hausnummer": "20a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5174958341967,
+          50.9279887193698
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5170554402579,
+          50.9279170539662
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5168732737922,
+          50.9279506037973
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5167948544706,
+          50.9279730760632
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5165066145974,
+          50.9280222885971
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5171798576866,
+          50.9280841882132
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5168968422705,
+          50.9281057541042
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5165406121666,
+          50.9282737503825
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5171468958148,
+          50.9278910846711
+        ]
+      },
+      "properties": {
+        "Strasse": "Rubensstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5209823792486,
+          50.9302536798057
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.519920383267,
+          50.9300879714674
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5201336121725,
+          50.929913053615
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5209143587153,
+          50.9300782734916
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.520627115748,
+          50.9300491404238
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5205476286191,
+          50.9298374008795
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5203939722181,
+          50.930090199368
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.520445306778,
+          50.9298561639881
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5201683371024,
+          50.9301455256853
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5202421716494,
+          50.9298922039407
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Dali-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5271500335071,
+          50.9261616748784
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5277493871729,
+          50.9263950441141
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5279046099134,
+          50.926359146066
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5282780868644,
+          50.9264763668184
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5282836853849,
+          50.9267384440629
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5284922904947,
+          50.926873056451
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5286727556835,
+          50.9269934746181
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5290719859895,
+          50.9276582229782
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5300448510693,
+          50.9280185818604
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "38",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5299450377043,
+          50.9282532632985
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "39",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5297215018093,
+          50.9286526761534
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "39a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5307796401307,
+          50.9283148172051
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5310405069407,
+          50.9284093535511
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "42",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5303276041179,
+          50.9284990558772
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "43",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5314103204243,
+          50.9284413395435
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "44",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5315813076054,
+          50.9285296011605
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "46",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5319368228162,
+          50.9282801123492
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "48",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5318156193456,
+          50.9287093558587
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "50",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5323959001323,
+          50.9287514952548
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "52",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5321728124604,
+          50.9290607863566
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "54",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5263871145443,
+          50.9261093738262
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5329176321753,
+          50.9300103305696
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "62",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5267934213752,
+          50.9262670622812
+        ]
+      },
+      "properties": {
+        "Strasse": "Über dem Grund",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5172273721396,
+          50.9287620524276
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5173086949645,
+          50.9284571994623
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.517088170325,
+          50.9284876575357
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.516672754603,
+          50.9285637002661
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5174311311242,
+          50.9287108128714
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5175070867204,
+          50.9286989934727
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "1b",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5171313917294,
+          50.9287797691172
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5169536625448,
+          50.9288089237572
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5168678114572,
+          50.9288264303753
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5166920652725,
+          50.9288563568788
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5165817205595,
+          50.9288779869145
+        ]
+      },
+      "properties": {
+        "Strasse": "Van-Gogh-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5157124334295,
+          50.9276653526088
+        ]
+      },
+      "properties": {
+        "Strasse": "Walter-Dexel-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5157844727027,
+          50.9278256150541
+        ]
+      },
+      "properties": {
+        "Strasse": "Walter-Dexel-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 81
+      }
+    }
+  ]
+}

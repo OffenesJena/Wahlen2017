@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056905769504,
+          50.8809036365813
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6055641846604,
+          50.8810100190507
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605447035547,
+          50.8811137987557
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053224925127,
+          50.8812181196997
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6052044359786,
+          50.8813249074482
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "31",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6050849134839,
+          50.8814319148517
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "33",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601255082472,
+          50.8810188410608
+        ]
+      },
+      "properties": {
+        "Strasse": "Fregestrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6022697221033,
+          50.8811152833576
+        ]
+      },
+      "properties": {
+        "Strasse": "Fregestrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008659758962,
+          50.8818509546207
+        ]
+      },
+      "properties": {
+        "Strasse": "Fregestrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6025834527089,
+          50.8812594203596
+        ]
+      },
+      "properties": {
+        "Strasse": "Fregestrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999037157424,
+          50.8808820654731
+        ]
+      },
+      "properties": {
+        "Strasse": "Fregestrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5998794402278,
+          50.8811773500929
+        ]
+      },
+      "properties": {
+        "Strasse": "Fregestrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6021265680019,
+          50.8800041010582
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008500277964,
+          50.879831565204
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6022479932515,
+          50.8798978100359
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601089056495,
+          50.8796207140314
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6023669123058,
+          50.879795530263
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6013464602702,
+          50.8794551835634
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024849014439,
+          50.87969334329
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6015789677504,
+          50.8792504487054
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028796110624,
+          50.8814742476441
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040361970223,
+          50.8819290995471
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026533024762,
+          50.8816745744353
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024198421825,
+          50.8818785260437
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6051072838119,
+          50.8830991767645
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6047952284383,
+          50.8829518965193
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6044322536905,
+          50.8828374692222
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043005989249,
+          50.8826241704033
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043077265779,
+          50.8823761127678
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043259655597,
+          50.8821297916637
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "34",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6048012370226,
+          50.8815429674403
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "37",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046428701522,
+          50.8814659796472
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "39",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6044775377771,
+          50.8813877185915
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "41",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043164658078,
+          50.8813148472114
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "43",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6036003645565,
+          50.8812588501899
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "43a",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6022371375957,
+          50.8806148073245
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "45",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6020857663881,
+          50.8805464784023
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "47",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6019316806162,
+          50.8804699239868
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "49",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6017592603467,
+          50.8803923271139
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "51",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601598463216,
+          50.8803197855165
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "53",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601402646285,
+          50.8802792197669
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "55",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6012232210957,
+          50.8801984610211
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "57",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6004897795291,
+          50.8801191427599
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "59",
+        "PLZ": "07747",
+        "Wahllokal": 52
+      }
+    }
+  ]
+}

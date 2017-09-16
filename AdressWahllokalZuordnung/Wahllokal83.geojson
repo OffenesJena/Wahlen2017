@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5351262991738,
+          50.9735010495752
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.536017550346,
+          50.9733893306919
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5366040803283,
+          50.9734274675776
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.536820183567,
+          50.9731959307117
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.536747020573,
+          50.9738079032842
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5366640983217,
+          50.9739998998602
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "18a",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5369353993239,
+          50.9739215421043
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5353075268838,
+          50.9736397147883
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5370361171059,
+          50.9737246737133
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5374529901687,
+          50.9736536465614
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "20b",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5369531496828,
+          50.9732471999796
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5368585434424,
+          50.9728457092766
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5367870583387,
+          50.972650769418
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.537401253167,
+          50.9718726486724
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "23a",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5368572779876,
+          50.972219098897
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5367963012795,
+          50.9723709693828
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5366783287068,
+          50.9726221313658
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5364068782983,
+          50.9726325888853
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5351473399721,
+          50.9738640370282
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5359841435743,
+          50.9723654496977
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "31",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5360864106618,
+          50.9726268473017
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5359253257355,
+          50.9728780569809
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "33",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5358885058774,
+          50.9729998826906
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5357802309364,
+          50.9732187308191
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "35",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5352607478349,
+          50.9733691757442
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5349829830782,
+          50.9731100426763
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "37",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5347951230755,
+          50.9732483197226
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "38",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5353820371658,
+          50.9739349576196
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5344922501578,
+          50.9732413170547
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5336624924948,
+          50.9734623599902
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "41",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5354755703481,
+          50.9739400212936
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5357279428132,
+          50.9739345959653
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5360412699774,
+          50.9740275140363
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5359839317728,
+          50.9737388515314
+        ]
+      },
+      "properties": {
+        "Strasse": "Vierzehnheiligen",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 83
+      }
+    }
+  ]
+}

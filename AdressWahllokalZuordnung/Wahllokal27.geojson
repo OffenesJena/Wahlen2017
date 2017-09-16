@@ -1,0 +1,1621 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6022626727977,
+          50.9532342354257
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026116268963,
+          50.953312485956
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028129639747,
+          50.953371476481
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6030176734904,
+          50.9534251774715
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601409182822,
+          50.9532896090587
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033669625612,
+          50.9535348481833
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602210459368,
+          50.9535433722805
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6035661197297,
+          50.9536019576404
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026108971432,
+          50.9537160061003
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21a",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026577198298,
+          50.9537631621691
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21b",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028419318401,
+          50.953798511317
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21c",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028930214454,
+          50.953846762932
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21d",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6030721308603,
+          50.9538835130814
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21e",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6031273888932,
+          50.9539326582121
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21f",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033007066491,
+          50.9539795278877
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21g",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033609661179,
+          50.9540317006513
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21h",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6034445668909,
+          50.954040485647
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21i",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.603493652655,
+          50.9540872644042
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "21k",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.603760251466,
+          50.9536679896117
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040367757846,
+          50.9543297930836
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.604211575405,
+          50.9544178566037
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043852844553,
+          50.9545053768306
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6045180905713,
+          50.9547403645097
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6049968406645,
+          50.9543385256449
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046024635916,
+          50.9548722039047
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6051076194351,
+          50.9544613029998
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046871568765,
+          50.9550032532828
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6052086365621,
+          50.9545856833114
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "34",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6045907701256,
+          50.9552963840484
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "35",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053286659467,
+          50.954907108554
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046210430556,
+          50.9554389981969
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053546919775,
+          50.9550456002111
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046505635055,
+          50.95557805913
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "39",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053757159662,
+          50.9551865829247
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046689453671,
+          50.9559560761698
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053098264907,
+          50.9554718490389
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053461052027,
+          50.9556113820354
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053851160628,
+          50.9557509871536
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "46",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6013394177331,
+          50.9530274688038
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "4e",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6012284301814,
+          50.9528049489253
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "4f",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6018386233602,
+          50.9531259766655
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602052720334,
+          50.9531823920037
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6081821184287,
+          50.9513082760376
+        ]
+      },
+      "properties": {
+        "Strasse": "Erich-Kuithan-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6083426343743,
+          50.9514310820922
+        ]
+      },
+      "properties": {
+        "Strasse": "Erich-Kuithan-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.608515028665,
+          50.9515612896713
+        ]
+      },
+      "properties": {
+        "Strasse": "Erich-Kuithan-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6093954255246,
+          50.952155214627
+        ]
+      },
+      "properties": {
+        "Strasse": "Erich-Kuithan-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6063309145065,
+          50.9524798788752
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6074131065735,
+          50.9529072582218
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075285224674,
+          50.9531440437166
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075538804551,
+          50.9532763302458
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075644621801,
+          50.9534192911068
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076716691996,
+          50.953963972336
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6065239146271,
+          50.9525410061798
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6067104894828,
+          50.9526061386471
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6070455426637,
+          50.9527300284128
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072270134556,
+          50.9528150535819
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033532658222,
+          50.9524523332814
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6035514778976,
+          50.952508265689
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6037550101966,
+          50.9525660480246
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6041294858552,
+          50.9529115873721
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043328883734,
+          50.9529673789507
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6047774953989,
+          50.9535799411431
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602196945723,
+          50.9519549438986
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6045309415077,
+          50.9530248665548
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6049689658962,
+          50.9536503155315
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6051018057116,
+          50.9532687980421
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6051568644553,
+          50.9537190595269
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6052994071506,
+          50.9533242528377
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6055472857269,
+          50.9537880460028
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6055075520567,
+          50.9533833564298
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6057295415194,
+          50.9538628556131
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059397502975,
+          50.9534337140938
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059122942395,
+          50.9539378733572
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6061276299134,
+          50.9535013957602
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6063378225443,
+          50.9539668350456
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60632730137,
+          50.9535698449057
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6064922417764,
+          50.9540604267377
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066491536548,
+          50.9541555277673
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "35",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6069574824254,
+          50.9543737292187
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024080232489,
+          50.9520157427018
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026074436824,
+          50.9520738420551
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6027997653398,
+          50.952129210252
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6064265445794,
+          50.9517527443979
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6077554967866,
+          50.9515428479868
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6078487925969,
+          50.9517039400384
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075805913636,
+          50.9519457015587
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6074965984011,
+          50.9523405618662
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6073751110691,
+          50.952054165896
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6074136113597,
+          50.9523887318801
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076283031913,
+          50.9521592108861
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076800380171,
+          50.9525109687901
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068845787089,
+          50.9516503762834
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6078796056023,
+          50.9521063590832
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6080257294858,
+          50.9522609956284
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.606234847461,
+          50.951794649186
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.607096585189,
+          50.9516053897666
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6058679690972,
+          50.951767933924
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6073304032048,
+          50.9514710580796
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056789236043,
+          50.9518104686528
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075769612827,
+          50.9514222575276
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066303838241,
+          50.9519247697566
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Weber-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 27
+      }
+    }
+  ]
+}

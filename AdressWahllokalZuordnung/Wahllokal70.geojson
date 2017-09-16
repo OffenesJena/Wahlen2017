@@ -1,0 +1,2197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5689593586987,
+          50.9007590862845
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hahngrunde",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5685758035741,
+          50.9008313824303
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hahngrunde",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5688100759875,
+          50.9010664644241
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5691376056241,
+          50.9016635219446
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "11",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5691506236915,
+          50.9018256633402
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "13",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5692544387059,
+          50.9019529643525
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "15",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5690667252419,
+          50.9010870296233
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5688321616482,
+          50.9012423726065
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5692577730086,
+          50.9014136313134
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "4",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5695623135945,
+          50.9016471220527
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "6",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5689540464277,
+          50.9014190435135
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "7",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5690601353252,
+          50.9015507464239
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Hundsbeile",
+        "Hausnummer": "9",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5679820791621,
+          50.9008454956869
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5688129809475,
+          50.8998947091239
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "10",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5688671593692,
+          50.8998539872174
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "11",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5686179118012,
+          50.8997815301406
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "12",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5686824775015,
+          50.8998115453449
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "12a",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5685533371762,
+          50.8997524911649
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "13",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5683796712404,
+          50.8997503859137
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "14",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5683368377239,
+          50.8997912323089
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "15",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5682978095997,
+          50.8998379505186
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "16",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5682012407601,
+          50.8999298541019
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "17",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681591533501,
+          50.8999734624271
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "18",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681140246719,
+          50.9000120291706
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "19",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5679915963664,
+          50.9008001205793
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "1a",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56800938348,
+          50.9006360013541
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5679803333779,
+          50.9001334038933
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "21",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5679181269909,
+          50.9001713491304
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "22",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5679165987352,
+          50.9002261917251
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "23",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678722329712,
+          50.9002726772345
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "24",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678173694175,
+          50.9003702429742
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "25",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677917639093,
+          50.9004184917815
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "26",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677673667996,
+          50.9004688182686
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "27",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677101400666,
+          50.9005867486042
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "28",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677156551433,
+          50.9006407191485
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "29",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5680373252068,
+          50.9005585908345
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677051360132,
+          50.9006889255673
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "30",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5676722815926,
+          50.9007402904722
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "31",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5676622624172,
+          50.9008660844342
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "32",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5676841089428,
+          50.9009244989438
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "33",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5676866344855,
+          50.900971614613
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "34",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5676708074541,
+          50.9010279920685
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "35",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5676878876625,
+          50.9011419830794
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "36",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677005501398,
+          50.9011918210347
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "37",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677124503143,
+          50.9012406174465
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "38",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677339536089,
+          50.9013465153132
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "39",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681107246283,
+          50.9004110784601
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "4",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677681390025,
+          50.901390266696
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "40",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677974883692,
+          50.901439225152
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "41",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678007851157,
+          50.9014881757146
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "42",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678904238637,
+          50.9016031046513
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "43",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5679318850254,
+          50.9016519665733
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "44",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5679643196575,
+          50.9016969748416
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "45",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567981674436,
+          50.9017494292821
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "46",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568029919917,
+          50.9018550831321
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "47",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5680665411482,
+          50.9018980948592
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "48",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681036127805,
+          50.901940197785
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "49",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681539371539,
+          50.9003505587641
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "5",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681199011951,
+          50.9019949206893
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "50",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5682298772728,
+          50.9021219907922
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "51",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5682472654329,
+          50.9021767276114
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "52",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568221684051,
+          50.9023236580517
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "53",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681956911035,
+          50.9023781248076
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "54",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678994257355,
+          50.902559615747
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "55",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678227449682,
+          50.902587156863
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "56",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677469759724,
+          50.9025995686982
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "57",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567668177793,
+          50.9026056233571
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "58",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5674955752199,
+          50.902634916981
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "59",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5683167395326,
+          50.9002406765273
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "6",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5674201495811,
+          50.9026501673539
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "60",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5673462738901,
+          50.9026641001844
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "61",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5671775903808,
+          50.9026942549147
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "62",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5671023337493,
+          50.9027257441804
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "63",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5670219187007,
+          50.902736350255
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "64",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5669428035572,
+          50.9027410855709
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "65",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5667837353482,
+          50.902774755012
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "66",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5668104850125,
+          50.9028245121581
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "67",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5668837866879,
+          50.9029822855574
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "68",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5669045803045,
+          50.903033833044
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "69",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568363229103,
+          50.9001843510512
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "7",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5673800790532,
+          50.9028362472996
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "70",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5674866436277,
+          50.9028157678872
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "71",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677416654747,
+          50.9027801124375
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "72",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678291807296,
+          50.9027623696762
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "73",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5680594159479,
+          50.902706163133
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "74",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681314334658,
+          50.9026820216806
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "75",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5684015650076,
+          50.9025072462518
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "76",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5684389806223,
+          50.902464876866
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "77",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5685410043514,
+          50.9023248792051
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "78",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568542881341,
+          50.902261665853
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "79",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5685988860225,
+          50.9000871603479
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "8",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5684952892354,
+          50.9020692740442
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "80",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5684694845635,
+          50.9020213402834
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "81",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5684029952391,
+          50.9018648874225
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "82",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5683634084639,
+          50.9018046990623
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "83",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5682588187926,
+          50.9016734407846
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "84",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5682242820015,
+          50.9016166547182
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "85",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681326232164,
+          50.9014667805335
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "86",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5680969509187,
+          50.9014007487525
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "87",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568004651769,
+          50.9012380336071
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "88",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567981365677,
+          50.901179341012
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "89",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568645136971,
+          50.900043408857
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Planer",
+        "Hausnummer": "9",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571896833986,
+          50.8982822577987
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "46",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5720830544807,
+          50.898327660086
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "46a",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571624738199,
+          50.898377139231
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "48",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5715641346896,
+          50.8984771816685
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "50",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5714991288871,
+          50.8985844891154
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "52",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5714392463354,
+          50.8986833565545
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "54",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5714021654051,
+          50.8987805007097
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "56",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5713329816509,
+          50.8988953705109
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "58",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5712622673574,
+          50.8990127965503
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "60",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5709285544159,
+          50.8977316387703
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "61",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5712017292175,
+          50.8991133064196
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "62",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57087536099,
+          50.8978218380137
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "63",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5710158215675,
+          50.8993558246448
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "64",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5708147935703,
+          50.8979240465788
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "65",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5709624024835,
+          50.8994456634723
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "66",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5707524301997,
+          50.8980288761316
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "67",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5708978347615,
+          50.8995514260032
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "68",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5706789027115,
+          50.8981430285168
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "69",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5708452919056,
+          50.8996371240159
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "70",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5706581370177,
+          50.898238025284
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "71",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5707636095581,
+          50.8997087460056
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "72",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5706778391925,
+          50.8983645573136
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "73",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5706256536185,
+          50.8997830738161
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "74",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5707047853211,
+          50.8984981803374
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "75",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5704935516913,
+          50.8998560835862
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "76",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5707322635136,
+          50.8986280568496
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "77",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5703064037148,
+          50.9000302070599
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "78",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5707106725652,
+          50.8987615993357
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "79",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5702581853091,
+          50.9001107519595
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "80",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5706437155206,
+          50.8988757708005
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "81",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5701833162864,
+          50.9002358387379
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "82",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5705724545088,
+          50.898993724771
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "83",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5702350267777,
+          50.9003739124877
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "84",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5705037815666,
+          50.8990867704253
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "85",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5693056110719,
+          50.9001736232846
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "87",
+        "PLZ": "07745",
+        "Wahllokal": 70
+      }
+    }
+  ]
+}

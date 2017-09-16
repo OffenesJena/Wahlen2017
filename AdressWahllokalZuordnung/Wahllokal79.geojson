@@ -1,0 +1,2437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026065227707,
+          50.8676865297894
+        ]
+      },
+      "properties": {
+        "Strasse": "Alter Handelsweg",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029436633437,
+          50.8679240525626
+        ]
+      },
+      "properties": {
+        "Strasse": "Alter Handelsweg",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5981462054107,
+          50.8673805501939
+        ]
+      },
+      "properties": {
+        "Strasse": "Alter Handelsweg",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5986750670307,
+          50.8674320945598
+        ]
+      },
+      "properties": {
+        "Strasse": "Alter Handelsweg",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5985522800357,
+          50.8666968272555
+        ]
+      },
+      "properties": {
+        "Strasse": "Alter Handelsweg",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5993685934334,
+          50.8676476636898
+        ]
+      },
+      "properties": {
+        "Strasse": "Alter Handelsweg",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5996153669636,
+          50.867157176237
+        ]
+      },
+      "properties": {
+        "Strasse": "Alter Handelsweg",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6009006885194,
+          50.8675156370861
+        ]
+      },
+      "properties": {
+        "Strasse": "Alter Handelsweg",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5900431002454,
+          50.86775620974
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588489099068,
+          50.8682516094352
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881822088905,
+          50.8679672539131
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5882403241143,
+          50.8683044497424
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879810503989,
+          50.8680273306652
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879517386177,
+          50.8683384100026
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877152373285,
+          50.8680583558053
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876666791552,
+          50.8683791308976
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894633902593,
+          50.8678468427583
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5898098863599,
+          50.8680355765069
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5891718751301,
+          50.8678595066278
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5895028079367,
+          50.8680739845728
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889230451435,
+          50.8678914167559
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5891413606962,
+          50.8681597394576
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5886556391644,
+          50.8678674479604
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887694896701,
+          50.8682150731541
+        ]
+      },
+      "properties": {
+        "Strasse": "Am alten Weinberg",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5991868754596,
+          50.8681207401272
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Dorfplatz",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5986648778783,
+          50.8678314713834
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Dorfplatz",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598441204263,
+          50.867665281216
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Dorfplatz",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999122775872,
+          50.8682435234845
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5989207361432,
+          50.868365062113
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5991769470581,
+          50.8683931714523
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5995537256125,
+          50.8684162412325
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5997304538002,
+          50.8684329158038
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999323926665,
+          50.8684710390125
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983760523547,
+          50.868206872364
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6001307256892,
+          50.8684515243568
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6004768132963,
+          50.8684671897053
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6006542819957,
+          50.8684765762834
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.600766618595,
+          50.8684925999476
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6010184971698,
+          50.868524785425
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6021691885913,
+          50.868436094823
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6012780821473,
+          50.8685804775891
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "30",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6016508851449,
+          50.8686651765881
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6023678123843,
+          50.8686524401889
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "32b",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026389159905,
+          50.8686367080462
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028041273656,
+          50.8688430259777
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029042362736,
+          50.8689427313853
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "38",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983646289065,
+          50.8684181776017
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028703445564,
+          50.8690452423911
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6027345561996,
+          50.8686144416093
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598685286152,
+          50.8683400432471
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5987189678515,
+          50.8685751546043
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Leutrabach",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6011198265636,
+          50.8630726060601
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028008865024,
+          50.8669256323413
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6006646780431,
+          50.8641472214358
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6021414975517,
+          50.8632994093383
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028827119624,
+          50.8640508751275
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6022413126503,
+          50.863957634882
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028267216003,
+          50.8649430019909
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6019209824247,
+          50.8648646480429
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6027589871553,
+          50.865484565183
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Naßtal",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5972665856571,
+          50.8666107637494
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Rödigen",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970565703365,
+          50.8665535646884
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Rödigen",
+        "Hausnummer": "1b",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5973424537091,
+          50.8661848789539
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Rödigen",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5967651635522,
+          50.8665444285937
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Rödigen",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.597009664393,
+          50.8663210458428
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Rödigen",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5967544525321,
+          50.8664147809399
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Rödigen",
+        "Hausnummer": "4a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59616391784,
+          50.8667516507622
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Rödigen",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5963397004327,
+          50.8664195688939
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Rödigen",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6037743069647,
+          50.8685744409833
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kiesgrube",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6042049047267,
+          50.8683731959674
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kiesgrube",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6106382228992,
+          50.8639317350325
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kiesgrube",
+        "Hausnummer": "79",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6005970395512,
+          50.8680733644706
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6013249630916,
+          50.8683067328517
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999469827968,
+          50.8679351669725
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6016836773682,
+          50.8679442304665
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5997154771906,
+          50.8681118954193
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601446538407,
+          50.8678955705321
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5995909629701,
+          50.8678264937683
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6007214136835,
+          50.8680286529305
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599925513159,
+          50.8676854921266
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Kirche",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.593581038559,
+          50.8627383229329
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Lehmgrube",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5953056969462,
+          50.8645747061685
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Lehmgrube",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59579893759,
+          50.8646580520369
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Lehmgrube",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5969349100214,
+          50.8639244876704
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Lehmgrube",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5936148740816,
+          50.8631741861034
+        ]
+      },
+      "properties": {
+        "Strasse": "An der Lehmgrube",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966497134116,
+          50.8612052008847
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Semmicht",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596427513039,
+          50.8618401815183
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Semmicht",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974943127408,
+          50.8625383812557
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Semmicht",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5893507029218,
+          50.8640314327693
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Semmicht",
+        "Hausnummer": "33",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5951576396946,
+          50.8626113938781
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Semmicht",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988024946749,
+          50.8650891911017
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5987492016076,
+          50.8658887198416
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5998911738065,
+          50.863815794622
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988431280243,
+          50.8633133973445
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599795946523,
+          50.8643604658257
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988370294956,
+          50.8639213780607
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6007016356236,
+          50.8645102486578
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5991870290008,
+          50.8644859705983
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5997795170284,
+          50.8647822582149
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Steinfeld",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5938236487801,
+          50.8618593292189
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Teichen",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6014030435168,
+          50.868950886165
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenweg",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6014217942165,
+          50.8688141575706
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenweg",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6020708350416,
+          50.8690802260105
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenweg",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6015477378566,
+          50.8690821592258
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenweg",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6018850579121,
+          50.8692569605749
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenweg",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6020187088615,
+          50.8693134250062
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenweg",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5960752868944,
+          50.8672872915381
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958364785541,
+          50.8673109654543
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5956000701678,
+          50.8673374525337
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5916901201076,
+          50.8673716879245
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59536793435,
+          50.8673502115972
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5914434848735,
+          50.8673786781257
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5951411988024,
+          50.8673561029905
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5911491744107,
+          50.8673962812821
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5948972401519,
+          50.8672890642702
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5908683729526,
+          50.8674048063201
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5943932488771,
+          50.8672456413428
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5905859350597,
+          50.8674186524425
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5902936666381,
+          50.8674159675198
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5904730159673,
+          50.86762419944
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "25a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.593788637455,
+          50.8671989306563
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5900172856563,
+          50.8674180887715
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5934974232966,
+          50.867190116867
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5892650458688,
+          50.8674415291544
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "29",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974550519302,
+          50.866983424737
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5971160334325,
+          50.867406978076
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5932174730515,
+          50.8671824559276
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "30",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5891631302899,
+          50.8674446705482
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "31",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5929381648115,
+          50.8671853703786
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889331689684,
+          50.8674588961326
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "33",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5926558863414,
+          50.8671695972237
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5886426377261,
+          50.8675134634994
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "35",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5924449962349,
+          50.8671805504732
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5884049850999,
+          50.8675763606878
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "37",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5919316404204,
+          50.8671958882008
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5916583035633,
+          50.8672056526008
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "42",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.591412922429,
+          50.8672117523803
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "44",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5911379449275,
+          50.8672199615991
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "46",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5909271270719,
+          50.8672271599846
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "48",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5962047969219,
+          50.8674832402608
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5905704064665,
+          50.867218656639
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "50",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5902585139989,
+          50.8672268715446
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "52",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5899613354975,
+          50.8672320030333
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "54",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589660222883,
+          50.8672344885365
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "56",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5893072763923,
+          50.8671500594524
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "56a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889862960237,
+          50.8672618959956
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "56b",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887037549212,
+          50.8672751255491
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "58",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881750856862,
+          50.866744311074
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "58a",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965474770148,
+          50.8672473596252
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5885337686202,
+          50.8673591542412
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "60",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958431610561,
+          50.8674582362636
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596312304468,
+          50.8672682468359
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Sande",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 79
+      }
+    }
+  ]
+}

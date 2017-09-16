@@ -1,0 +1,1557 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6303374137952,
+          50.8810124842407
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "102",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6311739261407,
+          50.880469091654
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "104",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6308278275313,
+          50.8804650696936
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "104a",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6306313485401,
+          50.8805022724296
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "104b",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6310688889798,
+          50.8808396323001
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "106",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6331329400562,
+          50.8792856230193
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "110",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6332252137398,
+          50.8795256164
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "112",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6336664416302,
+          50.8791195953407
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "114",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6247469941222,
+          50.8815972183864
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6249395201893,
+          50.8815685045625
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6249978412578,
+          50.8810252524014
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "14a",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6250615102922,
+          50.8811781367962
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "14b",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6251151256618,
+          50.8813373532185
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "14c",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6254168214218,
+          50.8814836380679
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6256281194682,
+          50.8814475312594
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6258094226125,
+          50.8814219172729
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6260213549165,
+          50.8813934974807
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626219068804,
+          50.8813608429252
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6262638252705,
+          50.8808131173167
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "26a",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6263200776436,
+          50.8809646379423
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "26b",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6263784528311,
+          50.8811226195081
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "26c",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62670070067,
+          50.8812730988131
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6237461371355,
+          50.8812178043018
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "2a",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6238027517927,
+          50.8813760979786
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "2b",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6238658501582,
+          50.881530653161
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "2c",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6269023919582,
+          50.881242253622
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6271007369666,
+          50.881214049202
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6272945665893,
+          50.8811854165539
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "34",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6274934050751,
+          50.8811522780125
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6275424685429,
+          50.8805984235469
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "38a",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6276056943437,
+          50.880756205291
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "38b",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6276651446968,
+          50.8809009141837
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "38c",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6241358472997,
+          50.8816892278228
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6279655300436,
+          50.8810687301505
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6281674514563,
+          50.8810355283565
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6283812448578,
+          50.8810049528098
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628572173509,
+          50.8809763987126
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "46",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6287701744922,
+          50.8809465093984
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "48",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6289348707741,
+          50.880683201198
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "50a",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6288772923463,
+          50.8805258526753
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "50b",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6288190565468,
+          50.8803672345666
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "50c",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6243389379522,
+          50.8816579690692
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6245365287171,
+          50.8816303239076
+        ]
+      },
+      "properties": {
+        "Strasse": "Liselotte-Herrmann-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6232877080084,
+          50.8809204458281
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6271729308606,
+          50.879924508679
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6242753401765,
+          50.8807425465529
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6272425332475,
+          50.8798625598299
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6244739636021,
+          50.8807132238495
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6273313876154,
+          50.8798071145925
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6246706741343,
+          50.8806814316489
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6274549068972,
+          50.8797519364368
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6248716623521,
+          50.8806530597172
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627584343446,
+          50.8797182115934
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6250740738396,
+          50.8806225885484
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6277558665694,
+          50.8796898165107
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625375540335,
+          50.8806129745616
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6279252228126,
+          50.8796628487947
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6255739922334,
+          50.88058362247
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6280811303764,
+          50.8796385437854
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6257687901747,
+          50.8805527391855
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6282615930363,
+          50.8796103524287
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6259704960985,
+          50.8805215270967
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6284311236137,
+          50.8795810383721
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6261744201746,
+          50.8804918678796
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6234930308041,
+          50.8808869124995
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6285867539071,
+          50.8795575857732
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626461495794,
+          50.8804318929651
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6286671641067,
+          50.8793802597461
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6266508799974,
+          50.880399085221
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6288340229955,
+          50.8793544214625
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "34",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6268551359264,
+          50.8803686707883
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "35",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6290008866752,
+          50.8793279551452
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6270492593484,
+          50.8803366236183
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6291636740801,
+          50.8793014826635
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6272450892288,
+          50.8803097233432
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "39",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6293350734377,
+          50.8792763981086
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6275575913585,
+          50.8802414579109
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6294973049084,
+          50.8792499089185
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6278273704109,
+          50.8802030433851
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "43",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296404640554,
+          50.8792347123609
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6281076289123,
+          50.8801618479694
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "45",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629788074315,
+          50.8792316021125
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "46",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6284470189711,
+          50.8801095994144
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "47",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6299210558402,
+          50.8792492731795
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "48",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6287339350171,
+          50.8800654931952
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "49",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6236894752144,
+          50.880860119047
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6300549121555,
+          50.8792821205023
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "50",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628948334575,
+          50.880027745215
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "51",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6301637576846,
+          50.8793334151537
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "52",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302677200245,
+          50.8793949508523
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "54",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6311759748511,
+          50.8799541075416
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "56",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6300074997652,
+          50.8800540941482
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "58",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6262196684437,
+          50.8800277153593
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296642436551,
+          50.8802493756401
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "60",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6238874416987,
+          50.8808260130142
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6271021692687,
+          50.8800250215538
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6240876699337,
+          50.8807986377802
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 61
+      }
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6316873011121,
+          50.88145008222
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.633444236626,
+          50.8821516832927
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6326055823648,
+          50.8822755196568
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6323440257899,
+          50.8823171802736
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6321760478279,
+          50.882341462052
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6320160255391,
+          50.8823641326014
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6318608064421,
+          50.8823885439454
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6316843266061,
+          50.8824190398984
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6315140443103,
+          50.8824464858105
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6312759985382,
+          50.8825071711006
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6310223306019,
+          50.8825438345453
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6307718578326,
+          50.8825809175261
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6332737432556,
+          50.8821761565337
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6306078043875,
+          50.8826090992821
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6304788085587,
+          50.8826486024757
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6303698259559,
+          50.8826976980382
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "35",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302710889398,
+          50.8827639337
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302040670716,
+          50.8828340364316
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "39",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6301498323756,
+          50.8829179913746
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6331112960057,
+          50.8822001603642
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6329329238085,
+          50.8822254443772
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6327761016266,
+          50.8822514609758
+        ]
+      },
+      "properties": {
+        "Strasse": "Dorothea-Veit-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6291857673134,
+          50.8816119270193
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "111",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6321693989812,
+          50.8819092972756
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6309142857991,
+          50.8820953119215
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6306725544876,
+          50.8821633268688
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6304255509877,
+          50.8821991052046
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630168854212,
+          50.8822387266694
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6300020392145,
+          50.8822669729288
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6298692586672,
+          50.8823018619545
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6297423101507,
+          50.8823578199532
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296330708425,
+          50.8824200320234
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629561444465,
+          50.8824937340608
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6295115037151,
+          50.8825775120981
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6319174909645,
+          50.881946685852
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6316628905448,
+          50.8819865308409
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6314006490232,
+          50.8820251487811
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631150569142,
+          50.8820619976807
+        ]
+      },
+      "properties": {
+        "Strasse": "Judith-Auer-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6282882022533,
+          50.8832687822638
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlegelstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6291885132982,
+          50.8832154881727
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlegelstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6279280470182,
+          50.8842597289205
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlegelstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6291123067537,
+          50.883650841109
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlegelstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6278369284897,
+          50.8850488703723
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlegelstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6290221293478,
+          50.884149249909
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlegelstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6289501827573,
+          50.8845873294681
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlegelstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6283163807167,
+          50.8819212331756
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "50",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6285625450231,
+          50.8818819957922
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "52",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6288071041192,
+          50.8818462315837
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "54",
+        "PLZ": "07747",
+        "Wahllokal": 63
+      }
+    }
+  ]
+}

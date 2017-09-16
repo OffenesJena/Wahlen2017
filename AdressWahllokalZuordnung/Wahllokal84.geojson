@@ -1,0 +1,789 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5502922609932,
+          50.9750030495868
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Borngarten",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5504041569308,
+          50.9747950253807
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Borngarten",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5500722105708,
+          50.9746290196404
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Borngarten",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5500628056245,
+          50.9741015632981
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Borngarten",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5493181243412,
+          50.97530917294
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5515514725806,
+          50.9754317294048
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5512233958446,
+          50.9755504797571
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5510055867491,
+          50.9755979818471
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "11a",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5517347988724,
+          50.97546707822
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5515048677681,
+          50.9755964410593
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5520820185027,
+          50.9755758160345
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5517339745475,
+          50.9756392257164
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5524437513952,
+          50.975659530329
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5522230151171,
+          50.9757811198194
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5526983972512,
+          50.9757098839973
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5529915341543,
+          50.9756355983117
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "18a",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5525899095333,
+          50.9758665883961
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5488824305542,
+          50.9751300446605
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5527081839672,
+          50.9760018844481
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5541104117865,
+          50.976024879862
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5527950553682,
+          50.9759005060879
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5531946672935,
+          50.9759938103615
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5518651097261,
+          50.9770183334651
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "29",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5497563408313,
+          50.9753623490275
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5499225917007,
+          50.9754426889433
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "3a",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5491176995373,
+          50.9750664353288
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5502922599509,
+          50.9752649109464
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5495276919971,
+          50.9752048544871
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5505812792636,
+          50.9753961550813
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5505979490758,
+          50.9751039330594
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5508270903625,
+          50.9755699842719
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gönnabach",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5516067837676,
+          50.97482650447
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.551992264311,
+          50.9748723369347
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "10a",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5509120257888,
+          50.9745961792828
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5514186519581,
+          50.9749838730975
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.550564187225,
+          50.9744029860921
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5506287663462,
+          50.9749622473038
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5520266099886,
+          50.974251987703
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5516594024248,
+          50.9744510216248
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5519406690201,
+          50.9744181976988
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5513549203043,
+          50.9747779209081
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5518383593967,
+          50.9744905088371
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5509572115437,
+          50.974905090916
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5516125900749,
+          50.9746594459173
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5507980183707,
+          50.974879235889
+        ]
+      },
+      "properties": {
+        "Strasse": "In der Schweiz",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5500624086935,
+          50.9753483080581
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Windmühle",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5505416957348,
+          50.9756179232461
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Windmühle",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5502203754257,
+          50.9755760582379
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Windmühle",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5478716225428,
+          50.9805755522847
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Windmühle",
+        "Hausnummer": "45",
+        "PLZ": "07751",
+        "Wahllokal": 84
+      }
+    }
+  ]
+}

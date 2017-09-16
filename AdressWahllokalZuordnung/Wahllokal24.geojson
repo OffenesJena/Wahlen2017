@@ -1,0 +1,1205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5963582260923,
+          50.9502175004344
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977434314285,
+          50.9508612925686
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5978328801557,
+          50.951200637136
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "2a",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5979616339256,
+          50.9513148151771
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "2b",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5980931608025,
+          50.9514302904105
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "2c",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5968731260043,
+          50.9508101689068
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598322496461,
+          50.9516402134899
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "4a",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5984546981645,
+          50.9517529221421
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "4b",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5985842250332,
+          50.9518606775191
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "4c",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5989470833523,
+          50.95213867573
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "4d",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.600310496685,
+          50.9528072096777
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "4g",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5973526827695,
+          50.9513624336714
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5979314917438,
+          50.9518937784737
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5985544837029,
+          50.9524254877235
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitzer Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024031367728,
+          50.9524824571612
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6034161740907,
+          50.9529772563651
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038174775849,
+          50.9532277143397
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.603998964155,
+          50.9532768604188
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6041845641831,
+          50.9533276561308
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6025967499016,
+          50.952537570411
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6027697215075,
+          50.9525868153438
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6030559654235,
+          50.9528689577056
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6032325880634,
+          50.9529225020935
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5964404332496,
+          50.9512156558455
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5956872421977,
+          50.9517896476356
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5961051163591,
+          50.9510015754641
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "1a",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958348101361,
+          50.9507647526273
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "1b",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5955951487936,
+          50.9505702660435
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "1c",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966098022069,
+          50.9513919498681
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596402456726,
+          50.9514632711355
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5944465366352,
+          50.9513307377152
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "59a",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5962046767842,
+          50.9515549944957
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5945683007241,
+          50.9515011262996
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "61a",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5959694774152,
+          50.9516124959632
+        ]
+      },
+      "properties": {
+        "Strasse": "Rödigenweg",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974315904107,
+          50.9525478765626
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "25",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5971246406496,
+          50.9522870987779
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "25a",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5968786941271,
+          50.9520918134163
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "25b",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965132275566,
+          50.9519473255129
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "25d",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958372876423,
+          50.952324371128
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "29a",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5955549991242,
+          50.9519373358017
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "29b",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5959446680804,
+          50.9520933421437
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "29c",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5943981980628,
+          50.9522482161305
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "31a",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5951361404328,
+          50.9526873021954
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "31e",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5961164721318,
+          50.9531201747703
+        ]
+      },
+      "properties": {
+        "Strasse": "Sachseneckweg",
+        "Hausnummer": "49",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5968749942273,
+          50.9495292086255
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "47",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5968275056318,
+          50.9497861511901
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "49",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970965858261,
+          50.9493896774212
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "50",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5972366995539,
+          50.9495012910745
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "52",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5972340145956,
+          50.9500516965509
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "53",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5973736852873,
+          50.9496011271615
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "54",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5976056593067,
+          50.9500723096422
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "55",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5976424712241,
+          50.9498220684282
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "56",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977767255888,
+          50.950226681082
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "57",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977785242164,
+          50.9499312763892
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "58",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5979178576452,
+          50.9504064772823
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "59",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5979109937629,
+          50.9500435641048
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "60",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5981784046878,
+          50.950259144899
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "62",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983072540021,
+          50.9503673566945
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "64",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983258790253,
+          50.9509307860048
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "65",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5984443989931,
+          50.9504839835758
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "66",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5984641242164,
+          50.9510454390484
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "67",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598750151674,
+          50.9507450236866
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "68",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5985934192953,
+          50.9511517913464
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "69",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988853846658,
+          50.9508558906097
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "70",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988595754557,
+          50.9513755190001
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "71",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5990215259896,
+          50.9509704280076
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "72",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598993709343,
+          50.9514886742124
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "73",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5992922287341,
+          50.9511907991068
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "74",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5991251525221,
+          50.9515987188339
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "75",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599427398286,
+          50.951296091973
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "76",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5994758978946,
+          50.9517891040858
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "77",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5995739201545,
+          50.9514068708809
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "78",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5996174792846,
+          50.9518937175197
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "79",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5997554938922,
+          50.9519961432333
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "81",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5998963774476,
+          50.9524181113991
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "83",
+        "PLZ": "07743",
+        "Wahllokal": 24
+      }
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6216709244703,
+          50.8852251556276
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Klinikum",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6175753378533,
+          50.8874969130282
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "101",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6199495770469,
+          50.8845166259231
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "103",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6207349103806,
+          50.8826673758687
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6211807499126,
+          50.8819845518026
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6195782124665,
+          50.8831063064039
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6198159559553,
+          50.8829036109988
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6203499435986,
+          50.8820650668352
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6196592558659,
+          50.882081164218
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6186865747936,
+          50.8814648262451
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6184184399285,
+          50.8818521506593
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6182152528908,
+          50.882024007303
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6180241980308,
+          50.8821777579343
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6179201814122,
+          50.8824526449753
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6181919517322,
+          50.8825872637718
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6184701507246,
+          50.882723098456
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6187354394325,
+          50.8828565981508
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6184637972243,
+          50.8834922857547
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6194403978727,
+          50.8835831650665
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6191419713221,
+          50.8838292884092
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61938161722,
+          50.8819500809833
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619136150926,
+          50.8817938242397
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6188495664893,
+          50.8816576550629
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6185900895987,
+          50.8817163508092
+        ]
+      },
+      "properties": {
+        "Strasse": "Salvador-Allende-Platz",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 66
+      }
+    }
+  ]
+}

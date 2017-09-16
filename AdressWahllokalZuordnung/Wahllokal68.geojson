@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5759110717124,
+          50.9010973009237
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757984203838,
+          50.9008209451793
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5816040105706,
+          50.8953139215668
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5738155731162,
+          50.901919421811
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5746163199805,
+          50.9016137030108
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754051118509,
+          50.9018331671353
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.574755230837,
+          50.9012527323126
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.574641900404,
+          50.9009798607625
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "12a",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757254113104,
+          50.9017808216612
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.575214088808,
+          50.9015328060308
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5761159659998,
+          50.9017282960058
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754208412566,
+          50.9014825942101
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57637060749,
+          50.9017237263062
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.575592117391,
+          50.9014660107471
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5765552097364,
+          50.9016672781278
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5740471246942,
+          50.9020950371425
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "1a",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5734779045455,
+          50.9014730763045
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757633341552,
+          50.9014481233987
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5768570097652,
+          50.9016196225843
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5734104936763,
+          50.9011789500799
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "2a",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5742905402055,
+          50.9020459620267
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5740520816693,
+          50.9016958459924
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5746331844149,
+          50.9019767554251
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5742630933931,
+          50.901649614582
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5749669672089,
+          50.9019589908653
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5744338767012,
+          50.9016326265164
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5751489080696,
+          50.9019278582582
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5804985176852,
+          50.8978646734002
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolstädter Strasse",
+        "Hausnummer": "58",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5817215880178,
+          50.8969449744138
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolstädter Strasse",
+        "Hausnummer": "60",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5822587951813,
+          50.8964580493035
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolstädter Strasse",
+        "Hausnummer": "62",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5798917270924,
+          50.8971587576053
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5793629019728,
+          50.8979418913747
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5790719956953,
+          50.8983422954244
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5786503353421,
+          50.8986393139832
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578469119877,
+          50.8985960526624
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5783131524109,
+          50.8985588059105
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5781550050499,
+          50.8985252995416
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5799368115305,
+          50.8973508438054
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5798201343423,
+          50.8975036061115
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5797133636065,
+          50.8976501638349
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5790829126829,
+          50.8975525437763
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5788272978449,
+          50.8975052865776
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "9a",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5786871772604,
+          50.897530425531
+        ]
+      },
+      "properties": {
+        "Strasse": "Schomerusstrasse",
+        "Hausnummer": "9b",
+        "PLZ": "07745",
+        "Wahllokal": 68
+      }
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6129615736205,
+          50.889252353117
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6102684596095,
+          50.8896601060434
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6110540898122,
+          50.8889551916476
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6106366991501,
+          50.8889585268954
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6102472947886,
+          50.8889335068124
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6098520750195,
+          50.8889561377466
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6094528050009,
+          50.8889689898301
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61164052393,
+          50.8894775831018
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6125974889969,
+          50.8891554944844
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6114408164467,
+          50.8896935166311
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6121971128447,
+          50.8891038304167
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6112343265692,
+          50.8899032998763
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6118236249045,
+          50.8890307526555
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6103787459197,
+          50.8894260196048
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6114230111003,
+          50.8890068954965
+        ]
+      },
+      "properties": {
+        "Strasse": "Bonhoefferstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.616520647335,
+          50.8878662339138
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Schneider-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6159793104483,
+          50.8881807768521
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Schneider-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6154373487501,
+          50.8884974601426
+        ]
+      },
+      "properties": {
+        "Strasse": "Paul-Schneider-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6146919377035,
+          50.8888078011244
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Zimmermann-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.613442261316,
+          50.8897712762486
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Zimmermann-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6144501528545,
+          50.8890030477238
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Zimmermann-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6141622263685,
+          50.8891795726761
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Zimmermann-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61392613308,
+          50.8893803742508
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Zimmermann-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6136799041665,
+          50.8895777979138
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Zimmermann-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 58
+      }
+    }
+  ]
+}

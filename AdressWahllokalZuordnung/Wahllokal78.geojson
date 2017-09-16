@@ -1,0 +1,2981 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6539598528731,
+          50.8876125389355
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6537632012546,
+          50.8882763845021
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6540193656928,
+          50.8887782542876
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.654002169604,
+          50.8883964446128
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6541459404895,
+          50.8886354405383
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6540982720402,
+          50.8882669372538
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6542410901171,
+          50.8884726371057
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6545173663485,
+          50.8881405519606
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6546107039193,
+          50.8879823111103
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6546937195643,
+          50.8877881316232
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6546114858875,
+          50.8876652997377
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "29",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6537236879024,
+          50.8878428054918
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6540511665609,
+          50.8879281690221
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6535183878457,
+          50.8880766531897
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6533994203237,
+          50.888250707008
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6538403745294,
+          50.8881845126538
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6533182111282,
+          50.8883774952103
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Kulm",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6529444494443,
+          50.8878881365147
+        ]
+      },
+      "properties": {
+        "Strasse": "Hohlweg",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6528581261275,
+          50.8882588617439
+        ]
+      },
+      "properties": {
+        "Strasse": "Hohlweg",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6490359584161,
+          50.8864783201064
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6521820335273,
+          50.8882087841945
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6522676647941,
+          50.8880437093972
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6523010503776,
+          50.8879302794035
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "11a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6522771468035,
+          50.8876436320656
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6525760309093,
+          50.8875451116472
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6520353526563,
+          50.8874561936941
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6514614883639,
+          50.8873116455311
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6512501832825,
+          50.8870973138756
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6513947134274,
+          50.8866460548395
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6508694610722,
+          50.8867832475752
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.650614124473,
+          50.8866380876446
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6506389755706,
+          50.8862500281969
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "19a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6493919873008,
+          50.8865899090202
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6498054965291,
+          50.8866600223706
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "1b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6506446384877,
+          50.8867856196342
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6498947387271,
+          50.8862606994275
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6500539057899,
+          50.8867548279374
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6508104108101,
+          50.8870903782495
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.651356380542,
+          50.8874365237117
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6511505242186,
+          50.887716100689
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6511485758863,
+          50.8878841733565
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6515961396381,
+          50.8879761733346
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6517563964173,
+          50.8880159182956
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.652004806764,
+          50.8881843534214
+        ]
+      },
+      "properties": {
+        "Strasse": "Ilmnitzer Dorfstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6486756611938,
+          50.8865377900984
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Klieber",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6483945815611,
+          50.8865537002404
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Klieber",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.648005976297,
+          50.8865793098616
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Klieber",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6555570722019,
+          50.8860419627209
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6553279876547,
+          50.8859684985117
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "10a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6554713450045,
+          50.8863609092491
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6559119369841,
+          50.8865240010875
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "11a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6562163245326,
+          50.8865570117658
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "11b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6557159852118,
+          50.8858082005585
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6554835109247,
+          50.8857877430295
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "12a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6557418680256,
+          50.8861879365824
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.656091090252,
+          50.8862713407012
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "13a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6563574081215,
+          50.8863235064699
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "13b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6557995083899,
+          50.8855732131098
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6555858582752,
+          50.8855121451095
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "14a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6558979911364,
+          50.8853082892739
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6556683372567,
+          50.8853114939089
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "16a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6558688499055,
+          50.8859859727181
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6562081453222,
+          50.8860976822758
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "19a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6565556984971,
+          50.886105160355
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "19b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.654990661562,
+          50.8868236230991
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6559770813051,
+          50.8857612199023
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6563776492952,
+          50.8858050608514
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "21a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6566762759373,
+          50.8859270937643
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "21b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.656778195585,
+          50.884842648636
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6571384021269,
+          50.8848908622277
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6560914255127,
+          50.885458612145
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6565004347721,
+          50.8855823108165
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "25a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6568003882426,
+          50.8856158885243
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "25b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6562137405796,
+          50.8852406907845
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6566992540928,
+          50.8853210410624
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "27a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6569405270167,
+          50.8853880194062
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "27b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6581735618535,
+          50.8859640460235
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6553079172544,
+          50.8869083598194
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6581263350869,
+          50.8861275892309
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "30",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.656497066565,
+          50.8850844967992
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "31",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6580750102115,
+          50.8862709585771
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6569105352207,
+          50.8850267502524
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "33",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6579545738729,
+          50.886450580116
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6571286171438,
+          50.8850507612559
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "35",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6578275712302,
+          50.8865600439068
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.657411323788,
+          50.8851086841553
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "37",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6577107407092,
+          50.8866659704683
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "38",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6575823254186,
+          50.8851975455145
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "39",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.655635990413,
+          50.8870071334861
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "3a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6560085128297,
+          50.8870174054873
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "3b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6550369446002,
+          50.8866453149356
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6575992131085,
+          50.8868104485995
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6577038913948,
+          50.8853595117506
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "41",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6578163932333,
+          50.8855521828854
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "41a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6573383750928,
+          50.8854597866621
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "41b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6574782859395,
+          50.8869348871441
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "42",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6578866331355,
+          50.8858054961784
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "43",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6575613036765,
+          50.8857947680644
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "43a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6572012219398,
+          50.8857009346988
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "43b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6573916049126,
+          50.8870975004549
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "44",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6579117981025,
+          50.8859159655155
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "45",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6573442136885,
+          50.8872551624983
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "46",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6578964006172,
+          50.8860781336995
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "47",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6574384060074,
+          50.887402397433
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "48",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6578188372508,
+          50.8862125406945
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "49",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6574324507773,
+          50.886035860089
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "49a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6570705147089,
+          50.8860154213842
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "49b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6548618118322,
+          50.8866021311656
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "4a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6553502043476,
+          50.8866841726884
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6575521111228,
+          50.8875403548159
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "50",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.657692355038,
+          50.8863881875553
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "51",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6572446122698,
+          50.8862934912342
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "51a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6569061222248,
+          50.8862046529905
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "51b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6575826033675,
+          50.8865188779869
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "53",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6574726410744,
+          50.8866479112871
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "55",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6567408081552,
+          50.8864416798417
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "57b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6572767689138,
+          50.8868670068709
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "59",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6569164111888,
+          50.8867364681838
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "59a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6565819760967,
+          50.8866612181404
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "59b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6558271706186,
+          50.886726757701
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "5a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6560921682417,
+          50.8868359123196
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "5b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6551809838062,
+          50.8863896654939
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6571325468782,
+          50.8870456844478
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "65",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6567500389363,
+          50.8869450380514
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "65a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6564161524811,
+          50.8869103544966
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "65b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6570696715459,
+          50.8872692278016
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "67",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6568118251809,
+          50.8872615673428
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "67a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6565771716171,
+          50.8872051211999
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "67b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6563448723726,
+          50.8871025261045
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "67c",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6549440702817,
+          50.8863756948023
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "6a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.657134660819,
+          50.887632741005
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "77",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5228669658117,
+          50.9623125172989
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "77",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6568302731841,
+          50.8875603124369
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "79",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6553283008029,
+          50.8862179483541
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6566706547708,
+          50.8875220731328
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "81",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6565457453363,
+          50.8874920377587
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "83",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6563935017804,
+          50.8874628808205
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "85",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6563194530736,
+          50.8874369364333
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "87",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6562341844471,
+          50.8874191526548
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "89",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6550998861569,
+          50.8861555925578
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "8a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6554430388165,
+          50.8864806954194
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6561526285074,
+          50.8873990730077
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "91",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6560637080661,
+          50.8873817782758
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "93",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6559793065671,
+          50.8873741747865
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "95",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.655725182316,
+          50.8873121261442
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "97",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6554730339543,
+          50.8872801890403
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Halben Äckern",
+        "Hausnummer": "99",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6561737431106,
+          50.8847020266487
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6560791159997,
+          50.8843037920175
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6570242290692,
+          50.8838070571108
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6561736327315,
+          50.8841637946426
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6572252699417,
+          50.883996869774
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6570142986612,
+          50.8840593925065
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "13a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6562619436481,
+          50.8840096210858
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6573784424346,
+          50.8841345554294
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6564004366721,
+          50.8838680627849
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6573795650533,
+          50.8844537125996
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6570713731218,
+          50.8843890614428
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "17a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6565517693952,
+          50.8837545683207
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6573647252088,
+          50.8846213796679
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.656256960521,
+          50.8847193125591
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6563284273481,
+          50.8847317710116
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "1b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6564117269123,
+          50.884737873676
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "1c",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6558393771257,
+          50.8849223833506
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6567130693517,
+          50.8836541804851
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6569632941072,
+          50.8835290540202
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "20a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6572155936741,
+          50.8834113763224
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "20b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6571000585014,
+          50.8845597227259
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6570820783293,
+          50.8836608546683
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6573945186538,
+          50.8835336977298
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "22a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6572321616883,
+          50.8837859267851
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6575936124981,
+          50.8836416132989
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "24a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6574381199396,
+          50.8839298275829
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6577377263875,
+          50.8837419443109
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "26a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6575818539487,
+          50.8840305446461
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6578827513261,
+          50.88391824659
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "28a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.656280802618,
+          50.8844531117342
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.657719787363,
+          50.8841999713772
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "30",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6579828121899,
+          50.8840453811346
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "30a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6566144671186,
+          50.8844768682303
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "3a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6568662971964,
+          50.8845128777469
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "3b",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6558838123986,
+          50.8847639173766
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6563988474362,
+          50.8842274821125
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6567505799828,
+          50.8843285605472
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "5a",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6559556696138,
+          50.8846037285483
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6565514622602,
+          50.8840115212072
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.656032115161,
+          50.8844647015653
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Steingelängen",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 78
+      }
+    }
+  ]
+}

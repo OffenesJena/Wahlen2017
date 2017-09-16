@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6145958794544,
+          50.8832614212769
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6142343229305,
+          50.8817569250564
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6143159049778,
+          50.8811587852951
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "11a",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.613386445725,
+          50.8813372671373
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.613067508631,
+          50.881185365158
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "13a",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6079111771668,
+          50.8820792072088
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6143883910074,
+          50.883136550425
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "1a",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6141558370099,
+          50.8826737392469
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6077838893546,
+          50.8821909465852
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076645720358,
+          50.8822942717816
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075471909374,
+          50.8824020175886
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6074307989433,
+          50.8825071322071
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6149424211472,
+          50.8829464990872
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6153913017599,
+          50.8823836167518
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6157383298012,
+          50.8822140183779
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6149135243773,
+          50.8821330303423
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066354763013,
+          50.8820823724063
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.607701850437,
+          50.8835109549313
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6073634563949,
+          50.8833463430938
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6071138632622,
+          50.8826299594881
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6069443207435,
+          50.8825528833297
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "31",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6067792196336,
+          50.8824749229466
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "33",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066167518778,
+          50.8823998656839
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "35",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6088406690202,
+          50.8821727752589
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6090790394876,
+          50.8819680810886
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6093020722657,
+          50.8817621216485
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6099789889945,
+          50.881615254232
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6103059527318,
+          50.8817647996258
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6078607794111,
+          50.8830480440342
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6107107553955,
+          50.881945169325
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6110321904887,
+          50.8820988292741
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6113968525135,
+          50.8822577377968
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6117944583098,
+          50.8820062918904
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6128059851254,
+          50.8821902270634
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6131672352166,
+          50.8823513796956
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "28a",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6095734908515,
+          50.8823141925744
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6097425997942,
+          50.882387703624
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6099026854797,
+          50.882459058583
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6100691486677,
+          50.8825332544504
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "35",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6102330030791,
+          50.8826046440613
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6104075506513,
+          50.8826850429804
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "39",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6080863072191,
+          50.882847425858
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6105820422504,
+          50.8827653395518
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6083174217191,
+          50.8826446056417
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60861564112,
+          50.8823799359668
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 54
+      }
+    }
+  ]
+}

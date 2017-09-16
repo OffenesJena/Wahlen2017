@@ -1,0 +1,773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6231951905746,
+          50.8832550405502
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6214629391327,
+          50.8821514037111
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6217116747768,
+          50.8821148678741
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6219465229675,
+          50.8820763154201
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6221936906788,
+          50.8820089818719
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6224374847191,
+          50.8819701093079
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6226855510393,
+          50.8819335422462
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Schneller-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6225186455725,
+          50.8810301734429
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6224262404221,
+          50.8809958425131
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6223048440167,
+          50.8809657731411
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6221642864323,
+          50.8809506705386
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6220419511423,
+          50.8809523488004
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6229532311959,
+          50.8817390857857
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6218665297999,
+          50.8809777394735
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6217048092876,
+          50.8810012533032
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.621541585671,
+          50.8810278812695
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6213748718655,
+          50.8810538325113
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6212077798853,
+          50.8810773282596
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6210522790809,
+          50.8811030007449
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6208213349941,
+          50.881222706639
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6205752032217,
+          50.8812593029848
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "34",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6203306383322,
+          50.8812988792989
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6201460651214,
+          50.8813191615839
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6228922932323,
+          50.8815795571065
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6200203550918,
+          50.8813226724007
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6198714612084,
+          50.8813062237779
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6197445364967,
+          50.8812738547616
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6196299945089,
+          50.8812267297924
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "46",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6195369170676,
+          50.8811680965626
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "48",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6228275572129,
+          50.8814258860361
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6222352975881,
+          50.8814922794325
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "6a",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6219879968684,
+          50.8815274906553
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "6b",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6217406515377,
+          50.8815681755849
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "6c",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6226173955994,
+          50.8810798388705
+        ]
+      },
+      "properties": {
+        "Strasse": "Richard-Sorge-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6235460149309,
+          50.8805018184484
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6225152646102,
+          50.880353419243
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "2a",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6229957283606,
+          50.8801636740964
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "2b",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6245849008421,
+          50.8803445279754
+        ]
+      },
+      "properties": {
+        "Strasse": "Rudolf-Breitscheid-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6232560279257,
+          50.8827552661473
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6216186714499,
+          50.8833052332192
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6213771561782,
+          50.8834650212136
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6211687113998,
+          50.8836351392627
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6211385782785,
+          50.8838089849808
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6214089078507,
+          50.8839428903865
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6229316820686,
+          50.8828056384417
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6225996990252,
+          50.8828831682675
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6222705342057,
+          50.882935329987
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.621819342687,
+          50.8831400961621
+        ]
+      },
+      "properties": {
+        "Strasse": "Ziegesarstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 67
+      }
+    }
+  ]
+}

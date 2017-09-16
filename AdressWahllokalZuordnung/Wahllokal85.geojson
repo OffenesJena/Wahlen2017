@@ -1,0 +1,1013 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5527330503462,
+          50.9610559949289
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hain",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5522949245777,
+          50.9586611532788
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Rainländern",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5530039475824,
+          50.9583385183861
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Rainländern",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5524223531683,
+          50.9584350604388
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Rainländern",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5520524114674,
+          50.9594354373084
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Rainländern",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5521116471184,
+          50.9593062223677
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Rainländern",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5521901513953,
+          50.9591095466801
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Rainländern",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5522430265748,
+          50.958931613815
+        ]
+      },
+      "properties": {
+        "Strasse": "In den Rainländern",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5480520152431,
+          50.9560284511675
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5547292096381,
+          50.9593336167747
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5545600847294,
+          50.959284320265
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "10a",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5551199696345,
+          50.9592137516763
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5552709546067,
+          50.9592420747967
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5549847069657,
+          50.9595692663016
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5553555658633,
+          50.9596338279728
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5524546699089,
+          50.9595297883831
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.555444088334,
+          50.9596659146237
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5523315236192,
+          50.9596203759081
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5527718969329,
+          50.9595092031355
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5528394528779,
+          50.9597507443935
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5530742664666,
+          50.9594898726645
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5534085484956,
+          50.9593558196243
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5533867883078,
+          50.9592187709889
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "8a",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5540219331899,
+          50.9593519660411
+        ]
+      },
+      "properties": {
+        "Strasse": "Isserstedter Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.553646357789,
+          50.9598957082704
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5550569850951,
+          50.9600231344421
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5545052401065,
+          50.9600295563366
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5542880086953,
+          50.960053646476
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5543323502818,
+          50.9598226696959
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "12a",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5541347983928,
+          50.960013708792
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.553818756245,
+          50.9598103500426
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5537739057814,
+          50.9596586871826
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5535112817982,
+          50.960017541017
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5537250163234,
+          50.9601347474765
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5535260266794,
+          50.9602396360806
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5537043923149,
+          50.960387718427
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.553879981593,
+          50.9604585922955
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5546888561449,
+          50.9603257151719
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5544833286143,
+          50.9602001742087
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5548867018563,
+          50.9601241524122
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Rundling",
+        "Hausnummer": "9a",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5538681947676,
+          50.9584593520913
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Tälchen",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5535783909495,
+          50.9584091020204
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Tälchen",
+        "Hausnummer": "10a",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5535500038699,
+          50.9590845949391
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Tälchen",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.553686731371,
+          50.9590162310666
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Tälchen",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5543054573693,
+          50.9582475240781
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Tälchen",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.554159362307,
+          50.9592512825596
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.554638422126,
+          50.9584949199465
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5556903865585,
+          50.9582848006541
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5548077255423,
+          50.9583214830821
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5556306296362,
+          50.9579400815131
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5548611009326,
+          50.9582719949106
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5550871425184,
+          50.9581380105407
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5548522353101,
+          50.9579346547884
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5540756298096,
+          50.9591573698469
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5553083052324,
+          50.9579333805001
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5543912247858,
+          50.9590614190851
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5545686547341,
+          50.9590881539005
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "3a",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5542188089449,
+          50.959020869016
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5546076041913,
+          50.9588770693862
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55430769912,
+          50.9588936805649
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5547457300922,
+          50.9590387052182
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5545254238008,
+          50.9586772004165
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5551567214046,
+          50.958561989505
+        ]
+      },
+      "properties": {
+        "Strasse": "Zum Ziskauer Tal",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 85
+      }
+    }
+  ]
+}

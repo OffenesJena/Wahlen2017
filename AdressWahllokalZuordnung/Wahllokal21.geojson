@@ -1,0 +1,1621 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5973468779892,
+          50.9426787537822
+        ]
+      },
+      "properties": {
+        "Strasse": "Camburger Strasse",
+        "Hausnummer": "64",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5989602752994,
+          50.9433383726752
+        ]
+      },
+      "properties": {
+        "Strasse": "Camburger Strasse",
+        "Hausnummer": "64c",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.592380538202,
+          50.9421427114271
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "124",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5925306228922,
+          50.9422803761413
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "126",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5926959035232,
+          50.9424081734146
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "128",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5928656743074,
+          50.9425400131589
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "130",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5933236361556,
+          50.9428034715896
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "132",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5935183630714,
+          50.9429055070299
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "134",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5936896226853,
+          50.9430195869894
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "136",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5948582344541,
+          50.9436703613805
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "140",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5950884971346,
+          50.9437861820533
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "142",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5952814280018,
+          50.9438820343595
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "144",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5956588710856,
+          50.9441183541832
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "146",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.595820948513,
+          50.9442563114461
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "148",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.595973924419,
+          50.9443888975686
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "150",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5962607469281,
+          50.9446687585931
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "152",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5964012677979,
+          50.9448104519923
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "154",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965568124453,
+          50.9449573836839
+        ]
+      },
+      "properties": {
+        "Strasse": "Dornburger Strasse",
+        "Hausnummer": "156",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5953582711828,
+          50.9427512848304
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Höllein-Platz",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5944208928647,
+          50.94286242736
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Höllein-Platz",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598207622974,
+          50.944108197534
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Wolf-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5971013202355,
+          50.9446940232107
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Wolf-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5980639550866,
+          50.9442243277818
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Wolf-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5979269630785,
+          50.9443301434106
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Wolf-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5967468218416,
+          50.9444591592763
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Wolf-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5969104176281,
+          50.9445700722489
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Wolf-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966865554765,
+          50.9428222232005
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59688448798,
+          50.9429270072344
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970745893551,
+          50.9430293752341
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.597444246151,
+          50.943260901553
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5976102760931,
+          50.9433416637585
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977721325987,
+          50.9434230226324
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5981467804254,
+          50.9436244870067
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983092681133,
+          50.9437038157719
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598481243597,
+          50.9437851544504
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Kalisch-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5975751474151,
+          50.9439484842875
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "100",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977091221722,
+          50.9438410766237
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "102",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5931005820258,
+          50.9412951658231
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5932662305783,
+          50.9414120688866
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5933938058462,
+          50.9415301787724
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5930363851853,
+          50.9417532640643
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5938889865419,
+          50.9413767913259
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5928505124851,
+          50.941827400405
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "43",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.594060564841,
+          50.9412989191091
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5926687871292,
+          50.9419037398652
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "45",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5943434610712,
+          50.9417127504753
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "46",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5935058693065,
+          50.9420866832195
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "47",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5945702973265,
+          50.941627757536
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "48",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5933234907688,
+          50.9421549616586
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "49",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5935895309189,
+          50.9416945882821
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "50",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5931495429017,
+          50.9422427228051
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "51",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5937381402664,
+          50.9418073414612
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "52",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5939778317302,
+          50.9424274648456
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "53",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5938748010783,
+          50.9419165832064
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "54",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5938075875631,
+          50.9425171922916
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "55",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5940997846369,
+          50.9420719790316
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "56",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5936290947954,
+          50.9426080697444
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "57",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5942488016916,
+          50.9421724719163
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "58",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5944104296299,
+          50.9422757409873
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "60",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.595354386522,
+          50.9432013252441
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "61",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5948822161372,
+          50.9420501335295
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "62",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5956765326259,
+          50.9433780934978
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "63",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5950833804726,
+          50.9419456859945
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "64",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958606932758,
+          50.9434893397266
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "65",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596055159114,
+          50.9436068146769
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "67",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5954205646183,
+          50.9423579806223
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "68",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5963984396346,
+          50.9438017038339
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "69",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.595590886136,
+          50.9422566008735
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "70",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965861083622,
+          50.9439157206292
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "71",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5948833251358,
+          50.9425381898686
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "72",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5967790857938,
+          50.944032964494
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "73",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5971108852253,
+          50.9442317131931
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "75",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5959524614528,
+          50.9426746730738
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "76",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5973102081114,
+          50.9443542635595
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "77",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5961306579776,
+          50.9425610583565
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "78",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5975042699834,
+          50.9444649659225
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "79",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5959132977069,
+          50.9431557024898
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "80",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5961058069467,
+          50.9430252615919
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "82",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5962724470635,
+          50.9429011925579
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "84",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596384459441,
+          50.9434587980319
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "86",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59655006784,
+          50.9433522174334
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "88",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966867198823,
+          50.9432578101236
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "90",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5969163909266,
+          50.9437610326826
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "92",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970404652797,
+          50.9436512211772
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "94",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5971713188925,
+          50.943554119262
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "96",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974287725108,
+          50.9440458668547
+        ]
+      },
+      "properties": {
+        "Strasse": "Leipziger Strasse",
+        "Hausnummer": "98",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5921274241251,
+          50.9414043864235
+        ]
+      },
+      "properties": {
+        "Strasse": "Scharnhorststrasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5933310464656,
+          50.9409951540906
+        ]
+      },
+      "properties": {
+        "Strasse": "Scharnhorststrasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5935553851244,
+          50.9409058427719
+        ]
+      },
+      "properties": {
+        "Strasse": "Scharnhorststrasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5957444325333,
+          50.9415448082468
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "101",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958867136875,
+          50.9416593885525
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "103",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5960185822423,
+          50.9417655819178
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "105",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970045338664,
+          50.9420182875303
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "107",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5948422660703,
+          50.9404816156932
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "30",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5957370059426,
+          50.940875000346
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "32",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5944292366485,
+          50.9406016397553
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "89",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5945720262102,
+          50.9407421838029
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "91",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5947180915154,
+          50.9408873503909
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "93",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5951075532927,
+          50.9411139190446
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "95",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59522906413,
+          50.9412213808913
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "97",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5953680553644,
+          50.9413443012757
+        ]
+      },
+      "properties": {
+        "Strasse": "Spitzweidenweg",
+        "Hausnummer": "99",
+        "PLZ": "07743",
+        "Wahllokal": 21
+      }
+    }
+  ]
+}

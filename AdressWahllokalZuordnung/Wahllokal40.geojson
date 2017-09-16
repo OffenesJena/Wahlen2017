@@ -1,0 +1,4085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024222305492,
+          50.9266661095608
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6032368826318,
+          50.9265234501808
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6034574122742,
+          50.9264865699286
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "13",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6035555303014,
+          50.9264706593424
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038072078294,
+          50.9264472147688
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "17",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6039069698526,
+          50.9264437143457
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "19",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6023637461878,
+          50.9265159993726
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6045777856575,
+          50.926495499939
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "23",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.604694924757,
+          50.9265089220209
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "25",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6048922173396,
+          50.9265223253177
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "27",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6025315869205,
+          50.926652059305
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024659946275,
+          50.926506153374
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028189916617,
+          50.9265922093069
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6030105899446,
+          50.9264247708883
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "6",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029173389757,
+          50.9265744752566
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6031377486184,
+          50.9265400581986
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Gänseberg",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5956298672,
+          50.9249930085589
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "10",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974678860298,
+          50.9243532407779
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5981858354329,
+          50.9243852162523
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "11a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958215420163,
+          50.9250915663882
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "12",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5952174902583,
+          50.9257226041678
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5971543300719,
+          50.9240202801077
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "22",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974695083482,
+          50.9239157219198
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "24",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5978905073757,
+          50.923805008748
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "26",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988715733769,
+          50.9240891675481
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "28",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5996704423163,
+          50.9244515828505
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "34",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999739651778,
+          50.9246640082942
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "36",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6001664352083,
+          50.924719328512
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "38",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5957000813331,
+          50.9252359486418
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6005641694128,
+          50.924832789505
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "42",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008164368881,
+          50.9249371497079
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "44",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6009364112362,
+          50.9249663690718
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "46",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6011713675219,
+          50.9250298871959
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "48",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6019024065938,
+          50.9251857940907
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "52",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6020087808627,
+          50.9252071905192
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "54",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6021718734899,
+          50.9252200753093
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "56",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5962667512495,
+          50.9257348542748
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "5a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5955995859044,
+          50.9251747213954
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "6",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029111245895,
+          50.9252493151693
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "60",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6031575547928,
+          50.925251823577
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "62",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6036879799124,
+          50.9251777725852
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "64",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6037925969559,
+          50.9251498834486
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "66",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040724721253,
+          50.9250879256004
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "68",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5959303132274,
+          50.925510513012
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6042823551319,
+          50.9249770371486
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "70",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6052488949383,
+          50.9250537459963
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "74",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6050657014313,
+          50.9250520597038
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "74a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6067347058559,
+          50.9252149697671
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "75",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5954694418547,
+          50.925072469692
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596395237353,
+          50.9255590762128
+        ]
+      },
+      "properties": {
+        "Strasse": "Burgweg",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5975303153682,
+          50.9278025831314
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974502970236,
+          50.9277296223098
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5973498922688,
+          50.9276406806366
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Strasse",
+        "Hausnummer": "35",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5972932539641,
+          50.9275896076235
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5969256049505,
+          50.927394750933
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5963833652102,
+          50.9271354146609
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Ufer",
+        "Hausnummer": "12",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5960097266686,
+          50.9268371307255
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Ufer",
+        "Hausnummer": "14",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5959100001312,
+          50.9267541768476
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Ufer",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958287267004,
+          50.9266985504476
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Ufer",
+        "Hausnummer": "16",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5957054838228,
+          50.9265259212236
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Ufer",
+        "Hausnummer": "16a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.595482192956,
+          50.9263324059283
+        ]
+      },
+      "properties": {
+        "Strasse": "Camsdorfer Ufer",
+        "Hausnummer": "16b",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6003751762413,
+          50.9282790849212
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "10",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6003734218374,
+          50.9279341449188
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6001722034647,
+          50.9277836046062
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "12",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6006688056816,
+          50.9277559424443
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "13",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6019326261209,
+          50.9279038855316
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "14",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6016890052915,
+          50.9281770804776
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "14a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.600785595129,
+          50.9283217821739
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6014928811985,
+          50.9282695047546
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "17",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6000173465096,
+          50.9281916837472
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999822821468,
+          50.9283780596598
+        ]
+      },
+      "properties": {
+        "Strasse": "Fuchsturmweg",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6007518636836,
+          50.9256030541705
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6016899643383,
+          50.9264147731649
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6020503029624,
+          50.9264555398361
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6020673344031,
+          50.9266548069407
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602213393563,
+          50.9267979732518
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6011131639542,
+          50.9256499873507
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601030900739,
+          50.9258446074058
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6012781694425,
+          50.9257958940125
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601166816181,
+          50.9259643916706
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6015176118445,
+          50.9259959704123
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6013592385617,
+          50.9261259217557
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6016452257257,
+          50.9261087323413
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6015287047817,
+          50.926267846139
+        ]
+      },
+      "properties": {
+        "Strasse": "Greifbergstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965805824981,
+          50.925149724702
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974544378705,
+          50.9255837964227
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5972043430731,
+          50.9256482409899
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5975858575224,
+          50.9257025625631
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5972384912815,
+          50.9256895733955
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5976510353129,
+          50.9257527389534
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974061818458,
+          50.9258179121154
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983310974098,
+          50.9262626341629
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5976067049547,
+          50.9259770252082
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598484472748,
+          50.9264287570902
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977109548898,
+          50.9262202770477
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5986415689951,
+          50.9266221564267
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5980492529558,
+          50.9263338571252
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5987533940325,
+          50.9266947042525
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5989188003217,
+          50.9268398875023
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "24",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5982784784616,
+          50.9265993003154
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "25",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59887598713,
+          50.9264706860724
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "26",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983848577288,
+          50.9267341957863
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "27",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5989653741899,
+          50.9265292686502
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "28",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5984792203419,
+          50.9268180819734
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "29",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596769055468,
+          50.925293759007
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5992285415576,
+          50.9266522960293
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "30",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5986523356372,
+          50.9269367113858
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "31",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59931847021,
+          50.9267124982166
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "32",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988167424843,
+          50.9270559039884
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "33",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599564712264,
+          50.9267958970269
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "34",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599649544555,
+          50.9268517218146
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "36",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5998620583363,
+          50.9269607581664
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "38",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970404258463,
+          50.9250727094008
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5991327032471,
+          50.9269310417381
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "40",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5992266924746,
+          50.9269912273361
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "42",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5994361538047,
+          50.9270855605066
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "44",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5998092951915,
+          50.9273137664971
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "46",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5968082112579,
+          50.9253266411124
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999643628772,
+          50.9276456820847
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "50",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.597140382786,
+          50.9253052320488
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5969523116203,
+          50.9254458292224
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5973018383108,
+          50.9254542613908
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970572193725,
+          50.9255281978108
+        ]
+      },
+      "properties": {
+        "Strasse": "Hausbergstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966905061143,
+          50.9260199387872
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5984391523368,
+          50.9257079564287
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5962342673863,
+          50.9264538126741
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "1a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5969329364696,
+          50.9260149494934
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6005667612451,
+          50.9253891240607
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "20",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6004250848711,
+          50.9251808626218
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "20a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6001927410464,
+          50.9250078259156
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "20b",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008248748059,
+          50.9252549446701
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "22",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6018843328398,
+          50.9255191545287
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "23",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6021409021453,
+          50.9254368698983
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "25",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6022416596995,
+          50.9254331405786
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "27",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966790808443,
+          50.9262807078506
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970390765339,
+          50.926140919254
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5971793149978,
+          50.9262777482642
+        ]
+      },
+      "properties": {
+        "Strasse": "Höhenweg",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5985014029198,
+          50.925075329263
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Brauckmann-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6014298669894,
+          50.9254528291512
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6023375339584,
+          50.9259678647446
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024202280548,
+          50.9262821729875
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024727779355,
+          50.9260892363002
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6025196207531,
+          50.9261285828811
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026798195586,
+          50.9262728342822
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602725250558,
+          50.9263164089739
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6019223363959,
+          50.9256075833553
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6017341640426,
+          50.9256764640507
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6021225165438,
+          50.9257836499454
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6017918504016,
+          50.9257250305708
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6020119906883,
+          50.9259246986445
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6022579428059,
+          50.9258993861909
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602204997132,
+          50.9260962634515
+        ]
+      },
+      "properties": {
+        "Strasse": "Kirchbergstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5981809899677,
+          50.9276463070863
+        ]
+      },
+      "properties": {
+        "Strasse": "Kleine Camsdorfer Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5979641193461,
+          50.9277395424707
+        ]
+      },
+      "properties": {
+        "Strasse": "Kleine Camsdorfer Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5976615898827,
+          50.9278728886518
+        ]
+      },
+      "properties": {
+        "Strasse": "Kleine Camsdorfer Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5957333173375,
+          50.9259639767202
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958873199589,
+          50.9260728539518
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5961279968562,
+          50.9262312363576
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5957716245466,
+          50.9258056230573
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5959778896068,
+          50.9259464750574
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5962680668744,
+          50.9261437979372
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966035580076,
+          50.9266109862236
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5968619398664,
+          50.926464373337
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966837759681,
+          50.9266572755764
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "23",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5967499956414,
+          50.9267049793297
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "23a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970493875011,
+          50.9265729914398
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "24",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5967967198519,
+          50.9267572408029
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "25",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5968556028434,
+          50.92679722952
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "25a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5972312837994,
+          50.9267053015962
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "26",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5975148546981,
+          50.9264968648191
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "26a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59693554611,
+          50.9268275393639
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "27",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5969919413474,
+          50.9268698597785
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "27a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974608912478,
+          50.9268758580633
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "28",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977317821466,
+          50.9266396602266
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "28a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.597326934572,
+          50.9269989809444
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "29",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5975960447241,
+          50.9269850121521
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "30",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974526047621,
+          50.9270850646723
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "31",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5980816487881,
+          50.9270005248015
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "32a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5975568229264,
+          50.9271586050662
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "33",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5980368596056,
+          50.9272600466841
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "34",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5982948565027,
+          50.9271335278363
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "34a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5984433657257,
+          50.9272757384179
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "36a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988392291078,
+          50.9277614599683
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "38",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5992270028996,
+          50.927713538339
+        ]
+      },
+      "properties": {
+        "Strasse": "Maurerstrasse",
+        "Hausnummer": "38a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5994145307138,
+          50.9248395813379
+        ]
+      },
+      "properties": {
+        "Strasse": "Otto-Wagner-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5998918552393,
+          50.9249184281113
+        ]
+      },
+      "properties": {
+        "Strasse": "Otto-Wagner-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5993845153112,
+          50.9249630475261
+        ]
+      },
+      "properties": {
+        "Strasse": "Otto-Wagner-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5998865987999,
+          50.9250537177649
+        ]
+      },
+      "properties": {
+        "Strasse": "Otto-Wagner-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5994129849535,
+          50.9252575083123
+        ]
+      },
+      "properties": {
+        "Strasse": "Otto-Wagner-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999056985774,
+          50.9253826563008
+        ]
+      },
+      "properties": {
+        "Strasse": "Otto-Wagner-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5994491911408,
+          50.9254071050303
+        ]
+      },
+      "properties": {
+        "Strasse": "Otto-Wagner-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6049979770386,
+          50.9258555201641
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072022380021,
+          50.926930150523
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "10",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059691437543,
+          50.9260800255759
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6062183939364,
+          50.9261219047495
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "11a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072926229623,
+          50.9269644236377
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "12",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068759863667,
+          50.9266647404756
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "13",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068997917433,
+          50.9262782645073
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "13a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6069741467772,
+          50.9257969261777
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "13b",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066200833135,
+          50.9265732339637
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "13c",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6078578275831,
+          50.9270981083846
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "14",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6069923621756,
+          50.9267118386639
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6079576202715,
+          50.9271181918519
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "16",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075813934712,
+          50.9268997960574
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "17",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076949811389,
+          50.9269208511262
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "19",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056431462744,
+          50.9260353389325
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6081171139545,
+          50.9263731299869
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "25",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.608251465696,
+          50.9269502499869
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "27",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6085138943964,
+          50.9270579280986
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "29",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605112285534,
+          50.9258304132249
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6057263668521,
+          50.9260907043967
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6055610435817,
+          50.9256623671071
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60661894489,
+          50.9267154643667
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "6",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056421298835,
+          50.9257177434187
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6067108542633,
+          50.9267476486165
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6058860893693,
+          50.9260234742916
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Oberweg",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6035368821804,
+          50.9255576321901
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6055385184853,
+          50.9264720521033
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6045477642797,
+          50.9261109327745
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6042130526962,
+          50.9257083226231
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038477156211,
+          50.9255221501021
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "2a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6036243881796,
+          50.925605390985
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6037536092241,
+          50.925685094315
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "3a",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6042946088981,
+          50.9257550629902
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040148829365,
+          50.9258562498236
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6051076440109,
+          50.9262683709941
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040969737596,
+          50.9259003313786
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6051820635315,
+          50.9263166237588
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6044696242699,
+          50.9260654536223
+        ]
+      },
+      "properties": {
+        "Strasse": "Schlendorfer Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5982125382509,
+          50.9261265911417
+        ]
+      },
+      "properties": {
+        "Strasse": "Ulmerstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5980483533268,
+          50.9249887994413
+        ]
+      },
+      "properties": {
+        "Strasse": "Ulmerstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5981311425963,
+          50.9259642928004
+        ]
+      },
+      "properties": {
+        "Strasse": "Ulmerstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5980879731269,
+          50.9258009751454
+        ]
+      },
+      "properties": {
+        "Strasse": "Ulmerstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5980364511488,
+          50.9255927000546
+        ]
+      },
+      "properties": {
+        "Strasse": "Ulmerstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5978929871549,
+          50.925342683553
+        ]
+      },
+      "properties": {
+        "Strasse": "Ulmerstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602501961478,
+          50.9255472247155
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6032164464714,
+          50.9259622753246
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028566827754,
+          50.9258662467072
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033437751049,
+          50.9260772726841
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029812354868,
+          50.9259797248827
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6034092405098,
+          50.9261429529587
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6030404651725,
+          50.9260343276675
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6035272147236,
+          50.9262441471643
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.603164797754,
+          50.9261520567135
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6035862056499,
+          50.9262985061513
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6032117542854,
+          50.926193161155
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6027369100974,
+          50.9255080166957
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033489208982,
+          50.926337217521
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602556906062,
+          50.9255988288254
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029749751233,
+          50.9257407117212
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026088639056,
+          50.9256454248471
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6030309635824,
+          50.9257917438471
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026651651308,
+          50.9256980852329
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6031603853329,
+          50.9259097059167
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6027928096337,
+          50.9258091470771
+        ]
+      },
+      "properties": {
+        "Strasse": "Windbergstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07749",
+        "Wahllokal": 40
+      }
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6368725738501,
+          50.8818567272479
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6370656056318,
+          50.8818557418512
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6372422697246,
+          50.8818303653043
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.637407917167,
+          50.881803686872
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6375691172617,
+          50.8817787922473
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6360620306871,
+          50.8819804178491
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6377641144151,
+          50.8817456242205
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6379165017575,
+          50.8817247289466
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6380607712913,
+          50.8812598228039
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "24a",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6381260977377,
+          50.8814299731934
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "24b",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6381839531644,
+          50.881581394077
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "24c",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6385970377988,
+          50.8816201214466
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6387715848319,
+          50.8815945023284
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6388955907717,
+          50.8815741653357
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6390842665143,
+          50.8815423778908
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6392586580092,
+          50.8815165867717
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "34",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6393825680467,
+          50.8814994221244
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "36",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6403985478354,
+          50.8813360048037
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "37",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6396745860892,
+          50.8813894014084
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "38a",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6396120734493,
+          50.8812295531041
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "38b",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6395499454066,
+          50.8810677912644
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "38c",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6400441606501,
+          50.8808072072648
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "39",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6362696162197,
+          50.8819484174821
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6399344473007,
+          50.8807454075324
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "41",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.639806239274,
+          50.8806920858502
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "43",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6396863627217,
+          50.8806593176014
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "45",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6395279521675,
+          50.8806439178696
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "47",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6394008720223,
+          50.880643445866
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "49",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6391916788542,
+          50.8806720324942
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "51",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6390148535019,
+          50.8806987598565
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "53",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6388130783372,
+          50.8807289606069
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "55",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6386078315944,
+          50.8807597165966
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "57",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6384012459923,
+          50.8807890118492
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "59",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6364641569618,
+          50.8819193402537
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6381952490705,
+          50.8807922664879
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "61",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6379942567996,
+          50.8808269375635
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "63",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6378118365167,
+          50.8808519541075
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "65",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63760279026,
+          50.8808869574074
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "67",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6374129485182,
+          50.8809135611109
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "69",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6366602549148,
+          50.8818861454502
+        ]
+      },
+      "properties": {
+        "Strasse": "Musäusring",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 65
+      }
+    }
+  ]
+}

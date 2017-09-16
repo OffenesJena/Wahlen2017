@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.573649148597,
+          50.9032573088743
+        ]
+      },
+      "properties": {
+        "Strasse": "Buchenweg",
+        "Hausnummer": "34",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731461996571,
+          50.9020444459693
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Zucker-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5726112069389,
+          50.9015625465103
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Zucker-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571981436895,
+          50.9021801491515
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Zucker-Strasse",
+        "Hausnummer": "2a",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5720105722838,
+          50.902278749089
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Zucker-Strasse",
+        "Hausnummer": "2b",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5720394300399,
+          50.9023868398786
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Zucker-Strasse",
+        "Hausnummer": "2c",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5718443090797,
+          50.9025830303131
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Zucker-Strasse",
+        "Hausnummer": "2d",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5723305167899,
+          50.9024446378114
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedrich-Zucker-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5725256414557,
+          50.903416206869
+        ]
+      },
+      "properties": {
+        "Strasse": "Orchideenweg",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5726214516209,
+          50.9039689481114
+        ]
+      },
+      "properties": {
+        "Strasse": "Orchideenweg",
+        "Hausnummer": "11",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5726465444077,
+          50.9040776883671
+        ]
+      },
+      "properties": {
+        "Strasse": "Orchideenweg",
+        "Hausnummer": "13",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5727334462614,
+          50.9041448038021
+        ]
+      },
+      "properties": {
+        "Strasse": "Orchideenweg",
+        "Hausnummer": "15",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5725582737902,
+          50.9035359554265
+        ]
+      },
+      "properties": {
+        "Strasse": "Orchideenweg",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57258646478,
+          50.9036444141733
+        ]
+      },
+      "properties": {
+        "Strasse": "Orchideenweg",
+        "Hausnummer": "5",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.572572317577,
+          50.9037593314474
+        ]
+      },
+      "properties": {
+        "Strasse": "Orchideenweg",
+        "Hausnummer": "7",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5725962989504,
+          50.903866771076
+        ]
+      },
+      "properties": {
+        "Strasse": "Orchideenweg",
+        "Hausnummer": "9",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5712112801308,
+          50.9016184312099
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "86",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5710540482555,
+          50.9018058180203
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "88",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5710813359539,
+          50.9019131796109
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "90",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5711067395295,
+          50.9020187561029
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "92",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5710161296328,
+          50.9022951169033
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "94",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5714408513787,
+          50.9025831977298
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "96",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5716638683465,
+          50.9038314271151
+        ]
+      },
+      "properties": {
+        "Strasse": "Wacholderweg",
+        "Hausnummer": "10",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5715895226786,
+          50.9038931943521
+        ]
+      },
+      "properties": {
+        "Strasse": "Wacholderweg",
+        "Hausnummer": "12",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5713920926786,
+          50.9039128672082
+        ]
+      },
+      "properties": {
+        "Strasse": "Wacholderweg",
+        "Hausnummer": "14",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5709653621842,
+          50.9038605141686
+        ]
+      },
+      "properties": {
+        "Strasse": "Wacholderweg",
+        "Hausnummer": "16",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5722422527443,
+          50.903312766988
+        ]
+      },
+      "properties": {
+        "Strasse": "Wacholderweg",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5717795354333,
+          50.9034292082666
+        ]
+      },
+      "properties": {
+        "Strasse": "Wacholderweg",
+        "Hausnummer": "4",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571610578209,
+          50.9036243929853
+        ]
+      },
+      "properties": {
+        "Strasse": "Wacholderweg",
+        "Hausnummer": "6",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5716361522823,
+          50.9037237711503
+        ]
+      },
+      "properties": {
+        "Strasse": "Wacholderweg",
+        "Hausnummer": "8",
+        "PLZ": "07745",
+        "Wahllokal": 73
+      }
+    }
+  ]
+}

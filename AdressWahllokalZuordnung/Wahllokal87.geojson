@@ -1,0 +1,885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571428711937,
+          50.9597886324966
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731305344045,
+          50.9603991318339
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5733152467672,
+          50.9605013275472
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5735256698775,
+          50.9606201924277
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.573660335781,
+          50.9608162121933
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5738919124801,
+          50.9610722448607
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5736908902444,
+          50.9615070389502
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "14a",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5740690166245,
+          50.9615999333089
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "14b",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5736926693988,
+          50.9612624095767
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.574420979811,
+          50.9614683836171
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5745582895889,
+          50.9612407869581
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5746917095048,
+          50.960948926663
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "18a",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5752307885421,
+          50.9610781744429
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "18b",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5751630966424,
+          50.9609518542716
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "18c",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5753174468696,
+          50.960958058522
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "18d",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5756865186734,
+          50.9609731585896
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "18e",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5762497730366,
+          50.961013671581
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "18f",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5740047192747,
+          50.9610148978339
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5714957978607,
+          50.9600191137894
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5738877538432,
+          50.9607201931616
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5743268197399,
+          50.960371741563
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.573603516293,
+          50.9604916145241
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5733695055668,
+          50.9603284060903
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5727548287074,
+          50.9599777758016
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5728449270335,
+          50.9598920799791
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5732620474386,
+          50.9597224155438
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5732233997507,
+          50.9594365049086
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.572978758794,
+          50.9596389256404
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "29",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5719929044622,
+          50.9598571506649
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731036965036,
+          50.9591799948917
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "31",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5724740432301,
+          50.9597425839929
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5728137670316,
+          50.9593331421272
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "32a",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5723476885209,
+          50.9597157842074
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "33",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5722069425257,
+          50.9596883045658
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5720669552658,
+          50.9596136606614
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "35",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5720115047912,
+          50.9595071433679
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "35a",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5719155617913,
+          50.9596112035154
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5715608238451,
+          50.9594833102254
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "37a",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5713528072743,
+          50.9596150343812
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "37b",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5710311464749,
+          50.9596778848621
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "39",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5720931178437,
+          50.9598851166344
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5708102528834,
+          50.959706156225
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570533719096,
+          50.9595660047728
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "40a",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5703456506156,
+          50.9598305478707
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "41",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5704438332741,
+          50.9601081112814
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "41a",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5699916455748,
+          50.9598823906466
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "41b",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5706383214276,
+          50.9601762378776
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "42",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5709625005511,
+          50.9603005296094
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "43",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5717810996761,
+          50.9606866434844
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "46",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5730179413104,
+          50.9608386219245
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "47",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5722119002085,
+          50.9599869763048
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5723637806128,
+          50.9599643291046
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5726535075161,
+          50.9601388124009
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5727926034843,
+          50.9602157270132
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5729986564117,
+          50.960328140765
+        ]
+      },
+      "properties": {
+        "Strasse": "Closewitz",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 87
+      }
+    }
+  ]
+}

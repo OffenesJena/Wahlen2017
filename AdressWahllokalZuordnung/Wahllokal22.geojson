@@ -1,0 +1,1029 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059304489771,
+          50.9527381389696
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6067783192546,
+          50.9530645421463
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6071235533513,
+          50.9535671671843
+        ]
+      },
+      "properties": {
+        "Strasse": "Gotthard-Neumann-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028987295553,
+          50.9499601380098
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6031276599255,
+          50.950098051345
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033253380961,
+          50.9502179880915
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6036969684969,
+          50.9504415321972
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038969408663,
+          50.9505648016696
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "29a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6041054849749,
+          50.9506926392544
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "29b",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6048231499338,
+          50.9508444324105
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6050550126346,
+          50.9508538986918
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "31a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6052883975201,
+          50.9508634325707
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "31b",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056208347911,
+          50.9508856929612
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6058318628355,
+          50.9508936582158
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "33a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6060785696653,
+          50.9509029747116
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "33b",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066424952517,
+          50.950762599915
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6067106622819,
+          50.9509835365083
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "37a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6070579437916,
+          50.9507367231913
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "39",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6070240545672,
+          50.9509437613676
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "39a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072651325999,
+          50.9510845885913
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "39b",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6073778301915,
+          50.9508078035454
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076263116089,
+          50.9508454160689
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "41b",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6078517046443,
+          50.9508468319991
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "43",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6080558787779,
+          50.9507586907162
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "45",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6083545392436,
+          50.9506669829278
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "47",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.604832545828,
+          50.9525866084025
+        ]
+      },
+      "properties": {
+        "Strasse": "Ottogerd-Mühlmann-Strasse",
+        "Hausnummer": "14a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6019375800037,
+          50.9503332308143
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "101",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024323330053,
+          50.9503418849103
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "103",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6019887916314,
+          50.9508990285156
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "91",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026918508938,
+          50.9509030910129
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "93",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028953942283,
+          50.9510847016029
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "95",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6045616369786,
+          50.9509366425822
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterer Sachseneckweg",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605193018259,
+          50.951242640392
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterer Sachseneckweg",
+        "Hausnummer": "2b",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6050546046558,
+          50.9513545442988
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterer Sachseneckweg",
+        "Hausnummer": "2c",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043874543183,
+          50.9511886812474
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterer Sachseneckweg",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6039091366152,
+          50.9513015760627
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterer Sachseneckweg",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6035659320084,
+          50.9513953088897
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterer Sachseneckweg",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024523021354,
+          50.9515975419225
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6049980929777,
+          50.9516245917546
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6050582325476,
+          50.951583339589
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "10a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6036626683785,
+          50.9519394932982
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056878190898,
+          50.9515895405756
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038932931345,
+          50.9520065862907
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6061274841329,
+          50.9513907338056
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040793578499,
+          50.9520607097076
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068360718482,
+          50.9513282126146
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60462523535,
+          50.9520616403218
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6047837740743,
+          50.9521045321996
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6032666542888,
+          50.9515049754655
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6074868476497,
+          50.9511719999289
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6050008086293,
+          50.9521685118344
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6077287834926,
+          50.9511089271197
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6051653000947,
+          50.9522143537074
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "23",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6084829974379,
+          50.9509113478884
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "28",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602202505659,
+          50.9512513982571
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "2a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6025558101852,
+          50.9513525928178
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "2b",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6025991618946,
+          50.9516394892065
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6088770778869,
+          50.9506693201586
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "30",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028100314199,
+          50.9516998833524
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043483495114,
+          50.9516991605379
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6030416275023,
+          50.9517629182964
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046622863142,
+          50.9517115164064
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6047438141529,
+          50.9516783186486
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "8a",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.603505436193,
+          50.9518937547999
+        ]
+      },
+      "properties": {
+        "Strasse": "Zitzmannstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 22
+      }
+    }
+  ]
+}

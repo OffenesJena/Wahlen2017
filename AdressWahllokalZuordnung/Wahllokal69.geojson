@@ -1,0 +1,1029 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5763378645232,
+          50.9009180755377
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5758249409948,
+          50.9001946782874
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5766025898676,
+          50.8997378301897
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757892082566,
+          50.9000798602124
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5766647766507,
+          50.8996345818168
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757635949985,
+          50.8999809052366
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5767239468673,
+          50.8995363473962
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5758143087573,
+          50.8998236603824
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5767902748632,
+          50.8994262372813
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.575872471805,
+          50.8997175842534
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5768959631115,
+          50.8993381424966
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5759318030008,
+          50.8996268746939
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5769628856428,
+          50.8992266590985
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5759959071257,
+          50.899525114575
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5770354362933,
+          50.8991058113966
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5761009280622,
+          50.8994098949718
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5770789925915,
+          50.8990332471138
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5761606644118,
+          50.8993120314385
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5770518816632,
+          50.8989519055666
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5762217102617,
+          50.8992076735007
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5768925142875,
+          50.8989121242325
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5763601756855,
+          50.9001403020613
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5759032557687,
+          50.8989873611248
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5767372981178,
+          50.8988751783167
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757445132021,
+          50.8989489772503
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5765746510893,
+          50.8988346869802
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5755814023076,
+          50.8989095435615
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "34",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5752778891361,
+          50.8990192773094
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5751952362748,
+          50.8991563574898
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5751268706247,
+          50.8992697672864
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5750536410533,
+          50.8993912315762
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5749814503011,
+          50.8995109646971
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5748474103678,
+          50.8996744565979
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "46",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5746975710835,
+          50.8996385127459
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "48",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5764232149909,
+          50.9000356456249
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5745526822282,
+          50.8996037552923
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "50",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757021223175,
+          50.9004919176044
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5747925456609,
+          50.9006520449406
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "68c",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5746137427701,
+          50.9006695811902
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "68d",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5744489169783,
+          50.9006858500114
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "68e",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5755232329107,
+          50.9005129321932
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "6a",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5753518711615,
+          50.9005330659414
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "6b",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5749534688293,
+          50.9004531269409
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "6c",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5749277604255,
+          50.9003538658139
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "6d",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5749018328682,
+          50.9002537049737
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "6e",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5749691073332,
+          50.9001928292459
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "6f",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5764810153379,
+          50.8999396716256
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5758596907239,
+          50.9002973787709
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5765393491956,
+          50.8998428365745
+        ]
+      },
+      "properties": {
+        "Strasse": "Anna-Siemsen-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5765665808999,
+          50.901363017897
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5767738609234,
+          50.9012414613176
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5770114125959,
+          50.9012427215972
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5772363656366,
+          50.9010926622648
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5772829442637,
+          50.9010240281014
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5773263504086,
+          50.9009241992859
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5773958738917,
+          50.9008160510352
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "34",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5774578806984,
+          50.9007153814783
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5775131841401,
+          50.9006139955114
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5775810801614,
+          50.9005080885388
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5774983278336,
+          50.9001797960431
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5772566710865,
+          50.9001191127136
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.577021646615,
+          50.9000659632956
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "46",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5782551650051,
+          50.8993128035912
+        ]
+      },
+      "properties": {
+        "Strasse": "Max-Steenbeck-Strasse",
+        "Hausnummer": "48",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5774998829836,
+          50.8985746433666
+        ]
+      },
+      "properties": {
+        "Strasse": "Wanderslebstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07745",
+        "Wahllokal": 69
+      }
+    }
+  ]
+}

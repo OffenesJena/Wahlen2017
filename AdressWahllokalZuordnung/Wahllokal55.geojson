@@ -1,0 +1,1349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.604670642427,
+          50.8853555594076
+        ]
+      },
+      "properties": {
+        "Strasse": "Alfred-Diener-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.606598331471,
+          50.883181340773
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6063672862582,
+          50.8833831600196
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6061345407075,
+          50.8835824741021
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5997743007359,
+          50.893494376923
+        ]
+      },
+      "properties": {
+        "Strasse": "Im Wehrigt",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056536999706,
+          50.8842251369975
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076494179471,
+          50.8845259290677
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6083311832846,
+          50.8847214625613
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6025032735521,
+          50.882784103588
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033590267869,
+          50.8831296836959
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602129664967,
+          50.8921303427552
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "60",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6088421892562,
+          50.8840344538154
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6085279216613,
+          50.8838912662437
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6082068339734,
+          50.8837431289333
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6093594412981,
+          50.883842582415
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6091955283988,
+          50.8837642429145
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6090276381181,
+          50.8836874989362
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6063196712435,
+          50.8829433177832
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6088566612762,
+          50.8836077779817
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6060036319937,
+          50.8827980049623
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6086967053752,
+          50.8835356445136
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6085268485255,
+          50.8834631630605
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6083581776998,
+          50.883388258269
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059847094966,
+          50.8823521203266
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "35a",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068219844856,
+          50.8861727785321
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6082304056142,
+          50.8864090644534
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066294536586,
+          50.8886631040513
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6083770243726,
+          50.8864763716417
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068860818553,
+          50.8884260457803
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6085147674757,
+          50.8865395948414
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072496065914,
+          50.8886543026786
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072099801526,
+          50.8864648518779
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6073568421091,
+          50.8865364707452
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072332861691,
+          50.8858077120162
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "1a",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076369414981,
+          50.8861366372381
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075104465131,
+          50.8866029896625
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076614643351,
+          50.8866735343488
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6078168628441,
+          50.8867445482412
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6079621681515,
+          50.8868109346518
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6081266279761,
+          50.886886086531
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6041201850809,
+          50.8873785779006
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068269942078,
+          50.8868291688174
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.606976942316,
+          50.8868962619984
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6071247939402,
+          50.8869639524408
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "34",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072781463807,
+          50.8870332522412
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6074362908027,
+          50.8871039612379
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6077585443494,
+          50.8861924540849
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6075871024125,
+          50.8871730183832
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6077409203208,
+          50.8872468135814
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6064172153566,
+          50.8871704752923
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6065709399947,
+          50.8872394087189
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "46",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6067276179937,
+          50.8873120823558
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "48",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038367842646,
+          50.887573577033
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068750967739,
+          50.8873785942809
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "50",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6070355447677,
+          50.8874525925858
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "52",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6071836806223,
+          50.8875188096857
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "54",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6073408244254,
+          50.8875920863289
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "56",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6060226161988,
+          50.8875089346497
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "58",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6032577447945,
+          50.8876116070222
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "5b",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6023807825983,
+          50.8891140382972
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "5h",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6079199126751,
+          50.8862665351813
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6061836645585,
+          50.8875773449197
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "60",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6063327019627,
+          50.8876477910181
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "62",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6064847324183,
+          50.8877172581944
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "64",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066383599363,
+          50.887786137262
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "66",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6067867700102,
+          50.8878552952233
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "68",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6048056720795,
+          50.8895781416302
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6069437974896,
+          50.8879238706998
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "70",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038268372711,
+          50.889501801441
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "7a",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6080736654253,
+          50.8863371117424
+        ]
+      },
+      "properties": {
+        "Strasse": "Theobald-Renner-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6087445426477,
+          50.8830345464139
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6095738930705,
+          50.8834169647794
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6097289952737,
+          50.8834884785761
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6091425450129,
+          50.8826634775423
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6093111589521,
+          50.8827399271497
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6094786616722,
+          50.8828133794241
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6096467532132,
+          50.8828929640014
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6098180130132,
+          50.8829709768212
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6099807507345,
+          50.8830468934678
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6101463790352,
+          50.8831238622603
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6089026290041,
+          50.8831074466361
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6090640707417,
+          50.8831818860104
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6092355349822,
+          50.8832609520913
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6094039847267,
+          50.8833386235255
+        ]
+      },
+      "properties": {
+        "Strasse": "Werner-Seelenbinder-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 55
+      }
+    }
+  ]
+}

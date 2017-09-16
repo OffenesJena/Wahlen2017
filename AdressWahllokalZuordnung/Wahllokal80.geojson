@@ -1,0 +1,853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5837164415292,
+          50.8684396045736
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5669573227297,
+          50.8696504764645
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5666407138365,
+          50.8697615421045
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5670663099175,
+          50.8695269264323
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "112",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5665577142186,
+          50.8700035103589
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5664082005823,
+          50.86985894962
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5662652278377,
+          50.8697076800617
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.566020528015,
+          50.8696714536424
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5654909408915,
+          50.8696220239829
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5648934056781,
+          50.8697746939886
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5645509643928,
+          50.8696474268381
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5646302112152,
+          50.8695656958623
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58458446592,
+          50.8682951260761
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "1a",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5824660501927,
+          50.8686652943292
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "1b",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5701483584924,
+          50.8704371797764
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5650170902458,
+          50.8696345906955
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5652913464008,
+          50.8695290622303
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "20a",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56605313268,
+          50.8694271968112
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "20d",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5638789507638,
+          50.8685485851922
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5642189793203,
+          50.868593648413
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "21a",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5644643958263,
+          50.868631526433
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "21b",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5657603820267,
+          50.86885683162
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5662259565139,
+          50.8687820819609
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5663594465572,
+          50.8687988565171
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5665023214461,
+          50.8688668230506
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5668374092417,
+          50.8687085827996
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5671690710645,
+          50.8687993125996
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678864893936,
+          50.8686920966322
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "27a",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5675425506074,
+          50.868730215129
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "27b",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5672766194507,
+          50.8688778804565
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5670365328294,
+          50.8688777647073
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "29",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5700937751439,
+          50.8702689447733
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5700803922323,
+          50.8701545444863
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "2b",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5702907691526,
+          50.870090910504
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "2c",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5699256018821,
+          50.8703218837302
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5668079191763,
+          50.868875129061
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "30",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5666402191945,
+          50.8689722377938
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "30a",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5670875024597,
+          50.8690145078243
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "31",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5693734031214,
+          50.8687198078329
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56760334468,
+          50.8696919522095
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "33",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5677893071657,
+          50.8697417835222
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5693752105901,
+          50.870110306694
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "3b",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5690466079015,
+          50.8701057570807
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "3c",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5687724966665,
+          50.8699692971538
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "3d",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5686630526957,
+          50.8699405288872
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "3e",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5681784235539,
+          50.8698269739348
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "3g",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5698700146082,
+          50.8705506960379
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5692088163583,
+          50.8702487700717
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5693483796835,
+          50.8702761258112
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "5a",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568527427653,
+          50.8700915721706
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5684028889741,
+          50.870058724591
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5678516950618,
+          50.8699315505898
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5672292435025,
+          50.869761798253
+        ]
+      },
+      "properties": {
+        "Strasse": "Leutra",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 80
+      }
+    }
+  ]
+}

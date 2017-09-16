@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6180168685988,
+          50.8847541088405
+        ]
+      },
+      "properties": {
+        "Strasse": "Ebereschenstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6183469997181,
+          50.8844903223662
+        ]
+      },
+      "properties": {
+        "Strasse": "Ebereschenstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6145394869467,
+          50.8847830877644
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6157161352367,
+          50.8848352640874
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6160877743508,
+          50.8849901499491
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "11a",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6148083637485,
+          50.8845721721861
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6150669949201,
+          50.8844137664526
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6153045096091,
+          50.8842167080675
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.615507473953,
+          50.8840012093932
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6135704776131,
+          50.8855840384451
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6157990085186,
+          50.8839753720929
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6161093507266,
+          50.8841321817111
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6138202333244,
+          50.8853837859887
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6140992453675,
+          50.8852112903446
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.614339909241,
+          50.8850088521476
+        ]
+      },
+      "properties": {
+        "Strasse": "Kastanienstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6172602346082,
+          50.8851128741656
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6170354038661,
+          50.8853016951916
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6168136338363,
+          50.8854894882497
+        ]
+      },
+      "properties": {
+        "Strasse": "Lindenstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6133440342676,
+          50.8866198359
+        ]
+      },
+      "properties": {
+        "Strasse": "Platanenstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6130649242203,
+          50.8864883638488
+        ]
+      },
+      "properties": {
+        "Strasse": "Platanenstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6130350141894,
+          50.8863062372008
+        ]
+      },
+      "properties": {
+        "Strasse": "Platanenstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6132847064921,
+          50.8861093767103
+        ]
+      },
+      "properties": {
+        "Strasse": "Platanenstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6145695571162,
+          50.8871426700794
+        ]
+      },
+      "properties": {
+        "Strasse": "Platanenstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6142519949053,
+          50.8865548946955
+        ]
+      },
+      "properties": {
+        "Strasse": "Platanenstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6140242835997,
+          50.8869248003968
+        ]
+      },
+      "properties": {
+        "Strasse": "Platanenstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.613670792305,
+          50.8867860997451
+        ]
+      },
+      "properties": {
+        "Strasse": "Platanenstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6154491051122,
+          50.8850661613218
+        ]
+      },
+      "properties": {
+        "Strasse": "Sanddornstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6157679779935,
+          50.8852253366218
+        ]
+      },
+      "properties": {
+        "Strasse": "Sanddornstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 57
+      }
+    }
+  ]
+}

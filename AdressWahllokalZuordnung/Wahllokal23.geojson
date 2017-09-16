@@ -1,0 +1,1045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6014973150216,
+          50.9497850308874
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5997661986194,
+          50.9489697212976
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6003957691403,
+          50.9491008810542
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599640650194,
+          50.9488533063028
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6002607499203,
+          50.9489868254679
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5995123442037,
+          50.9487349491136
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6009041595531,
+          50.9498711415641
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.601367005871,
+          50.9496721072899
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6007703330251,
+          50.9497603177217
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6012308069498,
+          50.9495540846685
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6006367190417,
+          50.9496496742278
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6011044119047,
+          50.9494445449952
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6005058698661,
+          50.9495402805034
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6005279777154,
+          50.9492125447912
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Hang",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5985482267651,
+          50.9497732658577
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "100",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5989714212166,
+          50.949896784797
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "102",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5990975436838,
+          50.9500094540296
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "104",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59924290236,
+          50.9501225575642
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "106",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5995226102848,
+          50.9507687353319
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "108",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977287077923,
+          50.9491004082038
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "90",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5978570895707,
+          50.9492062368031
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "92",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5979887904353,
+          50.9493133800723
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "94",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5982659930069,
+          50.9495392567815
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "96",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5984008763415,
+          50.9496554804404
+        ]
+      },
+      "properties": {
+        "Strasse": "Freiligrathstrasse",
+        "Hausnummer": "98",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983967976803,
+          50.9490007943232
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "63",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5985353231665,
+          50.9491169584196
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "65",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5986721671396,
+          50.9492285232959
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "67",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5995939706025,
+          50.9499774512949
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "69",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5997340948076,
+          50.9500904194438
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "71",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5998728630993,
+          50.9502022771328
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "73",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599015229432,
+          50.948866674239
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "84",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5991517095131,
+          50.9489775811344
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "86",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5992967013094,
+          50.9490932812036
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "88",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6000648150334,
+          50.9497661567043
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "90",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6001963014265,
+          50.949875345585
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "92",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6003332014393,
+          50.9499856017704
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "94",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6004700553998,
+          50.9500945384135
+        ]
+      },
+      "properties": {
+        "Strasse": "Friedenstrasse",
+        "Hausnummer": "96",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999774835091,
+          50.9480006959176
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008607508504,
+          50.9486926119921
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6010511092248,
+          50.9488035116184
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6012257372491,
+          50.9489052514976
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6015465206833,
+          50.9491004006683
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6017323494152,
+          50.9492188795352
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6018848559076,
+          50.9493769941934
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5997947545498,
+          50.9484052484847
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6001610219833,
+          50.9482452483501
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60032074669,
+          50.9483470913816
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6005069886287,
+          50.9484714613329
+        ]
+      },
+      "properties": {
+        "Strasse": "Naumburger Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6011635845471,
+          50.9511557226067
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "100",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6003554659042,
+          50.9504758214466
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "102",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6005369258727,
+          50.9505513466833
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "104",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6007175357052,
+          50.950626509173
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "106",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6009058883659,
+          50.9507048978849
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "108",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999768717904,
+          50.9515807946354
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "80",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6001682493376,
+          50.95164858781
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "82",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6003586684556,
+          50.9517220135126
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "84",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6004508465229,
+          50.951331132381
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "86",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6006547963414,
+          50.9513947877983
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "88",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008491288915,
+          50.9514565313422
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "90",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6010486288376,
+          50.9515164763975
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "92",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6005723284833,
+          50.9509715160737
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "94",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6007748870316,
+          50.9510346182093
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "96",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6009692284592,
+          50.9510951660513
+        ]
+      },
+      "properties": {
+        "Strasse": "Schützenhofstrasse",
+        "Hausnummer": "98",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5992102492283,
+          50.9483644267491
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Schützenhof",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5985213862662,
+          50.9486620283906
+        ]
+      },
+      "properties": {
+        "Strasse": "Unterm Schützenhof",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 23
+      }
+    }
+  ]
+}

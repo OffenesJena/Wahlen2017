@@ -1,0 +1,1301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5791496952009,
+          50.8945131898516
+        ]
+      },
+      "properties": {
+        "Strasse": "Bertolt-Brecht-Strasse",
+        "Hausnummer": "16b",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.579371998179,
+          50.8954250827961
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5798795391771,
+          50.8959093985308
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578567261926,
+          50.8959031024183
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5797470387331,
+          50.8959505060824
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5784126644233,
+          50.8959463041929
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5782699933071,
+          50.8960220758593
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5781202523101,
+          50.8960671636478
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5792802972009,
+          50.8960963212079
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5779742097939,
+          50.8961123643146
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5805004565604,
+          50.8956871334597
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.579137350447,
+          50.8961403748705
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5778046861472,
+          50.8961622442603
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5789768840103,
+          50.896220043039
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5776503637887,
+          50.89621134287
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5788365829535,
+          50.896263809217
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5774954505595,
+          50.8962597290019
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5786778052915,
+          50.8963152752514
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5772643239712,
+          50.8963336877511
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5785256723467,
+          50.8963596366577
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.577114875168,
+          50.8963794844509
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5792423576663,
+          50.8955259865914
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5783749949914,
+          50.8964049020234
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5769628585804,
+          50.8964274789004
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5782357055364,
+          50.8964482756055
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5767908720658,
+          50.8964784181685
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5766449412513,
+          50.8965235546526
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "35",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5778150652956,
+          50.8965798146159
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5764995089289,
+          50.8965685489338
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5776741709451,
+          50.8966229300396
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5803538024939,
+          50.8957327663858
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5775292807944,
+          50.8966693478382
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5773675279848,
+          50.8967178439285
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5772345928041,
+          50.8967593695447
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5791272366774,
+          50.8956165331109
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5802000072088,
+          50.8957806117817
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5788703153138,
+          50.8958090427707
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5800480074846,
+          50.895827906098
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5787127478252,
+          50.8958550137476
+        ]
+      },
+      "properties": {
+        "Strasse": "Ernst-Zielinski-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578871083067,
+          50.8969972549716
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5790266214919,
+          50.8969505861875
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5792745423626,
+          50.8968753703636
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5794209605098,
+          50.8968296210899
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5795746105052,
+          50.896781021117
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578250215365,
+          50.897192292537
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5797205734771,
+          50.8967336607821
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5798851334981,
+          50.8966859980371
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5800363705233,
+          50.8966384944482
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5801818524072,
+          50.8965939543869
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5803428600147,
+          50.8965441752734
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.580523502488,
+          50.8964594226787
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5806868940078,
+          50.8964068290627
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5808808485174,
+          50.896349086122
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "34",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5811944972448,
+          50.8960504523852
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5810979094753,
+          50.8959015660124
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5783891798814,
+          50.8971489447363
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5809645950325,
+          50.8957294011098
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5785453141261,
+          50.8971009393653
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5786981419828,
+          50.8970507105562
+        ]
+      },
+      "properties": {
+        "Strasse": "Hugo-Schrade-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5773446066061,
+          50.8947617825499
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5767654974528,
+          50.8951699390692
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5766456804688,
+          50.8952543805334
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576382094373,
+          50.8954485482766
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5762271339181,
+          50.8954960066813
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5760735214101,
+          50.8955421214005
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57835408618,
+          50.895097953142
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5759136310461,
+          50.8955892648786
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757628798302,
+          50.8956348322401
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "23",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5756116331768,
+          50.8956832741224
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "25",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754523396946,
+          50.8957381497643
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "27",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5753026506683,
+          50.8957809067976
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "29",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57722581996,
+          50.8948551185614
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5751486250243,
+          50.8958284840234
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "31",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5749965270018,
+          50.8958781894796
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "33",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5748336178304,
+          50.8959256890613
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "35",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5746866406171,
+          50.8959733362467
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "37",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5782303611358,
+          50.8951921173406
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5770914344513,
+          50.8949570006192
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5781054620876,
+          50.8952871670935
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5769591240298,
+          50.8950258700831
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5768530427548,
+          50.8951050758518
+        ]
+      },
+      "properties": {
+        "Strasse": "Schrödingerstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07745",
+        "Wahllokal": 72
+      }
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.604405477124,
+          50.8811379100817
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6041034174957,
+          50.8800925990393
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6048579181882,
+          50.8803412889435
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6043549401072,
+          50.8798888835511
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6049910156655,
+          50.880450135353
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6048368745563,
+          50.8797486648358
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605157864222,
+          50.8805269176043
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053313552959,
+          50.8798809563945
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053216984747,
+          50.8806023141077
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6057233933439,
+          50.879928096438
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605481869529,
+          50.8806707044861
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6031416958441,
+          50.8808833890937
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6061054258906,
+          50.879978994873
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605639177513,
+          50.8807484156968
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6063960638193,
+          50.8801452222327
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6045267699988,
+          50.8810367253181
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033595398629,
+          50.8806869069184
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046485561294,
+          50.880929231731
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6036357992761,
+          50.8805004514378
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6047704814684,
+          50.8808270600439
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038691575383,
+          50.8803003892728
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046861039426,
+          50.8802654423229
+        ]
+      },
+      "properties": {
+        "Strasse": "Binswangerstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6018138589002,
+          50.8790425303519
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6026421809983,
+          50.8796121295583
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6020401010039,
+          50.8788455937563
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028114556088,
+          50.879690208852
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024838359098,
+          50.8786963627085
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029801606995,
+          50.8797634677972
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029788569018,
+          50.878828825426
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6031394432434,
+          50.8798387080837
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6033658902526,
+          50.8788797421834
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6031997544116,
+          50.8800106143731
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6037639084079,
+          50.8789316059134
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.603077097193,
+          50.8801182295622
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040319594257,
+          50.8790869127538
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029650272368,
+          50.8802191744753
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028419424511,
+          50.8803270933825
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6027217989708,
+          50.8804349412477
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602601882994,
+          50.8805360119628
+        ]
+      },
+      "properties": {
+        "Strasse": "Hans-Berger-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 51
+      }
+    }
+  ]
+}

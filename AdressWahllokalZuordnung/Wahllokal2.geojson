@@ -1,0 +1,2453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5867027337573,
+          50.9314392691435
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876654471328,
+          50.9326005170039
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5874132081768,
+          50.9333408404314
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876833838207,
+          50.9328665660471
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5874239552048,
+          50.9334770304357
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876756240778,
+          50.9332413699755
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876951054907,
+          50.9333568228268
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876944810747,
+          50.9334479932328
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877033824247,
+          50.9335466331177
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "20",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5875306523014,
+          50.9313578155749
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5871852043396,
+          50.9317940310646
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876867164439,
+          50.9316389300796
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5865267072907,
+          50.932297201589
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5875974517128,
+          50.9318700224014
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5873761246411,
+          50.9329270278291
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5869579681048,
+          50.9329605104664
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "9a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5872035514125,
+          50.9331051661088
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Planetarium",
+        "Hausnummer": "9b",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589847068096,
+          50.9329118239738
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5891534481502,
+          50.9329312778413
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889539551365,
+          50.932941848735
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883948184367,
+          50.9329603175541
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5882428432042,
+          50.9329635857564
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5880862136316,
+          50.9329698603113
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879080033576,
+          50.9329728392529
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5882489755622,
+          50.9331349367959
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877354158187,
+          50.9329803302546
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881507139252,
+          50.9331350265509
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879315358173,
+          50.93314052425
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5897223652269,
+          50.9329130282352
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894521030484,
+          50.9329238993091
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589384006407,
+          50.932927928369
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5892148197013,
+          50.9329361988262
+        ]
+      },
+      "properties": {
+        "Strasse": "Arvid-Harnack-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5900011208303,
+          50.930258402874
+        ]
+      },
+      "properties": {
+        "Strasse": "Ballhausgasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5899037213735,
+          50.930265917582
+        ]
+      },
+      "properties": {
+        "Strasse": "Ballhausgasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5897788469367,
+          50.9302772463881
+        ]
+      },
+      "properties": {
+        "Strasse": "Ballhausgasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5896963970336,
+          50.9302860541309
+        ]
+      },
+      "properties": {
+        "Strasse": "Ballhausgasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894426413798,
+          50.9303015328298
+        ]
+      },
+      "properties": {
+        "Strasse": "Ballhausgasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5874201520328,
+          50.9306620566616
+        ]
+      },
+      "properties": {
+        "Strasse": "Bibliotheksplatz",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5891587516729,
+          50.9315469069085
+        ]
+      },
+      "properties": {
+        "Strasse": "Bibliotheksweg",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894266778482,
+          50.9316436318238
+        ]
+      },
+      "properties": {
+        "Strasse": "Bibliotheksweg",
+        "Hausnummer": "1a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5897344153527,
+          50.9317628244713
+        ]
+      },
+      "properties": {
+        "Strasse": "Bibliotheksweg",
+        "Hausnummer": "1b",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889644106949,
+          50.9312654269136
+        ]
+      },
+      "properties": {
+        "Strasse": "Bibliotheksweg",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5890190100481,
+          50.9314726847418
+        ]
+      },
+      "properties": {
+        "Strasse": "Bibliotheksweg",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58888057013,
+          50.9314135896608
+        ]
+      },
+      "properties": {
+        "Strasse": "Bibliotheksweg",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589466297822,
+          50.9315136723763
+        ]
+      },
+      "properties": {
+        "Strasse": "Bibliotheksweg",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889209670404,
+          50.9301214211856
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5888454273596,
+          50.9301292364913
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887650175072,
+          50.9301315246959
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5886997984677,
+          50.930331957979
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5885585073467,
+          50.9302514045988
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5900521386666,
+          50.9300906928872
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5880553536211,
+          50.9301353019777
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "22",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877308701991,
+          50.9301402713442
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "24",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5847696644131,
+          50.9302505829368
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "26",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58429753757,
+          50.9302453733041
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "28",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5840168817659,
+          50.9302562860392
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "30",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5837615132126,
+          50.9303553628198
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "32",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5898041016392,
+          50.9300983180035
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894802108139,
+          50.9301038875867
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589019830364,
+          50.930204188831
+        ]
+      },
+      "properties": {
+        "Strasse": "Fürstengraben",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5890100340187,
+          50.9323893742103
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5890733001045,
+          50.9320904218316
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588336929456,
+          50.9323988009719
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5888724210383,
+          50.9320944941796
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5882154350585,
+          50.9323987688609
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883254568153,
+          50.9320995244856
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879991178319,
+          50.9324003263406
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881083751082,
+          50.9321042210932
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877398070214,
+          50.9324057859628
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877251127115,
+          50.932105967504
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5898276529133,
+          50.9323827156307
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5896477537446,
+          50.9323840173281
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5896393157061,
+          50.9320851581001
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894510682165,
+          50.9323805765431
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589395119247,
+          50.9320860911233
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589263149471,
+          50.9323831259457
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5892514859842,
+          50.9320883172539
+        ]
+      },
+      "properties": {
+        "Strasse": "Käthe-Kollwitz-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.586649759538,
+          50.9336222649074
+        ]
+      },
+      "properties": {
+        "Strasse": "Kritzegraben",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5853607972199,
+          50.933633009135
+        ]
+      },
+      "properties": {
+        "Strasse": "Kritzegraben",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5851023648621,
+          50.9336091014006
+        ]
+      },
+      "properties": {
+        "Strasse": "Kritzegraben",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5866751505071,
+          50.9335066296765
+        ]
+      },
+      "properties": {
+        "Strasse": "Kritzegraben",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5866542014962,
+          50.9333666863713
+        ]
+      },
+      "properties": {
+        "Strasse": "Kritzegraben",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5901270517352,
+          50.9302476246902
+        ]
+      },
+      "properties": {
+        "Strasse": "Lutherplatz",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5903589904671,
+          50.9302049490196
+        ]
+      },
+      "properties": {
+        "Strasse": "Lutherplatz",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5835704267947,
+          50.9310076783925
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5837139294199,
+          50.9314011864583
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5842382061214,
+          50.9314937056827
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5844171160454,
+          50.9325655507178
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "20",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5844165610711,
+          50.932938394118
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "22",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5852711684676,
+          50.9330318659885
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "22a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5848948798204,
+          50.9333048230191
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "22b",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5844628247546,
+          50.9332162390977
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "24",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.584599372782,
+          50.9334380441702
+        ]
+      },
+      "properties": {
+        "Strasse": "Philosophenweg",
+        "Hausnummer": "26",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5899524789672,
+          50.9316301762172
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5899701282549,
+          50.9319711932753
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5900530382954,
+          50.9324121964506
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "12a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5900743193456,
+          50.9325346321702
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5901181976117,
+          50.9326516614574
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5901481485284,
+          50.9327853975035
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5903317264775,
+          50.9310267493587
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5903250314558,
+          50.9307861969199
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "2a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5903335800721,
+          50.9311851788565
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5902956589412,
+          50.9313033958654
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5902049221497,
+          50.9313875211517
+        ]
+      },
+      "properties": {
+        "Strasse": "Saalbahnhofstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883474555525,
+          50.9313577624786
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887761432128,
+          50.9319321514125
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5884639080287,
+          50.9325917481456
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5884765227828,
+          50.9327018723549
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887845286497,
+          50.932465188626
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588485320621,
+          50.9327963781534
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5882287563596,
+          50.9327335305938
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "15a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881321766302,
+          50.9328118258421
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "15b",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5888031042201,
+          50.9326082446562
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5885282990725,
+          50.9331786086208
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5888134189636,
+          50.9326686365503
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5885390339393,
+          50.9333083942239
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5886516119999,
+          50.9314412260448
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588546788097,
+          50.933421287917
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883649075519,
+          50.9315193391323
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887326757123,
+          50.9315891696675
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883777002395,
+          50.9316172569162
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887543756916,
+          50.9316845308095
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883800475093,
+          50.9317915538454
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887608368449,
+          50.9318142781425
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883967807849,
+          50.9319023578066
+        ]
+      },
+      "properties": {
+        "Strasse": "Sophienstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588495330228,
+          50.9336391846095
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "14a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5882900381604,
+          50.9336513255807
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881856768641,
+          50.9336534841538
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5880206971627,
+          50.9336513211696
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5880023239519,
+          50.9334832394239
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "20a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5878220315705,
+          50.9336605002936
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5871029168606,
+          50.9336530976406
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5869888400421,
+          50.933655211862
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5868621229126,
+          50.933658261136
+        ]
+      },
+      "properties": {
+        "Strasse": "St.-Jakob-Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5892302929444,
+          50.9301830307629
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "1",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5895550195668,
+          50.9309192861904
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "10",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5896043116244,
+          50.930988396161
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "11",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589638304473,
+          50.9310454700361
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "12",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5895438722991,
+          50.931150220707
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "12a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589782962683,
+          50.9312792162916
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "13",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5898705281318,
+          50.9314170018579
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "14",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5900069101038,
+          50.9314171500382
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "15",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5899243670255,
+          50.9311512793627
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "15a",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5897683957598,
+          50.9310440649013
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "16",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894910654462,
+          50.9306851875001
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "18",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894422422655,
+          50.9305899583855
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "19",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5892580821146,
+          50.930257998151
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "2",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589308039483,
+          50.930393674513
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "3",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5893230678074,
+          50.9304737118488
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "4",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5893653256317,
+          50.9306406520328
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "6",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894176341131,
+          50.930738726406
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "7",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894608102524,
+          50.9307980169081
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "8",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5888690402709,
+          50.9308924948726
+        ]
+      },
+      "properties": {
+        "Strasse": "Zwätzengasse",
+        "Hausnummer": "9",
+        "PLZ": "07743",
+        "Wahllokal": 2
+      }
+    }
+  ]
+}

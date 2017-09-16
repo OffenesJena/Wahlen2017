@@ -1,0 +1,741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6234536802718,
+          50.8836312092132
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Klinikum",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6229021328625,
+          50.8847554636146
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Klinikum",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6252805749341,
+          50.8838171206513
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6254116589082,
+          50.8838939840197
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6261467745063,
+          50.8837926728087
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "12a",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6261131663462,
+          50.8841199941785
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6262354662769,
+          50.8841902844545
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6263621074786,
+          50.8842650650477
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624789490474,
+          50.8835332429489
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6264966772699,
+          50.8843399876837
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6266468395247,
+          50.8843923395475
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6267774749405,
+          50.8844689122797
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6268991557261,
+          50.8845404583496
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6270282643569,
+          50.8846143561603
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627144886655,
+          50.8846823800843
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6272694355816,
+          50.8847525775516
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6249137230273,
+          50.8836066330824
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625044125998,
+          50.8836796653242
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6251715928914,
+          50.8837538476025
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6246453733891,
+          50.8831224014742
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6247493957581,
+          50.8824800205659
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6249069241472,
+          50.8824534417777
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6251508411455,
+          50.8824169640616
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6253582697527,
+          50.8823872905564
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6255023837613,
+          50.8823660165099
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6240678849668,
+          50.8825791209071
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6256563444778,
+          50.8823430209313
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6258327376904,
+          50.8823116831216
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6259981515827,
+          50.8822903957149
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6261801307127,
+          50.882292101246
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6263648420465,
+          50.8822635668601
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6255934829803,
+          50.8829850110555
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6265222744506,
+          50.8822416868946
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6266919992492,
+          50.8822160885113
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6268604852234,
+          50.8821907915584
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "34",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6269965163391,
+          50.8821690584001
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "36",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6271694745772,
+          50.8821108121931
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "38",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6242336043339,
+          50.8825571717847
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6273269183614,
+          50.8820856051963
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "40",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6274923878797,
+          50.8820607111982
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "42",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6276610272628,
+          50.8820392249459
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "44",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6278309129468,
+          50.8820110904683
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "46",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6279964491281,
+          50.8819848925457
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "48",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6265025470012,
+          50.882841943119
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6243934211196,
+          50.8825323539191
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6245673629598,
+          50.88250743736
+        ]
+      },
+      "properties": {
+        "Strasse": "Tieckstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 62
+      }
+    }
+  ]
+}

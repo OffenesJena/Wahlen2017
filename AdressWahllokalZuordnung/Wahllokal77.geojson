@@ -1,0 +1,3989 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627486003503,
+          50.8854323144342
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6307640169411,
+          50.8868228158418
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631265434419,
+          50.8866349736556
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6316486577505,
+          50.8868324582625
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6315127752195,
+          50.8867832400562
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "14a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6313632428201,
+          50.8873609812203
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6308501770501,
+          50.8872850531287
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "16b",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6312881607358,
+          50.8882815161368
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6313054495637,
+          50.8876269513181
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6313936438292,
+          50.8876850036738
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "18a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6316520502363,
+          50.8883873588369
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6288457058554,
+          50.8860102692496
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6319650671686,
+          50.8877710344271
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6318065745474,
+          50.8879137153178
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "20a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6317249554646,
+          50.8884378824457
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6323944904936,
+          50.887842258833
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6318895611927,
+          50.8886102902215
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6322138114623,
+          50.8880226323182
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6323075507981,
+          50.8882775433837
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "24a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6320335494122,
+          50.8887101179068
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632412396218,
+          50.8884104802229
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6330190130722,
+          50.8882125370674
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "26a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632183161262,
+          50.8889442329159
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6327132388837,
+          50.888748130272
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6323557135491,
+          50.8890898150431
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "29",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6319293357696,
+          50.8893076459051
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "29a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296654659659,
+          50.8864374242577
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "2d",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6299000444614,
+          50.8862473721931
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "2e",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6299122414139,
+          50.8865385179995
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "2f",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628755030976,
+          50.8861706186699
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6330218175714,
+          50.889022565507
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "30",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6326337404081,
+          50.8892786262788
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "31",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6333410561206,
+          50.8890677214164
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6329014610832,
+          50.8895875661167
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "33",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.633716207088,
+          50.8891143190728
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6331517811664,
+          50.8893727751351
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "35",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6333063220331,
+          50.8895644323604
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "35a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6334643634913,
+          50.889727395538
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "35b",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6335409022416,
+          50.8893343713168
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6343786576238,
+          50.8891286051738
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "36a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6337965932715,
+          50.8892777953237
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "36a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6338300346115,
+          50.8892334485564
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "36b",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6336731413913,
+          50.889966413738
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "37",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.633620839002,
+          50.8894656559153
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "38",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6337446600787,
+          50.8902001655754
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "39",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6282695241434,
+          50.8860734644184
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "3a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6301955888734,
+          50.8864932622631
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6337464901263,
+          50.8897756341376
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339528204984,
+          50.8895918778373
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "42",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339833914496,
+          50.8902659132792
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "44",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339310648079,
+          50.890151165429
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "44a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6292981994803,
+          50.8864734407345
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6291202216864,
+          50.8865847852159
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "5a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628958082694,
+          50.8862720364714
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "5b",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302066331242,
+          50.8867933264941
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6306208442566,
+          50.8865326776182
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "6a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6309354210211,
+          50.8863066398629
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "6b",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6299264321561,
+          50.8868171925925
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296252932254,
+          50.8866655934396
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "7a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6304759757171,
+          50.8869461116679
+        ]
+      },
+      "properties": {
+        "Strasse": "Alte Dorfstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6285779644682,
+          50.8884890186636
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6283128617531,
+          50.8890380108197
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6279721071024,
+          50.8891678842845
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6282034571844,
+          50.8891872120629
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6277292151688,
+          50.8893125280752
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6280361111252,
+          50.8893250685637
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6273512785675,
+          50.8892861639657
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6278719981579,
+          50.8894468931098
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6270858394558,
+          50.8892084700624
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6275429284006,
+          50.8895119978791
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6268437692637,
+          50.8891470595552
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6287918206992,
+          50.8884682141728
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6273333821408,
+          50.8894869014483
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6265461873999,
+          50.8889736048112
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6270431897202,
+          50.8893511713781
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6265635086837,
+          50.8887571308316
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6267673158566,
+          50.8892721305677
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6266945222528,
+          50.8887517733025
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6265244357583,
+          50.8892100803578
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6261327030296,
+          50.8889507308223
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628468654359,
+          50.8886018999002
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6260867662569,
+          50.8887625698313
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "30",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6261069019158,
+          50.8885979743808
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6286823193804,
+          50.8886185161508
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6283528869427,
+          50.8887413036119
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628574936728,
+          50.8887564991186
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6281970579488,
+          50.888882485544
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6284289122046,
+          50.8889085824564
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6281366121405,
+          50.8890286102433
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Freiberg",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6309591320736,
+          50.8878099978044
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6301732222845,
+          50.8883331536161
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627659231824,
+          50.8879609466391
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6300021178458,
+          50.8884295352122
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6270797707427,
+          50.8878102947142
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6267801521792,
+          50.8882150171565
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6264169713915,
+          50.8883872098968
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6260361965142,
+          50.8884327887459
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6311492561584,
+          50.8880888192516
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6272273001697,
+          50.8881319642139
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6257637021078,
+          50.888452146564
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6270185833602,
+          50.888245967868
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625507555506,
+          50.8884681442309
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6268192775441,
+          50.8883593090349
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6252771619622,
+          50.8884468192103
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6266404672964,
+          50.8884600325895
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6248629009707,
+          50.8885029609636
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630321664829,
+          50.8885842563339
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "2a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6306191943426,
+          50.8886233061793
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "2b",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6295399237111,
+          50.8881399054464
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6256511136692,
+          50.8885707057499
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6253651741768,
+          50.8886015607716
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6251465290907,
+          50.8886157154912
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6308261845544,
+          50.8880751292442
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6287357057667,
+          50.8882072994027
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6307191321089,
+          50.8882295795942
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6282269884176,
+          50.8880681498069
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302660280396,
+          50.888175336423
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6279411030273,
+          50.8880266731199
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Goethepark",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6311404752528,
+          50.8891600095966
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6311732065591,
+          50.8893804119798
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6313900945421,
+          50.8892456487137
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6314807632931,
+          50.889474648646
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6316092286047,
+          50.8893382470449
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6317138581001,
+          50.8895519335482
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6321124267233,
+          50.8895360187457
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6319044165919,
+          50.8896613244348
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632458743998,
+          50.8897160157946
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6321119206607,
+          50.8897600642117
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6319319864114,
+          50.889980128917
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "19a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6300218071951,
+          50.8887147467515
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6325791863251,
+          50.8899497778591
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6325954071327,
+          50.8898227658953
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "20a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6316845093298,
+          50.889920263342
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6323956564967,
+          50.8900695389392
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6314524572362,
+          50.8898461831823
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6322311818752,
+          50.8901581663404
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "24",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631193142971,
+          50.8897530587043
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6320095742769,
+          50.8901488015935
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "26",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6309406622031,
+          50.889661173265
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "27",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6317223450365,
+          50.8901135423887
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "28",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6298282661543,
+          50.8888468808289
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6314775009405,
+          50.8900193461722
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "30",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6312326436071,
+          50.8899311549466
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "32",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6310127014929,
+          50.8898528346877
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "34",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6308086360511,
+          50.889775060146
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "36",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6305178666331,
+          50.8897723949763
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "38",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302933735305,
+          50.888836705371
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630656983034,
+          50.8895776838936
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "40",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6307877248236,
+          50.889430038746
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "42",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6306837005078,
+          50.8890112963652
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6305448758852,
+          50.889114725288
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6308672335662,
+          50.8892676745827
+        ]
+      },
+      "properties": {
+        "Strasse": "Am König",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6295572073323,
+          50.8887629495391
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6291807247713,
+          50.8895207098429
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6295027453183,
+          50.8896620823992
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "10a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6286298950314,
+          50.8896893964952
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629004289975,
+          50.8897074687842
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6293367580671,
+          50.8898140540798
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "12a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6288230175871,
+          50.8898739308057
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6293795449205,
+          50.8889299273094
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296016710083,
+          50.8889887942236
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6292553527949,
+          50.8891335618125
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6295016181334,
+          50.8891356493066
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6290647183892,
+          50.8893585924759
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6292830035845,
+          50.8893653469147
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6289493568825,
+          50.8895108307535
+        ]
+      },
+      "properties": {
+        "Strasse": "Am Storchsacker",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6294854125728,
+          50.8856945258166
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorf-Center",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302360291793,
+          50.8854900532559
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorf-Center",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6307784749198,
+          50.8856217046354
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorf-Center",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6312681059604,
+          50.8857998314321
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorf-Center",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6316793112017,
+          50.8860321295015
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorf-Center",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6315496671342,
+          50.8862041352674
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorf-Center",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6312325163495,
+          50.8863255976292
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorf-Center",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6262615126408,
+          50.8848757238458
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "11a",
+        "PLZ": "07747",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6269853801637,
+          50.8851377297644
+        ]
+      },
+      "properties": {
+        "Strasse": "Drackendorfer Strasse",
+        "Hausnummer": "11b",
+        "PLZ": "07747",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302192756106,
+          50.8890485417825
+        ]
+      },
+      "properties": {
+        "Strasse": "Griesheimweg",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6301207428284,
+          50.8891577638783
+        ]
+      },
+      "properties": {
+        "Strasse": "Griesheimweg",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6302983836859,
+          50.8892736017628
+        ]
+      },
+      "properties": {
+        "Strasse": "Griesheimweg",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6299958412334,
+          50.8892927335747
+        ]
+      },
+      "properties": {
+        "Strasse": "Griesheimweg",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630137579869,
+          50.8894102356743
+        ]
+      },
+      "properties": {
+        "Strasse": "Griesheimweg",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629771962115,
+          50.8895207987709
+        ]
+      },
+      "properties": {
+        "Strasse": "Griesheimweg",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630112185905,
+          50.8895609472222
+        ]
+      },
+      "properties": {
+        "Strasse": "Griesheimweg",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627830712991,
+          50.8882817882331
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6275450253985,
+          50.8888989283938
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6272594584182,
+          50.8889093656428
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6274340471154,
+          50.8890506165724
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6280438715564,
+          50.8883196676159
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6277228513561,
+          50.8884342180625
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6279378213278,
+          50.8884706153525
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6275910955188,
+          50.8885869015781
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6277548833573,
+          50.8885971452676
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627344614014,
+          50.8886946951108
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6276916136587,
+          50.8887601899128
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6270343576359,
+          50.8887119147931
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6270355144555,
+          50.8887940092856
+        ]
+      },
+      "properties": {
+        "Strasse": "Helldorffweg",
+        "Hausnummer": "9a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6321276096781,
+          50.8875592247025
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6348076002554,
+          50.8866747730891
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6331771022812,
+          50.8870143121465
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6351140247538,
+          50.8865028647019
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.633378378304,
+          50.8867107251123
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6350233666254,
+          50.886321015251
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6334603489045,
+          50.8868121274639
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6340213983581,
+          50.8868427230159
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "15c",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6342985794565,
+          50.8868873687901
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "15d",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.635053737834,
+          50.8861529867855
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6346372702906,
+          50.8869111219402
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6354435893182,
+          50.8866922456754
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6350293809189,
+          50.8869184319842
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6355321765072,
+          50.8869245485935
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "19a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6318935921931,
+          50.8870733284875
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6359670007003,
+          50.8867080506608
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6362209914086,
+          50.8867108323106
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "20a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6358747901751,
+          50.8869410142365
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365936045298,
+          50.886705964768
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "22",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6362159962767,
+          50.8869246822379
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365839672427,
+          50.8869393929448
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6323301196685,
+          50.8874108942065
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6321590490805,
+          50.8868551221036
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6322339444217,
+          50.8866428111285
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "4a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6324507527031,
+          50.8873193328956
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6327082275843,
+          50.8863726275005
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6333418627685,
+          50.8864907511333
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "6a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632224115813,
+          50.8862484458761
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "6b",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6329140044489,
+          50.8865806448828
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6343665342309,
+          50.8866966676706
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6340081487594,
+          50.8866820147775
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "8a",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.633136599198,
+          50.8866373932961
+        ]
+      },
+      "properties": {
+        "Strasse": "Schafberg",
+        "Hausnummer": "9",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6325926306561,
+          50.8858676300577
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "1",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6334947129077,
+          50.8858699792634
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "10",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6336059799121,
+          50.886449468978
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "11",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6337714119882,
+          50.8859377673405
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "12",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339070943428,
+          50.8864427183313
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "13",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339619368061,
+          50.885965892774
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "14",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6337211571677,
+          50.8863425807777
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "15",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6342447480185,
+          50.8860211521131
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "16",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6334454758414,
+          50.8863040465925
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "17",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6344155728367,
+          50.8860757866869
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "18",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6334866253393,
+          50.8860335286608
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "19",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6324233957184,
+          50.8856971860677
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "2",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6344158476091,
+          50.8862363861181
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "20",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.633747498264,
+          50.8860727204589
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "21",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339810932494,
+          50.8861910652644
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "23",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6342904958125,
+          50.8863505111699
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "25",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6332698271611,
+          50.8860297477529
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "3",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6326105321443,
+          50.8857319992763
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "4",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6331756319511,
+          50.8862445166481
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "5",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6328444816381,
+          50.8857729113695
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6330316776495,
+          50.8863784700911
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6330926072641,
+          50.8858039471373
+        ]
+      },
+      "properties": {
+        "Strasse": "Zur Lämmerlaide",
+        "Hausnummer": "8",
+        "PLZ": "07751",
+        "Wahllokal": 77
+      }
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6110512883475,
+          50.8840922743727
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6111167478831,
+          50.8832388714966
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6118807634774,
+          50.8844727709548
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6113464197512,
+          50.8830433017845
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6120474699152,
+          50.884549237209
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6115820700743,
+          50.8828402474948
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6114626886932,
+          50.8837189216598
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6122416105065,
+          50.8826589292335
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6116251195172,
+          50.8837930731111
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6125616126487,
+          50.8828015235608
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6117910489943,
+          50.8838703551729
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6101395293293,
+          50.884079071743
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.612970663011,
+          50.882987883132
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6119583925944,
+          50.8839451067587
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6132903178555,
+          50.8831369374743
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6121374637473,
+          50.8840245623526
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6136051237399,
+          50.883279763433
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.612298284905,
+          50.8840994446293
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6124598742824,
+          50.8841742842832
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6118824189749,
+          50.8833563201246
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6112186431676,
+          50.8841690496053
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6120438255672,
+          50.883427105669
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "31",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6122104620164,
+          50.8835047400611
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "33",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6123766654477,
+          50.8835815367904
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "35",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6136074842954,
+          50.8838030597364
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "36",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6125508027939,
+          50.8836612630534
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "37",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6129587514412,
+          50.8844732104189
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "38",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6127146622258,
+          50.883734680613
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "39",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6103727195213,
+          50.883882618718
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6126367467361,
+          50.8847324150875
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "40",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6128777039127,
+          50.8838125358576
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "41",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6120290738266,
+          50.8852683542106
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "42",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6115615797669,
+          50.885671932695
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "44",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6113726350759,
+          50.8842396855671
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.610607382033,
+          50.8836780529524
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6115440963683,
+          50.884318334724
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6108689100222,
+          50.8834477182201
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6117159828965,
+          50.8843971827998
+        ]
+      },
+      "properties": {
+        "Strasse": "Fritz-Ritter-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6095216778797,
+          50.8852689707558
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6095156267737,
+          50.8857557291028
+        ]
+      },
+      "properties": {
+        "Strasse": "Karl-Marx-Allee",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6089283314405,
+          50.8850292078963
+        ]
+      },
+      "properties": {
+        "Strasse": "Matthias-Domaschk-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.611629511498,
+          50.8849200328803
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6108107345588,
+          50.8845339609453
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6106488277012,
+          50.88445987304
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6107562465324,
+          50.8854243734229
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6100658304551,
+          50.8856250475058
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "2a",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6114721268172,
+          50.8848452330251
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6107840944148,
+          50.8851373624223
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6113030187098,
+          50.8847687669595
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.610436625336,
+          50.8849799074242
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.611129118407,
+          50.8846893452705
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6101018742519,
+          50.8848245076505
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6109769794024,
+          50.8846179061378
+        ]
+      },
+      "properties": {
+        "Strasse": "Stauffenbergstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 56
+      }
+    }
+  ]
+}

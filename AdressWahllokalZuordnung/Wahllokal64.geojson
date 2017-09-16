@@ -1,0 +1,1461 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619757540732,
+          50.8770616017903
+        ]
+      },
+      "properties": {
+        "Strasse": "Amsterdamer Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6205868651972,
+          50.8775101565422
+        ]
+      },
+      "properties": {
+        "Strasse": "Amsterdamer Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6171349014722,
+          50.876193943437
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6169262746942,
+          50.8771442824518
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6080944280979,
+          50.8767617149515
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.614614273256,
+          50.8772198623019
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.611017916569,
+          50.877287002094
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6091344162955,
+          50.8775576077199
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6144970332484,
+          50.8767717315365
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.611153331089,
+          50.8769400803354
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6099921112541,
+          50.8767747467526
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6178619300343,
+          50.8771137691528
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6090944634843,
+          50.8768991008401
+        ]
+      },
+      "properties": {
+        "Strasse": "Brüsseler Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6336155702536,
+          50.8815570209218
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6338630678406,
+          50.8815154212741
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6341267460804,
+          50.8815051045032
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6343318932049,
+          50.8814750325805
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6345282069025,
+          50.8814462697513
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6326601915555,
+          50.8808141145256
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6347232021072,
+          50.881415273173
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6349233771661,
+          50.8813850834804
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6351755605539,
+          50.8815242325836
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "24",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6353771540335,
+          50.8814943881239
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "26",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6355755543503,
+          50.881466817853
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "28",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6357984391016,
+          50.8814325264675
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "30",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6359757879155,
+          50.8814048617446
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "32",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6361571621908,
+          50.881359181987
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "34",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6362952006078,
+          50.8813165299241
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "36",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6364240713294,
+          50.8812582011057
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "38",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6327830816161,
+          50.8810230749899
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365572110131,
+          50.8811812382043
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "40",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6366337747162,
+          50.8810879365497
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "42",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6366914763101,
+          50.8809928674633
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "44",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6376017451617,
+          50.8804587923845
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "45",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6367474765619,
+          50.8808216308679
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "46",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6367354899872,
+          50.8807183086654
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "48",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6366951937868,
+          50.8806138198311
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "50",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6366229261633,
+          50.8805168094801
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "52",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365237504935,
+          50.8804339811937
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "54",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6363959113773,
+          50.8803645024474
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "56",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6362357002724,
+          50.8803065458111
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "58",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6328671161055,
+          50.8812367405086
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6360893812625,
+          50.8802674733745
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "60",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6359136007281,
+          50.8802566517383
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "62",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6357556646937,
+          50.8802625332625
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "64",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6355897889217,
+          50.8802880939857
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "66",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6354407419057,
+          50.8803366741318
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "68",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.633357074376,
+          50.881594962953
+        ]
+      },
+      "properties": {
+        "Strasse": "Carolinenstrasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6376112868787,
+          50.8788423264655
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "150",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6378321698691,
+          50.8792376870086
+        ]
+      },
+      "properties": {
+        "Strasse": "Erlanger Allee",
+        "Hausnummer": "151",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6359033605398,
+          50.8756667285569
+        ]
+      },
+      "properties": {
+        "Strasse": "Neue Schenke",
+        "Hausnummer": "6",
+        "PLZ": "07751",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6368141336351,
+          50.8760245231104
+        ]
+      },
+      "properties": {
+        "Strasse": "Neue Schenke",
+        "Hausnummer": "7",
+        "PLZ": "07751",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365789063519,
+          50.8759054940706
+        ]
+      },
+      "properties": {
+        "Strasse": "Neue Schenke",
+        "Hausnummer": "7a",
+        "PLZ": "07751",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6376851114723,
+          50.8821583593497
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6379417342296,
+          50.8821255437203
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6381850854671,
+          50.8820871401851
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6385219100551,
+          50.8820306078914
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6387151205656,
+          50.881997001277
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "19",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6389153485947,
+          50.8819691420748
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "21",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6391133563472,
+          50.881936187839
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "23",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6393088010625,
+          50.8819057333271
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "25",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6395253415219,
+          50.8819113084137
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "27",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6397224832178,
+          50.8818818652206
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "29",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6399211820349,
+          50.8818513118383
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "31",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6401285286107,
+          50.8818177823613
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "33",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6403281706696,
+          50.8817901526516
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "35",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6369247870872,
+          50.8822773186586
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6371819541267,
+          50.8822386005476
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6374140022316,
+          50.8822030310919
+        ]
+      },
+      "properties": {
+        "Strasse": "Novalisstrasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6344995680467,
+          50.8823219719185
+        ]
+      },
+      "properties": {
+        "Strasse": "Otto-Militzer-Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623077552981,
+          50.8777481156622
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "101",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.621836999323,
+          50.8772985317342
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "102",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6247960741079,
+          50.8776062321026
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "103",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6278869577887,
+          50.8774125593642
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "105",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6295255291296,
+          50.8771947690334
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "107",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630807711369,
+          50.8769564504714
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "109",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6312864626491,
+          50.8768180702518
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "111",
+        "PLZ": "07751",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6326154632458,
+          50.8763914573881
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "117",
+        "PLZ": "07751",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6328797032421,
+          50.8763260579902
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "119",
+        "PLZ": "07751",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6330772886304,
+          50.8762828470924
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "121",
+        "PLZ": "07751",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6337590736116,
+          50.8762088462767
+        ]
+      },
+      "properties": {
+        "Strasse": "Stadtrodaer Strasse",
+        "Hausnummer": "123",
+        "PLZ": "07751",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6188412291098,
+          50.8777176650573
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "1",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6174343196093,
+          50.8783707735172
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6159149085291,
+          50.8784399612657
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6146553491072,
+          50.8783696753741
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6194455659042,
+          50.8780134728256
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6137576735347,
+          50.8773451227315
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6182746492122,
+          50.8779327869954
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6176337319562,
+          50.8779284836624
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6183328885343,
+          50.878319618063
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6156779848237,
+          50.8780973320223
+        ]
+      },
+      "properties": {
+        "Strasse": "Stockholmer Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 64
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6080331953507,
+          50.8819790280224
+        ]
+      },
+      "properties": {
+        "Strasse": "Emil-Wölk-Strasse",
+        "Hausnummer": "17",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6064341668229,
+          50.8811455305974
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "10",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076425135014,
+          50.8816638699893
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "11",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066663907613,
+          50.8809492074929
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "12",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6078196929902,
+          50.8817365471187
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "13",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6071643934113,
+          50.8808026945385
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "14",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6079896302732,
+          50.8818087152713
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "15",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076698414703,
+          50.8809306000034
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "16",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6080545852864,
+          50.8809835896951
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "18",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6054689989702,
+          50.8819441596581
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "2",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60844283539,
+          50.8810382497917
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "20",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6087983349361,
+          50.8811850052511
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "22",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6070278239952,
+          50.8813309401132
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "3",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056958524915,
+          50.8817419594993
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "4",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6071887475542,
+          50.8814050747257
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "5",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605964783797,
+          50.8815599483879
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "6",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.607329016298,
+          50.8815125106092
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "7",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6061929617568,
+          50.8813569157176
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "8",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6074953697386,
+          50.8815916340154
+        ]
+      },
+      "properties": {
+        "Strasse": "Felix-Auerbach-Strasse",
+        "Hausnummer": "9",
+        "PLZ": "07747",
+        "Wahllokal": 53
+      }
+    }
+  ]
+}
