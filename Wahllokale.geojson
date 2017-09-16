@@ -1,0 +1,1499 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Beschreibung": "Wahllokale zur Bundestagswahl 2017 in Jena",
+    "Autor": "achim@offenes-jena.de",
+    "Lizenz": "Datenlizenz Deutschland - Namensnenung 2.0",
+    "Quellen": [
+      {
+        "Autor": "Stadt Jena",
+        "URI":   "https://opendata.jena.de/dataset/wahllokale"
+      },
+      {
+        "Autor": "Stadt Jena",
+        "URI": "http://statistik.jena.de/statistik/wahl/lokal.php"
+      }
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5895664783185,
+          50.929759023589
+        ]
+      },
+      "properties": {
+        "Wahllokal": 1,
+        "Name": "Uni-Hauptgebäude",
+        "Raum": "28",
+        "Adresse": "Fürstengraben 1",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5914786353197,
+          50.9335050038553
+        ]
+      },
+      "properties": {
+        "Wahllokal": 2,
+        "Name": "IBAUPRO / WE Catering",
+        "Raum": "Saal",
+        "Adresse": "Am Anger 32",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5890810313552,
+          50.938851430074
+        ]
+      },
+      "properties": {
+        "Wahllokal": 3,
+        "Name": "Nordschule",
+        "Raum": "00.03",
+        "Adresse": "Dornburger Str. 31",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5914786353197,
+          50.9335050038553
+        ]
+      },
+      "properties": {
+        "Wahllokal": 4,
+        "Name": "IBAUPRO / WE Catering",
+        "Raum": "Saal",
+        "Adresse": "Am Anger 32",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5863360592072,
+          50.9251193460879
+        ]
+      },
+      "properties": {
+        "Wahllokal": 5,
+        "Name": "Volksbad-Anbau",
+        "Raum": "Seminarraum V",
+        "Adresse": "Knebelstr. 10",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5819342010621,
+          50.9236044998426
+        ]
+      },
+      "properties": {
+        "Wahllokal": 6,
+        "Name": "Seniorenwohnen Am Villengang",
+        "Raum": "Andachtsraum",
+        "Adresse": "Sellierstr. 8",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570227140252,
+          50.9108974078995
+        ]
+      },
+      "properties": {
+        "Wahllokal": 7,
+        "Name": "Technologie- und Innovationspark Jena",
+        "Raum": "Foyer",
+        "Adresse": "Wildenbruchstr. 15",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5622000180599,
+          50.9157011875085
+        ]
+      },
+      "properties": {
+        "Wahllokal": 8,
+        "Name": "FFW Lichtenhain",
+        "Raum": "Schulungsraum 1. Etage",
+        "Adresse": "Am Hirschberge 9",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5691006390258,
+          50.9212139538596
+        ]
+      },
+      "properties": {
+        "Wahllokal": 9,
+        "Name": "Jenaplan-Schule",
+        "Raum": "01.00.15",
+        "Adresse": "Tatzendpromenade 9",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5691006390258,
+          50.9212139538596
+        ]
+      },
+      "properties": {
+        "Wahllokal": 10,
+        "Name": "Jenaplan-Schule",
+        "Raum": "01.00.14",
+        "Adresse": "Tatzendpromenade 9",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5691006390258,
+          50.9212139538596
+        ]
+      },
+      "properties": {
+        "Wahllokal": 11,
+        "Name": "Jenaplan-Schule",
+        "Raum": "01.00.13",
+        "Adresse": "Tatzendpromenade 9",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5741938145144,
+          50.9261919993071
+        ]
+      },
+      "properties": {
+        "Wahllokal": 12,
+        "Name": "Aktion Wandlungswelten",
+        "Raum": "EG Zimmer 2",
+        "Adresse": "Forstweg 41",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5741938145144,
+          50.9261919993071
+        ]
+      },
+      "properties": {
+        "Wahllokal": 13,
+        "Name": "Aktion Wandlungswelten",
+        "Raum": "EG Zimmer 3",
+        "Adresse": "Forstweg 41",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5793085646785,
+          50.9308942005767
+        ]
+      },
+      "properties": {
+        "Wahllokal": 14,
+        "Name": "IGS Grete Unrein",
+        "Raum": "00-14",
+        "Adresse": "August-Bebel-Str. 1",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5793085646785,
+          50.9308942005767
+        ]
+      },
+      "properties": {
+        "Wahllokal": 15,
+        "Name": "IGS Grete Unrein",
+        "Raum": "00-15",
+        "Adresse": "August-Bebel-Str. 1",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5733535174678,
+          50.9321125821802
+        ]
+      },
+      "properties": {
+        "Wahllokal": 16,
+        "Name": "KITA Leutragarten",
+        "Raum": "Kinderrestaurant",
+        "Adresse": "August-Bebel-Str. 24",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5669199384888,
+          50.9341848630234
+        ]
+      },
+      "properties": {
+        "Wahllokal": 17,
+        "Name": "Ortsteilbüro Jena West",
+        "Raum": "Versammlungsraum",
+        "Adresse": "An der Weidigsmühle 10",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582415084262,
+          50.9340720012065
+        ]
+      },
+      "properties": {
+        "Wahllokal": 18,
+        "Name": "FSU Jena",
+        "Raum": "Seminarraum 5",
+        "Adresse": "Helmholtzweg 4",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5890810313552,
+          50.938851430074
+        ]
+      },
+      "properties": {
+        "Wahllokal": 19,
+        "Name": "Nordschule",
+        "Raum": "00.04",
+        "Adresse": "Dornburger Str. 31",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5890810313552,
+          50.938851430074
+        ]
+      },
+      "properties": {
+        "Wahllokal": 20,
+        "Name": "Nordschule",
+        "Raum": "00.05",
+        "Adresse": "Dornburger Str. 31",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5986251833147,
+          50.9445126107207
+        ]
+      },
+      "properties": {
+        "Wahllokal": 21,
+        "Name": "Montessorischule Jena",
+        "Raum": "Aula Raum 02-00-01",
+        "Adresse": "Friedrich-Wolf-Str. 2",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6093954255246,
+          50.952155214627
+        ]
+      },
+      "properties": {
+        "Wahllokal": 22,
+        "Name": "Carl-Zeiss-Gymnasium",
+        "Raum": "D 112",
+        "Adresse": "Erich-Kuithan-Str. 7",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029790452535,
+          50.9489403848825
+        ]
+      },
+      "properties": {
+        "Wahllokal": 23,
+        "Name": "Christliches Gymnasium",
+        "Raum": "EG 012",
+        "Adresse": "Altenburger Str. 10",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59774835757,
+          50.9508332262156
+        ]
+      },
+      "properties": {
+        "Wahllokal": 24,
+        "Name": "Begegnungszentrum Jena e. V.",
+        "Raum": "Seniorenbegegnungsstätte",
+        "Adresse": "Closewitzer Str. 2",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59774835757,
+          50.9508332262156
+        ]
+      },
+      "properties": {
+        "Wahllokal": 25,
+        "Name": "Begegnungszentrum Jena e. V.",
+        "Raum": "Bibliothek",
+        "Adresse": "Closewitzer Str. 2",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5986251833147,
+          50.9445126107207
+        ]
+      },
+      "properties": {
+        "Wahllokal": 26,
+        "Name": "Montessorischule Jena",
+        "Raum": "kleiner Speiseraum 02-00-16",
+        "Adresse": "Friedrich-Wolf-Str. 2",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6093954255246,
+          50.952155214627
+        ]
+      },
+      "properties": {
+        "Wahllokal": 27,
+        "Name": "Carl-Zeiss-Gymnasium",
+        "Raum": "D 114",
+        "Adresse": "Erich-Kuithan-Str. 7",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029790452535,
+          50.9489403848825
+        ]
+      },
+      "properties": {
+        "Wahllokal": 28,
+        "Name": "Christliches Gymnasium",
+        "Raum": "EG 004",
+        "Adresse": "Altenburger Str. 10",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6166431931996,
+          50.9576404668329
+        ]
+      },
+      "properties": {
+        "Wahllokal": 29,
+        "Name": "K u. B Verkehrs-Bildungsgesellschaft",
+        "Raum": "Raum 1",
+        "Adresse": "Naumburger Str. 141",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6166431931996,
+          50.9576404668329
+        ]
+      },
+      "properties": {
+        "Wahllokal": 30,
+        "Name": "K u. B Verkehrs-Bildungsgesellschaft",
+        "Raum": "Raum 2",
+        "Adresse": "Naumburger Str. 141",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6093954255246,
+          50.952155214627
+        ]
+      },
+      "properties": {
+        "Wahllokal": 31,
+        "Name": "Carl-Zeiss-Gymnasium",
+        "Raum": "E 103",
+        "Adresse": "Erich-Kuithan-Str. 7",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5922041109163,
+          50.8960762564281
+        ]
+      },
+      "properties": {
+        "Wahllokal": 32,
+        "Name": "Altes Gut Burgau",
+        "Raum": "Versammlungsraum 1. Etage",
+        "Adresse": "Grenzstr. 1",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977383757967,
+          50.9342237632047
+        ]
+      },
+      "properties": {
+        "Wahllokal": 33,
+        "Name": "Grundschule Heinrich Heine",
+        "Raum": "00-23",
+        "Adresse": "Dammstr. 37",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977383757967,
+          50.9342237632047
+        ]
+      },
+      "properties": {
+        "Wahllokal": 34,
+        "Name": "Grundschule Heinrich Heine",
+        "Raum": "00-28",
+        "Adresse": "Dammstr. 37",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059588459759,
+          50.9330661938851
+        ]
+      },
+      "properties": {
+        "Wahllokal": 35,
+        "Name": "Angergymnasium",
+        "Raum": "Altbau Raum 00-08",
+        "Adresse": "Karl-Liebknecht-Str. 87",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059588459759,
+          50.9330661938851
+        ]
+      },
+      "properties": {
+        "Wahllokal": 36,
+        "Name": "Angergymnasium",
+        "Raum": "Altbau Raum 00-10",
+        "Adresse": "Karl-Liebknecht-Str. 87",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6162075786418,
+          50.9305694224685
+        ]
+      },
+      "properties": {
+        "Wahllokal": 37,
+        "Name": "Gaststätte Schlegelsberg",
+        "Raum": "Saal",
+        "Adresse": "Oskar-Zachau-Str. 6",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6253913670654,
+          50.9309557052791
+        ]
+      },
+      "properties": {
+        "Wahllokal": 38,
+        "Name": "Gaststätte Zu den Fuchslöchern",
+        "Raum": "Vereinsraum",
+        "Adresse": "Fuchslöcherstr. 9",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6258814567685,
+          50.9193593708057
+        ]
+      },
+      "properties": {
+        "Wahllokal": 39,
+        "Name": "Vereinshaus Ziegenhain",
+        "Raum": "Jugendzimmer",
+        "Adresse": "Edelhofgasse 22",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974678860298,
+          50.9243532407779
+        ]
+      },
+      "properties": {
+        "Wahllokal": 40,
+        "Name": "Institut für Geowissenschaften",
+        "Raum": "Hörsaal 114",
+        "Adresse": "Burgweg 11",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046082623057,
+          50.921322786245
+        ]
+      },
+      "properties": {
+        "Wahllokal": 41,
+        "Name": "Talschule",
+        "Raum": "01.00-04",
+        "Adresse": "Ziegenhainer Str. 52",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046082623057,
+          50.921322786245
+        ]
+      },
+      "properties": {
+        "Wahllokal": 42,
+        "Name": "Talschule",
+        "Raum": "01.00-05",
+        "Adresse": "Ziegenhainer Str. 52",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5918987179834,
+          50.9233004171027
+        ]
+      },
+      "properties": {
+        "Wahllokal": 43,
+        "Name": "KGS Adolf Reichwein",
+        "Raum": "00.19",
+        "Adresse": "Wöllnitzer Str. 1",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5918987179834,
+          50.9233004171027
+        ]
+      },
+      "properties": {
+        "Wahllokal": 44,
+        "Name": "KGS Adolf Reichwein",
+        "Raum": "00.18",
+        "Adresse": "Wöllnitzer Str. 1",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5596297949111,
+          50.9039955894851
+        ]
+      },
+      "properties": {
+        "Wahllokal": 45,
+        "Name": "Kita Ammerbach",
+        "Raum": "Mehrzweckraum",
+        "Adresse": "Hahnengrundweg 7",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5783144717721,
+          50.9033861912739
+        ]
+      },
+      "properties": {
+        "Wahllokal": 46,
+        "Name": "Kita Schwabenhaus",
+        "Raum": "Speiseraum UG",
+        "Adresse": "Distelweg 1a",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5734356379795,
+          50.9048061773316
+        ]
+      },
+      "properties": {
+        "Wahllokal": 47,
+        "Name": "Ernst-Abbe-Gymnasium",
+        "Raum": "Aula",
+        "Adresse": "Ammerbacher Str. 21",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5811885001394,
+          50.8929842023431
+        ]
+      },
+      "properties": {
+        "Wahllokal": 48,
+        "Name": "Gemeinschaftsschule Galileo",
+        "Raum": "Aula",
+        "Adresse": "Oßmaritzer Str. 12",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5811885001394,
+          50.8929842023431
+        ]
+      },
+      "properties": {
+        "Wahllokal": 49,
+        "Name": "Gemeinschaftsschule Galileo",
+        "Raum": "Aula",
+        "Adresse": "Oßmaritzer Str. 12",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5902956567392,
+          50.8784160391978
+        ]
+      },
+      "properties": {
+        "Wahllokal": 50,
+        "Name": "Freie Waldorfschule Jena",
+        "Raum": "Speisesaal",
+        "Adresse": "Alte Hauptstr. 15",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056536999706,
+          50.8842251369975
+        ]
+      },
+      "properties": {
+        "Wahllokal": 51,
+        "Name": "Saaletalschule",
+        "Raum": "00.25",
+        "Adresse": "Karl-Marx-Allee 11",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056536999706,
+          50.8842251369975
+        ]
+      },
+      "properties": {
+        "Wahllokal": 52,
+        "Name": "Saaletalschule",
+        "Raum": "00.24",
+        "Adresse": "Karl-Marx-Allee 11",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056536999706,
+          50.8842251369975
+        ]
+      },
+      "properties": {
+        "Wahllokal": 53,
+        "Name": "Saaletalschule",
+        "Raum": "00.22",
+        "Adresse": "Karl-Marx-Allee 11",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6142368155423,
+          50.8817589354167
+        ]
+      },
+      "properties": {
+        "Wahllokal": 54,
+        "Name": "Schulgebäude",
+        "Raum": "Raum 7",
+        "Adresse": "Emil-Wölk-Str. 11",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6056536999706,
+          50.8842251369975
+        ]
+      },
+      "properties": {
+        "Wahllokal": 55,
+        "Name": "Saaletalschule",
+        "Raum": "00.21",
+        "Adresse": "Karl-Marx-Allee 11",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6142368155423,
+          50.8817589354167
+        ]
+      },
+      "properties": {
+        "Wahllokal": 56,
+        "Name": "Schulgebäude",
+        "Raum": "Raum 6",
+        "Adresse": "Emil-Wölk-Str. 11",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.615927383669,
+          50.8848675344751
+        ]
+      },
+      "properties": {
+        "Wahllokal": 57,
+        "Name": "AWO Schulungszentrum",
+        "Raum": "EG Seminarraum 04.01",
+        "Adresse": "Kastanienstr. 11",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6130657989583,
+          50.8909717126903
+        ]
+      },
+      "properties": {
+        "Wahllokal": 58,
+        "Name": "Lobdeburgschule Jena",
+        "Raum": "Raum 02.00-09 Aula",
+        "Adresse": "Unter der Lobdeburg 4",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6050027075151,
+          50.8932717577952
+        ]
+      },
+      "properties": {
+        "Wahllokal": 59,
+        "Name": "Ganztagsgrundschule SteinMalEins",
+        "Raum": "Speiseraum im Backsteinhaus",
+        "Adresse": "Susanne-Bohl-Str. 2",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965311486045,
+          50.9038888922577
+        ]
+      },
+      "properties": {
+        "Wahllokal": 60,
+        "Name": "Gaststätte Schöne Aussicht",
+        "Raum": "Bauernstube",
+        "Adresse": "Wöllnitzer Str. 95",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6311729689469,
+          50.8799290929675
+        ]
+      },
+      "properties": {
+        "Wahllokal": 61,
+        "Name": "SBS für Gesundheit u. Soziales",
+        "Raum": "E 18",
+        "Adresse": "Rudolf-Breitscheid-Str. 56",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6282882022533,
+          50.8832687822638
+        ]
+      },
+      "properties": {
+        "Wahllokal": 62,
+        "Name": "Seniorenzentrum Käthe Kollwitz",
+        "Raum": "Andachtsraum",
+        "Adresse": "Schlegelstr. 1",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6282882022533,
+          50.8832687822638
+        ]
+      },
+      "properties": {
+        "Wahllokal": 63,
+        "Name": "Seniorenzentrum Käthe Kollwitz",
+        "Raum": "Konferenzraum",
+        "Adresse": "Schlegelstr. 1",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6378321698691,
+          50.8792376870086
+        ]
+      },
+      "properties": {
+        "Wahllokal": 64,
+        "Name": "Schulgebäude Erlanger Alle 151",
+        "Raum": "01_14",
+        "Adresse": "Erlanger Allee 151",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6378321698691,
+          50.8792376870086
+        ]
+      },
+      "properties": {
+        "Wahllokal": 65,
+        "Name": "Schulgebäude Erlanger Alle 151",
+        "Raum": "01_15",
+        "Adresse": "Erlanger Allee 151",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6212034495595,
+          50.8819691612674
+        ]
+      },
+      "properties": {
+        "Wahllokal": 66,
+        "Name": "Seniorenbegegnungszentrum",
+        "Raum": "EG Saal",
+        "Adresse": "Ernst-Schneller-Str. 10",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6235460149309,
+          50.8805018184484
+        ]
+      },
+      "properties": {
+        "Wahllokal": 67,
+        "Name": "Wohnpark Lebenszeit",
+        "Raum": "Foyer",
+        "Adresse": "Rudolf-Breitscheid-Str. 2",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5763378619804,
+          50.9009180770557
+        ]
+      },
+      "properties": {
+        "Wahllokal": 68,
+        "Name": "Begegnungsstätte \"Alt und Jung\"",
+        "Raum": "Begegnungsraum",
+        "Adresse": "Anna-Siemsen-Str. 1",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731788735528,
+          50.8972351108861
+        ]
+      },
+      "properties": {
+        "Wahllokal": 69,
+        "Name": "Schillerschule",
+        "Raum": "Anbau großer Raum",
+        "Adresse": "Hugo-Schrade-Str. 3",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.573649148597,
+          50.9032573088743
+        ]
+      },
+      "properties": {
+        "Wahllokal": 70,
+        "Name": "Grundschule An der Trießnitz",
+        "Raum": "Aula",
+        "Adresse": "Buchenweg 34",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5751455435002,
+          50.8983457827899
+        ]
+      },
+      "properties": {
+        "Wahllokal": 71,
+        "Name": "Ortsteilrat Winzerla",
+        "Raum": "Büro Ortsteilrat",
+        "Adresse": "Anna-Siemsen-Str. 45",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731788735528,
+          50.8972351108861
+        ]
+      },
+      "properties": {
+        "Wahllokal": 72,
+        "Name": "Schillerschule",
+        "Raum": "Musikraum 00-03.01",
+        "Adresse": "Hugo-Schrade-Str. 3",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5726112069389,
+          50.9015625465103
+        ]
+      },
+      "properties": {
+        "Wahllokal": 73,
+        "Name": "Seniorenheim Am Kleinertal",
+        "Raum": "Clubraum",
+        "Adresse": "Friedrich-Zucker-Str. 2",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731788735528,
+          50.8972351108861
+        ]
+      },
+      "properties": {
+        "Wahllokal": 74,
+        "Name": "Schillerschule",
+        "Raum": "Aula",
+        "Adresse": "Hugo-Schrade-Str. 3",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6366600698228,
+          50.9548331854623
+        ]
+      },
+      "properties": {
+        "Wahllokal": 75,
+        "Name": "Alte Schule Kunitz",
+        "Raum": "Versammlungsraum 1. OG",
+        "Adresse": "Lange Str. 62",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6513581074907,
+          50.9286051944322
+        ]
+      },
+      "properties": {
+        "Wahllokal": 76,
+        "Name": "Gemeindesaal Jenaprießnitz",
+        "Raum": "Saal",
+        "Adresse": "Am Tanzsaal 6",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6319650729039,
+          50.8877710358353
+        ]
+      },
+      "properties": {
+        "Wahllokal": 77,
+        "Name": "Gemeindesaal Drackendorf",
+        "Raum": "Gemeindesaal",
+        "Adresse": "Alte Dorfstr. 20",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6520542294103,
+          50.8874485615774
+        ]
+      },
+      "properties": {
+        "Wahllokal": 78,
+        "Name": "Heimatverein Ilmnitz",
+        "Raum": "Vereinsraum",
+        "Adresse": "Ilmnitzer Dorfstr. 14",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5981461992366,
+          50.8673805501727
+        ]
+      },
+      "properties": {
+        "Wahllokal": 79,
+        "Name": "Gaststätte Goldenes Schiff",
+        "Raum": "Vereinsraum",
+        "Adresse": "Alter Handelsweg 2",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5658532,
+          50.869172
+        ]
+      },
+      "properties": {
+        "Wahllokal": 80,
+        "Name": "FFW Leutra",
+        "Raum": "Schulungsraum 1. Etage",
+        "Adresse": "Leutra 112",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5127553220166,
+          50.9290404587427
+        ]
+      },
+      "properties": {
+        "Wahllokal": 81,
+        "Name": "Feuerwehrvereinshaus Münchenroda",
+        "Raum": "Bauernstube 1. OG",
+        "Adresse": "Münchenroda 27a",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5225370120281,
+          50.9609336308393
+        ]
+      },
+      "properties": {
+        "Wahllokal": 82,
+        "Name": "Gemeindebüro Isserstedt",
+        "Raum": "Versammlungsraum",
+        "Adresse": "Am Rasen 1",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5374736476589,
+          50.9735867358751
+        ]
+      },
+      "properties": {
+        "Wahllokal": 83,
+        "Name": "FFW Vierzehnheiligen",
+        "Raum": "Schulungsraum 1. OG",
+        "Adresse": "Vierzehnheiligen 20b",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5505979490758,
+          50.9751039330594
+        ]
+      },
+      "properties": {
+        "Wahllokal": 84,
+        "Name": "FFW Krippendorf",
+        "Raum": "Schulungsraum 1. OG",
+        "Adresse": "Am Gönnabach 8",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5553486529259,
+          50.9581247841157
+        ]
+      },
+      "properties": {
+        "Wahllokal": 85,
+        "Name": "Vereinshaus Lützeroda",
+        "Raum": "Versammlungsraum",
+        "Adresse": "Zum Ziskauer Tal 11",
+        "behindertengerecht": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5573793671162,
+          50.9494802488798
+        ]
+      },
+      "properties": {
+        "Wahllokal": 86,
+        "Name": "Gemeindebüro Cospeda",
+        "Raum": "Versammlungsraum",
+        "Adresse": "Jenaer Str. 1",
+        "behindertengerecht": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5733695055668,
+          50.9603284060903
+        ]
+      },
+      "properties": {
+        "Wahllokal": 87,
+        "Name": "FFW Closewitz",
+        "Raum": "Schulungsraum 1. OG",
+        "Adresse": "Closewitz 23",
+        "behindertengerecht": false
+      }
+    }
+  ]
+}
