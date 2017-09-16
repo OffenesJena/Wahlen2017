@@ -1,0 +1,87 @@
+1	Uni-Hauptgebäude	11.5895664783185	50.929759023589	28	Fürstengraben 1	True
+2	IBAUPRO / WE Catering	11.5914786353197	50.9335050038553	Saal	Am Anger 32	True
+3	Nordschule	11.5890810313552	50.938851430074	00.03	Dornburger Str. 31	True
+4	IBAUPRO / WE Catering	11.5914786353197	50.9335050038553	Saal	Am Anger 32	True
+5	Volksbad-Anbau	11.5863360592072	50.9251193460879	Seminarraum V	Knebelstr. 10	True
+6	Seniorenwohnen Am Villengang	11.5819342010621	50.9236044998426	Andachtsraum	Sellierstr. 8	True
+7	Technologie- und Innovationspark Jena	11.570227140252	50.9108974078995	Foyer	Wildenbruchstr. 15	False
+8	FFW Lichtenhain	11.5622000180599	50.9157011875085	Schulungsraum 1. Etage	Am Hirschberge 9	False
+9	Jenaplan-Schule	11.5691006390258	50.9212139538596	01.00.15	Tatzendpromenade 9	True
+10	Jenaplan-Schule	11.5691006390258	50.9212139538596	01.00.14	Tatzendpromenade 9	True
+11	Jenaplan-Schule	11.5691006390258	50.9212139538596	01.00.13	Tatzendpromenade 9	True
+12	Aktion Wandlungswelten	11.5741938145144	50.9261919993071	EG Zimmer 2	Forstweg 41	False
+13	Aktion Wandlungswelten	11.5741938145144	50.9261919993071	EG Zimmer 3	Forstweg 41	False
+14	IGS Grete Unrein	50.9308942005767	11.5793085646785	00-14	August-Bebel-Str. 1	True
+15	IGS Grete Unrein	50.9308942005767	11.5793085646785	00-15	August-Bebel-Str. 1	True
+16	KITA Leutragarten	11.5733535174678	50.9321125821802	Kinderrestaurant	August-Bebel-Str. 24	True
+17	Ortsteilbüro Jena West	11.5669199384888	50.9341848630234	Versammlungsraum	An der Weidigsmühle 10	True
+18	FSU Jena	11.582415084262	50.9340720012065	Seminarraum 5	Helmholtzweg 4	True
+19	Nordschule	11.5890810313552	50.938851430074	00.04	Dornburger Str. 31	True
+20	Nordschule	11.5890810313552	50.938851430074	00.05	Dornburger Str. 31	True
+21	Montessorischule Jena	11.5986251833147	50.9445126107207	Aula Raum 02-00-01	Friedrich-Wolf-Str. 2	True
+22	Carl-Zeiss-Gymnasium	11.6093954255246	50.952155214627	D 112	Erich-Kuithan-Str. 7	True
+23	Christliches Gymnasium	11.6029790452535	50.9489403848825	EG 012	Altenburger Str. 10	True
+24	Begegnungszentrum Jena e. V.	11.59774835757	50.9508332262156	Seniorenbegegnungsstätte	Closewitzer Str. 2	False
+25	Begegnungszentrum Jena e. V.	11.59774835757	50.9508332262156	Bibliothek	Closewitzer Str. 2	False
+26	Montessorischule Jena	11.5986251833147	50.9445126107207	kleiner Speiseraum 02-00-16	Friedrich-Wolf-Str. 2	True
+27	Carl-Zeiss-Gymnasium	11.6093954255246	50.952155214627	D 114	Erich-Kuithan-Str. 7	True
+28	Christliches Gymnasium	11.6029790452535	50.9489403848825	EG 004	Altenburger Str. 10	True
+29	K u. B Verkehrs-Bildungsgesellschaft	11.6166431931996	50.9576404668329	Raum 1	Naumburger Str. 141	False
+30	K u. B Verkehrs-Bildungsgesellschaft	11.6166431931996	50.9576404668329	Raum 2	Naumburger Str. 141	False
+31	Carl-Zeiss-Gymnasium	11.6093954255246	50.952155214627	E 103	Erich-Kuithan-Str. 7	True
+32	Altes Gut Burgau	11.5922041109163	50.8960762564281	Versammlungsraum 1. Etage	Grenzstr. 1	False
+33	Grundschule Heinrich Heine	11.5977383757967	50.9342237632047	00-23	Dammstr. 37	True
+34	Grundschule Heinrich Heine	11.5977383757967	50.9342237632047	00-28	Dammstr. 37	True
+35	Angergymnasium	50.9330661938851	11.6059588459759	Altbau Raum 00-08	Karl-Liebknecht-Str. 87	False
+36	Angergymnasium	50.9330661938851	11.6059588459759	Altbau Raum 00-10	Karl-Liebknecht-Str. 87	False
+37	Gaststätte Schlegelsberg	11.6162075786418	50.9305694224685	Saal	Oskar-Zachau-Str. 6	True
+38	Gaststätte Zu den Fuchslöchern	11.6253913670654	50.9309557052791	Vereinsraum	Fuchslöcherstr. 9	True
+39	Vereinshaus Ziegenhain	11.6258814567685	50.9193593708057	Jugendzimmer	Edelhofgasse 22	True
+40	Institut für Geowissenschaften	11.5974678860298	50.9243532407779	Hörsaal 114	Burgweg 11	False
+41	Talschule	11.6046082623057	50.921322786245	01.00-04	Ziegenhainer Str. 52	False
+42	Talschule	11.6046082623057	50.921322786245	01.00-05	Ziegenhainer Str. 52	False
+43	KGS Adolf Reichwein	11.5918987179834	50.9233004171027	00.19	Wöllnitzer Str. 1	False
+44	KGS Adolf Reichwein	11.5918987179834	50.9233004171027	00.18	Wöllnitzer Str. 1	False
+45	Kita Ammerbach	11.5596297949111	50.9039955894851	Mehrzweckraum	Hahnengrundweg 7	False
+46	Kita Schwabenhaus	11.5783144717721	50.9033861912739	Speiseraum UG	Distelweg 1a	True
+47	Ernst-Abbe-Gymnasium	11.5734356379795	50.9048061773316	Aula	Ammerbacher Str. 21	True
+48	Gemeinschaftsschule Galileo	11.5811885001394	50.8929842023431	Aula	Oßmaritzer Str. 12	True
+49	Gemeinschaftsschule Galileo	11.5811885001394	50.8929842023431	Aula	Oßmaritzer Str. 12	True
+50	Freie Waldorfschule Jena	11.5902956567392	50.8784160391978	Speisesaal	Alte Hauptstr. 15	True
+51	Saaletalschule	11.6056536999706	50.8842251369975	00.25	Karl-Marx-Allee 11	True
+52	Saaletalschule	11.6056536999706	50.8842251369975	00.24	Karl-Marx-Allee 11	True
+53	Saaletalschule	11.6056536999706	50.8842251369975	00.22	Karl-Marx-Allee 11	True
+54	Schulgebäude	11.6142368155423	50.8817589354167	Raum 7	Emil-Wölk-Str. 11	False
+55	Saaletalschule	11.6056536999706	50.8842251369975	00.21	Karl-Marx-Allee 11	True
+56	Schulgebäude	11.6142368155423	50.8817589354167	Raum 6	Emil-Wölk-Str. 11	False
+57	AWO Schulungszentrum	11.615927383669	50.8848675344751	EG Seminarraum 04.01	Kastanienstr. 11	True
+58	Lobdeburgschule Jena	11.6130657989583	50.8909717126903	Raum 02.00-09 Aula	Unter der Lobdeburg 4	True
+59	Ganztagsgrundschule SteinMalEins	11.6050027075151	50.8932717577952	Speiseraum im Backsteinhaus	Susanne-Bohl-Str. 2	True
+60	Gaststätte Schöne Aussicht	11.5965311486045	50.9038888922577	Bauernstube	Wöllnitzer Str. 95	False
+61	SBS für Gesundheit u. Soziales	11.6311729689469	50.8799290929675	E 18	Rudolf-Breitscheid-Str. 56	False
+62	Seniorenzentrum Käthe Kollwitz	11.6282882022533	50.8832687822638	Andachtsraum	Schlegelstr. 1	True
+63	Seniorenzentrum Käthe Kollwitz	11.6282882022533	50.8832687822638	Konferenzraum	Schlegelstr. 1	True
+64	Schulgebäude Erlanger Alle 151	11.6378321698691	50.8792376870086	01_14	Erlanger Allee 151	False
+65	Schulgebäude Erlanger Alle 151	11.6378321698691	50.8792376870086	01_15	Erlanger Allee 151	False
+66	Seniorenbegegnungszentrum	11.6212034495595	50.8819691612674	EG Saal	Ernst-Schneller-Str. 10	True
+67	Wohnpark Lebenszeit	11.6235460149309	50.8805018184484	Foyer	Rudolf-Breitscheid-Str. 2	True
+68	Begegnungsstätte "Alt und Jung"	11.5757274	50.9005801	Begegnungsraum	Anna-Siemsen-Str. 1	True
+69	Schillerschule	11.5731788735528	50.8972351108861	Anbau großer Raum	Hugo-Schrade-Str. 3	True
+70	Grundschule An der Trießnitz	11.573649148597	50.9032573088743	Aula	Buchenweg 34	True
+71	Ortsteilrat Winzerla	11.5751455435002	50.8983457827899	Büro Ortsteilrat	Anna-Siemsen-Str. 45	True
+72	Schillerschule	11.5731788735528	50.8972351108861	Musikraum 00-03.01	Hugo-Schrade-Str. 3	True
+73	Seniorenheim Am Kleinertal	11.5726112069389	50.9015625465103	Clubraum	Friedrich-Zucker-Str. 2	True
+74	Schillerschule	11.5731788735528	50.8972351108861	Aula	Hugo-Schrade-Str. 3	True
+75	Alte Schule Kunitz	11.6366600698228	50.9548331854623	Versammlungsraum 1. OG	Lange Str. 62	False
+76	Gemeindesaal Jenaprießnitz	11.6513581074907	50.9286051944322	Saal	Am Tanzsaal 6	True
+77	Gemeindesaal Drackendorf	11.6319650729039	50.8877710358353	Gemeindesaal	Alte Dorfstr. 20	True
+78	Heimatverein Ilmnitz	11.6520542294103	50.8874485615774	Vereinsraum	Ilmnitzer Dorfstr. 14	True
+79	Gaststätte Goldenes Schiff	11.5981461992366	50.8673805501727	Vereinsraum	Alter Handelsweg 2	False
+80	FFW Leutra	11.567067346974	50.8695286884627	Schulungsraum 1. Etage	Leutra 112	False
+81	Feuerwehrvereinshaus Münchenroda	11.5127553220166	50.9290404587427	Bauernstube 1. OG	Münchenroda 27a	False
+82	Gemeindebüro Isserstedt	11.5225370120281	50.9609336308393	Versammlungsraum	Am Rasen 1	False
+83	FFW Vierzehnheiligen	11.5374736476589	50.9735867358751	Schulungsraum 1. OG	Vierzehnheiligen 20b	False
+84	FFW Krippendorf	11.5505979490758	50.9751039330594	Schulungsraum 1. OG	Am Gönnabach 8	False
+85	Vereinshaus Lützeroda	11.5553486529259	50.9581247841157	Versammlungsraum	Zum Ziskauer Tal 11	False
+86	Gemeindebüro Cospeda	11.5573793671162	50.9494802488798	Versammlungsraum	Jenaer Str. 1	True
+87	FFW Closewitz	11.5733695055668	50.9603284060903	Schulungsraum 1. OG	Closewitz 23	False
