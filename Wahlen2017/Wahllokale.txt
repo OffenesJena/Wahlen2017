@@ -1,0 +1,87 @@
+1	Uni-Hauptgebäude	28	Fürstengraben 1	ja
+2	IBAUPRO / WE Catering	Saal	Am Anger 32	ja
+3	Nordschule	00.03	Dornburger Str. 31	ja
+4	IBAUPRO / WE Catering	Saal	Am Anger 32	ja
+5	Volksbad-Anbau	Seminarraum V	Knebelstr. 10	ja
+6	Seniorenwohnen Am Villengang	Andachtsraum	Sellierstr. 8	ja
+7	Technologie- und Innovationspark Jena	Foyer	Wildenbruchstr. 15	nein
+8	FFW Lichtenhain	Schulungsraum 1. Etage	Am Hirschberge 9	nein
+9	Jenaplan-Schule	01.00.15	Tatzendpromenade 9	ja
+10	Jenaplan-Schule	01.00.14	Tatzendpromenade 9	ja
+11	Jenaplan-Schule	01.00.13	Tatzendpromenade 9	ja
+12	Aktion Wandlungswelten	EG Zimmer 2	Forstweg 41	nein
+13	Aktion Wandlungswelten	EG Zimmer 3	Forstweg 41	nein
+14	IGS Grete Unrein	00-14	August-Bebel-Str. 1	ja
+15	IGS Grete Unrein	00-15	August-Bebel-Str. 1	ja
+16	KITA Leutragarten	Kinderrestaurant	August-Bebel-Str. 24	ja
+17	Ortsteilbüro Jena West	Versammlungsraum	An der Weidigsmühle 10	ja
+18	FSU Jena	Seminarraum 5	Helmholtzweg 4	ja
+19	Nordschule	00.04	Dornburger Str. 31	ja
+20	Nordschule	00.05	Dornburger Str. 31	ja
+21	Montessorischule Jena	Aula Raum 02-00-01	Friedrich-Wolf-Str. 2	ja
+22	Carl-Zeiss-Gymnasium	D 112	Erich-Kuithan-Str. 7	ja
+23	Christliches Gymnasium	EG 012	Altenburger Str. 10	ja
+24	Begegnungszentrum Jena e. V.	Seniorenbegegnungsstätte	Closewitzer Str. 2	nein
+25	Begegnungszentrum Jena e. V.	Bibliothek	Closewitzer Str. 2	nein
+26	Montessorischule Jena	kleiner Speiseraum 02-00-16	Friedrich-Wolf-Str. 2	ja
+27	Carl-Zeiss-Gymnasium	D 114	Erich-Kuithan-Str. 7	ja
+28	Christliches Gymnasium	EG 004	Altenburger Str. 10	ja
+29	K u. B Verkehrs-Bildungsgesellschaft	Raum 1	Naumburger Str. 141	nein
+30	K u. B Verkehrs-Bildungsgesellschaft	Raum 2	Naumburger Str. 141	nein
+31	Carl-Zeiss-Gymnasium	E 103	Erich-Kuithan-Str. 7	ja
+32	Altes Gut Burgau	Versammlungsraum 1. Etage	Grenzstr. 1	nein
+33	Grundschule Heinrich Heine	00-23	Dammstr. 37	ja
+34	Grundschule Heinrich Heine	00-28	Dammstr. 37	ja
+35	Angergymnasium	Altbau Raum 00-08	Karl-Liebknecht-Str. 87	nein
+36	Angergymnasium	Altbau Raum 00-10	Karl-Liebknecht-Str. 87	nein
+37	Gaststätte Schlegelsberg	Saal	Oskar-Zachau-Str. 6	ja
+38	Gaststätte Zu den Fuchslöchern	Vereinsraum	Fuchslöcherstr. 9	ja
+39	Vereinshaus Ziegenhain	Jugendzimmer	Edelhofgasse 22	ja
+40	Institut für Geowissenschaften	Hörsaal 114	Burgweg 11	nein
+41	Talschule	01.00-04	Ziegenhainer Str. 52	nein
+42	Talschule	01.00-05	Ziegenhainer Str. 52	nein
+43	KGS Adolf Reichwein	00.19	Wöllnitzer Str. 1	nein
+44	KGS Adolf Reichwein	00.18	Wöllnitzer Str. 1	nein
+45	Kita Ammerbach	Mehrzweckraum	Hahnengrundweg 7	nein
+46	Kita Schwabenhaus	Speiseraum UG	Distelweg 1a	ja
+47	Ernst-Abbe-Gymnasium	Aula	Ammerbacher Str. 21	ja
+48	Gemeinschaftsschule Galileo	Aula	Oßmaritzer Str. 12	ja
+49	Gemeinschaftsschule Galileo	Aula	Oßmaritzer Str. 12	ja
+50	Freie Waldorfschule Jena	Speisesaal	Alte Hauptstr. 15	ja
+51	Saaletalschule	00.25	Karl-Marx-Allee 11	ja
+52	Saaletalschule	00.24	Karl-Marx-Allee 11	ja
+53	Saaletalschule	00.22	Karl-Marx-Allee 11	ja
+54	Schulgebäude	Raum 7	Emil-Wölk-Str. 11	nein
+55	Saaletalschule	00.21	Karl-Marx-Allee 11	ja
+56	Schulgebäude	Raum 6	Emil-Wölk-Str. 11	nein
+57	AWO Schulungszentrum	EG Seminarraum 04.01	Kastanienstr. 11	ja
+58	Lobdeburgschule Jena	Raum 02.00-09 Aula	Unter der Lobdeburg 4	ja
+59	Ganztagsgrundschule SteinMalEins	Speiseraum im Backsteinhaus	Susanne-Bohl-Str. 2	ja
+60	Gaststätte Schöne Aussicht	Bauernstube	Wöllnitzer Str. 95	nein
+61	SBS für Gesundheit u. Soziales	E 18	Rudolf-Breitscheid-Str. 56	nein
+62	Seniorenzentrum Käthe Kollwitz	Andachtsraum	Schlegelstr. 1	ja
+63	Seniorenzentrum Käthe Kollwitz	Konferenzraum	Schlegelstr. 1	ja
+64	Schulgebäude Erlanger Alle 151	01_14	Erlanger Allee 151	nein
+65	Schulgebäude Erlanger Alle 151	01_15	Erlanger Allee 151	nein
+66	Seniorenbegegnungszentrum	EG Saal	Ernst-Schneller-Str. 10	ja
+67	Wohnpark Lebenszeit	Foyer	Rudolf-Breitscheid-Str. 2	ja
+68	Begegnungsstätte "Alt und Jung"	Begegnungsraum	Anna-Siemsen-Str. 1	ja
+69	Schillerschule	Anbau großer Raum	Hugo-Schrade-Str. 3	ja
+70	Grundschule An der Trießnitz	Aula	Buchenweg 34	ja
+71	Ortsteilrat Winzerla	Büro Ortsteilrat	Anna-Siemsen-Str. 45	ja
+72	Schillerschule	Musikraum 00-03.01	Hugo-Schrade-Str. 3	ja
+73	Seniorenheim Am Kleinertal	Clubraum	Friedrich-Zucker-Str. 2	ja
+74	Schillerschule	Aula	Hugo-Schrade-Str. 3	ja
+75	Alte Schule Kunitz	Versammlungsraum 1. OG	Lange Str. 62	nein
+76	Gemeindesaal Jenaprießnitz	Saal	Am Tanzsaal 6	ja
+77	Gemeindesaal Drackendorf	Gemeindesaal	Alte Dorfstr. 20	ja
+78	Heimatverein Ilmnitz	Vereinsraum	Ilmnitzer Dorfstr. 14	ja
+79	Gaststätte Goldenes Schiff	Vereinsraum	Alter Handelsweg 2	nein
+80	FFW Leutra	Schulungsraum 1. Etage	Leutra 112	nein
+81	Feuerwehrvereinshaus Münchenroda	Bauernstube 1. OG	Münchenroda 27a	nein
+82	Gemeindebüro Isserstedt	Versammlungsraum	Am Rasen 1	nein
+83	FFW Vierzehnheiligen	Schulungsraum 1. OG	Vierzehnheiligen 20b	nein
+84	FFW Krippendorf	Schulungsraum 1. OG	Am Gönnabach 8	nein
+85	Vereinshaus Lützeroda	Versammlungsraum	Zum Ziskauer Tal 11	nein
+86	Gemeindebüro Cospeda	Versammlungsraum	Jenaer Str. 1	ja
+87	FFW Closewitz	Schulungsraum 1. OG	Closewitz 23	nein

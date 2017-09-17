@@ -1,0 +1,868 @@
+Adlerstieg	2
+Adolf-Reichwein-Str.	3
+Adrian-Beier-Stieg	5
+Ahornstr.	6
+Ahornweg	828
+Akazienweg	3097
+Albert-Einstein-Str.	3114
+Alexander-Puschkin-Platz	7
+Alfred-Diener-Str.	2678
+Alte Dorfstr.	3084
+Alte Hauptstr.	3016
+Alte Str.	2009
+Alte Wiesenstr.	3170
+Altenburger Str.	878
+Alter Handelsweg	735
+Am alten Gaswerk	753
+Am Alten Schloss	3047
+Am alten Weinberg	736
+Am Anger	10
+Am Bahnhof	5011
+Am Berg	776
+Am Birnstiel	12
+Am Bornberg	2013
+Am Borngarten	3042
+Am Brückenweidigt	2014
+Am Burggarten	15
+Am Burggraben	8016
+Am Denkmal	3023
+Am Dorfplatz	737
+Am Egelsee	3116
+Am Erlkönig	3041
+Am Flutgraben	727
+Am Freiberg	3067
+Am Friedensberg	17
+Am Friedhof	2018
+Am Gänseberg	19
+Am Geißberg	610
+Am Goethepark	3068
+Am Goldberg	2020
+Am Gönnabach	3043
+Am Gries	3106
+Am Hain	3127
+Am Hang	21
+Am Heiligenberg	9022
+Am Heinrichsberg	700
+Am Herrenberge	611
+Am Hirschberge	612
+Am Jagdberg	5026
+Am Jenzig	27
+Am Johannisberg	2028
+Am Johannisfriedhof	754
+Am Kaiserberg	9622
+Am Katzenstein	8029
+Am Kieshügel	30
+Am Klinikum	3064
+Am Klosterhof	3024
+Am Knollen	31
+Am Kochersgraben	32
+Am König	3069
+Am Kraftwerk	8034
+Am Krautgarten	3025
+Am Küchenhof	2638
+Am Kulm	3174
+Am Leutrabach	738
+Am Lindenberg	8035
+Am Loh	36
+Am Marstall	3078
+Am Mönchenberge	890
+Am Mühlhügel	847
+Am Naßtal	739
+Am Nordfriedhof	37
+Am Pfaffenstieg	38
+Am Plan	9039
+Am Planetarium	40
+Am Rähmen	41
+Am Rasen	766
+Am Rödigen	740
+Am Rosenhang	9042
+Am Rosenweg	3102
+Am Röthang	3090
+Am Saaleufer	43
+Am Schloßweidigt	8044
+Am Schwabisgraben	45
+Am Spielberg	795
+Am Stadion	716
+Am Steiger	46
+Am Steinbach	9047
+Am Steinborn	48
+Am Storchsacker	3070
+Am Tännicht	3026
+Am Tanzsaal	3027
+Am Tatzend	613
+Am Teich	9049
+Am Volksbad	50
+Am Wald	3103
+Am Wiesenbach	867
+Am Windknollen	3109
+Am Winkel	767
+Am Zementwerk	5051
+Ammerbacher Mittelweg	3104
+Ammerbacher Oberweg	1052
+Ammerbacher Platte	53
+Ammerbacher Str.	1054
+Amselweg	55
+Amsterdamer Str.	755
+Amtsgasse	9056
+An den Linden	777
+An der alten Post	889
+An der Brauerei	3088
+An der Diebeskrippe	614
+An der Eule	57
+An der Kelter	8058
+An der Kiesgrube	741
+An der Kirche	742
+An der Lehmgrube	865
+An der Leite	59
+An der Leutra	895
+An der Mauer	8060
+An der Mühle	796
+An der Osterwiese	756
+An der Papiermühle	3117
+An der Peterskirche	3083
+An der Riese	1061
+An der Ringwiese	62
+An der Schöppe	9063
+An der Schule	797
+An der Siedlung	768
+An der Trebe	64
+An der Weidigsmühle	3125
+An der Ziegelei	3028
+Anemonenweg	3015
+Angergasse	701
+Anna-Siemsen-Str.	870
+Anton-Bruckner-Weg	896
+Artur-Becker-Str.	5067
+Arvid-Harnack-Str.	68
+Aspenweg	69
+Asternweg	70
+Auf dem Forst	719
+Auf dem Schafberge	3093
+Auf der Burg	1071
+Auf der Gebind	3019
+Auf der Höhe	3080
+August-Bebel-Str.	72
+August-Gärtner-Str.	73
+Bachgasse	798
+Bachstr.	76
+Bäckergasse	2074
+Ballhausgasse	78
+Bärengasse	2075
+Bauersfeldstr.	8640
+Beethovenstr.	79
+Berggasse	80
+Berghoffsweg	81
+Bernhard-Schultze-Str.	641
+Berthold-Delbrück-Str.	85
+Bertolt-Brecht-Str.	8086
+Beutenbergstr.	87
+Beutnitzer Str.	88
+Biberweg	839
+Bibliotheksplatz	703
+Bibliotheksweg	89
+Binswangerstr.	2642
+Birkenweg	90
+Blochmannstr.	91
+Blumenröschenweg	3146
+Blumenstr.	92
+Boegeholdstr.	8643
+Bonhoefferstr.	2094
+Borngraben	1095
+Böttchergasse	2093
+Botzstr.	644
+Brahmsweg	897
+Brändströmstr.	96
+Brauhofstr.	98
+Brehmstr.	99
+Breite Str.	100
+Brückenstr.	9101
+Brunnengasse	8102
+Brüsseler Str.	869
+Buchaer Str.	103
+Buchenweg	104
+Burgauer Weg	105
+Bürgelsche Str.	3029
+Burggartenweg	3096
+Burgweg	106
+Camburger Str.	107
+Camsdorfer Str.	108
+Camsdorfer Ufer	109
+Carl-Blomeyer-Str.	110
+Carl-Born-Str.	111
+Carl-Hummel-Str.	818
+Carl-Orff-Str.	898
+Carl-Pulfrich-Str.	723
+Carl-Spitzweg-Str.	819
+Carl-Stamitz-Weg	899
+Carl-Zeiß-Platz	606
+Carl-Zeiss-Promenade	3049
+Carl-Zeiß-Str.	607
+Carolinenstr.	2113
+Charlottenstr.	114
+Clara-Zetkin-Str.	116
+Claudiusstr.	704
+Closewitz	794
+Closewitzer Str.	645
+Closewitzer Weg	3110
+Coppanzer Weg	1117
+Cospedaer Grund	118
+Cospoth	872
+Curt-Unckel-Str.	3128
+Dahlienweg	779
+Damaschkeweg	120
+Dammstr.	121
+Diakonatsgasse	2122
+Diesterwegstr.	123
+Dietrichweg	124
+Distelweg	125
+Dobeneckerstr.	639
+Döbereinerstr.	637
+Dorfstr.	3038
+Dornbluthweg	128
+Dornburger Str.	129
+Dorothea-Veit-Str.	2646
+Drackendorf-Center	747
+Drackendorfer Str.	2628
+Drackendorfer Weg	2131
+Dreßlerstr.	132
+Drevesstr.	133
+Drosselstr.	134
+E.-T.-A.-Hoffmann-Weg	858
+Ebereschenstr.	135
+Ebertstr.	136
+Eckweg	137
+Edelhofgasse	1138
+Eduard-Mörike-Weg	850
+Eduard-Rosenthal-Str.	139
+Eibenweg	142
+Eichendorffweg	143
+Eichenweg	144
+Eichhörnchenweg	840
+Eisenberger Str.	145
+Emil-Höllein-Platz	706
+Emil-Wölk-Str.	2148
+Emma-Heintz-Str.	149
+Engelplatz	150
+Enzianweg	151
+Erbertstr.	152
+Erfurter Str.	154
+Erich-Halbauer-Weg	3065
+Erich-Kops-Weg	2155
+Erich-Kuithan-Str.	9647
+Erich-Weinert-Str.	156
+Erlanger Allee	2675
+Ernst-Abbe-Platz	871
+Ernst-Abbe-Str.	157
+Ernst-Bloch-Ring	3053
+Ernst-Haeckel-Platz	158
+Ernst-Haeckel-Str.	159
+Ernst-Pfeiffer-Str.	160
+Ernst-Ruska-Ring	3147
+Ernst-Schneller-Str.	2161
+Ernst-Thälmann-Str.	2163
+Ernst-Zielinski-Str.	8629
+Eschenplatz	165
+Eugen-Diederichs-Str.	166
+Falkenstieg	167
+Falkenweg	781
+Fasanenweg	3111
+Feldhamsterweg	3133
+Feldstr.	168
+Felix-Auerbach-Str.	2648
+Felsbachstr.	3013
+Felsenkellerstr.	169
+Fichteplatz	170
+Finkenweg	171
+Fischergasse	172
+Fliederweg	173
+Florian-Geyer-Weg	9174
+Flurweg	175
+Forstweg	176
+Franz-Gresitza-Str.	177
+Franz-Kugler-Str.	178
+Franz-Liszt-Str.	179
+Franz-Loewen-Str.	3161
+Frauengasse	180
+Fraunhoferstr.	181
+Fregestr.	2182
+Freiheitsstr.	184
+Freiherr-vom-Stein-Str.	185
+Freiligrathstr.	186
+Friedenstr.	188
+Friedensweg	8189
+Friedhofsweg	3030
+Friedrich-A.-Tischbein-Str.	820
+Friedrich-Engels-Str.	190
+Friedrich-Gerstäcker-Weg	853
+Friedrich-Hund-Str.	3048
+Friedrich-Körner-Str.	191
+Friedrich-Schelling-Str.	192
+Friedrich-Wolf-Str.	193
+Friedrich-Zucker-Str.	8649
+Friesweg	194
+Fritz-Kalisch-Str.	196
+Fritz-Krieger-Str.	197
+Fritz-Reuter-Str.	198
+Fritz-Ritter-Str.	2199
+Fritz-Winkler-Str.	3040
+Fröbelstieg	200
+Frommannstr.	201
+Frongasse	8202
+Fuchslöcherstr.	841
+Fuchsturmweg	203
+Fürstengraben	650
+Gabelsbergerstr.	204
+Gartenstr.	205
+Gartenweg	3099
+Geleitstr.	8206
+Gembdental	207
+Georg-Büchner-Str.	208
+Georg-Schumann-Weg	2210
+Georg-Weerth-Str.	211
+Geraer Str.	8212
+Geschwister-Scholl-Str.	214
+Gillestr.	215
+Ginsterweg	216
+Gladiolenweg	217
+Glockengasse	8218
+Gneisenaustr.	219
+Goethestr.	221
+Golmsdorfer Str.	222
+Göschwitzer Str.	8615
+Gottfried-Keller-Weg	852
+Gotthard-Neumann-Str.	651
+Greifbergstr.	223
+Greifgasse	224
+Grenzstr.	8225
+Grete-Unrein-Str.	226
+Griesheimweg	3071
+Grietgasse	227
+Grillenweg	8228
+Grillparzerweg	229
+Groschstr.	5652
+Großschwabhäuser Str.	771
+Grundweg	1230
+Grüne Aue	1502
+Günselweg	231
+Gustav-Eichhorn-Str.	757
+Gustav-Fischer-Str.	232
+Gustav-Freytag-Str.	233
+Gutenbergstr.	234
+Hahnengrundweg	1235
+Hainstr.	236
+Händelweg	3001
+Hanns-Eisler-Str.	8237
+Hans-Berger-Str.	2653
+Hans-Knöll-Str.	3115
+Hardenbergweg	239
+Haselstrauchweg	240
+Hauptstr.	772
+Hausbergstr.	242
+Haydnstr.	243
+Heckenweg	8244
+Hegelstr.	3054
+Heimstättenstr.	246
+Heinrich-Heine-Str.	247
+Heinrich-Schütz-Weg	3003
+Heinrich-von-Eggeling-Str.	250
+Helene-Holzman-Str.	3173
+Helene-Weigel-Str.	8251
+Helldorffweg	3072
+Helmboldstr.	252
+Helmholtzweg	253
+Herderstr.	254
+Hermann-Löns-Str.	256
+Hermann-Pistor-Str.	8388
+Hermann-Stapff-Str.	258
+Hermelinweg	3129
+Herweghstr.	259
+Heydenreichstr.	260
+Hildebrandstr.	261
+Hilgenfeldweg	262
+Hinter dem Dorfe	3031
+Hinter dem Spielberge	892
+Hinter der Kirche	263
+Hinter der Linde	3032
+Hinterm Gut	8264
+Hinterweg	1265
+Hirtengasse	9266
+Hohe Str.	269
+Höhenweg	267
+Hohlweg	3063
+Hölderlinweg	268
+Holunderweg	270
+Holzmarkt	271
+Holzweg	1272
+Hopfenweg	273
+Hornstr.	274
+Hufelandweg	616
+Hügelstr.	275
+Hugo-Schrade-Str.	8632
+Humboldtstr.	276
+Huttenstr.	277
+Igelweg	842
+Ilmnitzer Dorfstr.	3061
+Ilmstr.	729
+Iltisweg	843
+Im Bürgergarten	3021
+Im Hahngrunde	3085
+Im Hundsbeile	3086
+Im Klieber	3062
+Im Krähmer	617
+Im Langetal	279
+Im Lerchenfeld	883
+Im Linsenland	802
+Im Metztal	280
+Im Mißrigen	812
+Im Nennsdorfer Felde	3137
+Im Planer	3087
+Im Ritzetal	281
+Im Semmicht	863
+Im Steinfeld	743
+Im tiefen Weg	3033
+Im Unterdorf	782
+Im Wasserlauf	783
+Im Wehrigt	721
+Im Ziehgarten	814
+In den Bornwiesen	3159
+In den Fichtlerswiesen	894
+In den Halben Äckern	3050
+In den Kieswiesen	676
+In den Rainländern	3073
+In den Schulländern	3126
+In den Steingelängen	3051
+In den Teichen	866
+In den Zinsäckern	655
+In der Doberau	282
+In der Hohle	3034
+In der Schweiz	3044
+Inselplatz	283
+Isserstedter Str.	3074
+Jacob-Michelsen-Str.	286
+Jägerbergstr.	9284
+Jahnstr.	285
+Jansonstr.	287
+Jasminweg	3167
+Jenaer Str.	784
+Jenaische Str.	2289
+Jenaplan	3155
+Jenaprießnitzer Str.	290
+Jenergasse	291
+Jenertal	292
+Jenzigweg	293
+Johannes-R.-Becher-Str.	8296
+Johann-Friedrich-Str.	294
+Johann-Griesbach-Str.	295
+Johannisplatz	297
+Johannisstr.	298
+Johann-Nikolaus-Bach-Weg	3004
+Judith-Auer-Str.	2300
+Julius-Lien-Weg	3119
+Julius-Schaxel-Str.	301
+Jungferngraben	302
+Juri-Gagarin-Str.	9303
+Kahlaische Str.	305
+Kaninchenweg	3136
+Karl-Brauckmann-Str.	3163
+Karl-Günther-Str.	306
+Karl-Liebknecht-Str.	308
+Karl-Marx-Allee	2309
+Karl-Rothe-Str.	313
+Karl-Schmid-Ring	3056
+Karl-von-Brüger-Str.	112
+Kastanienstr.	2315
+Katharinenstr.	316
+Käthe-Kollwitz-Str.	304
+Kefersteinstr.	317
+Kerbelweg	318
+Kernbergstr.	319
+Keßlerstr.	8320
+Kieserstr.	321
+Kirchbergstr.	322
+Kirchgasse	785
+Kirchplatz	324
+Kirchstr.	803
+Kirschgarten	325
+Klara-Griefahn-Str.	2627
+Kleine Camsdorfer Str.	326
+Kleine Dammstr.	3157
+Kleinromstedter Weg	3172
+Klopfleischstr.	327
+Klosterweg	5328
+Knebelstr.	329
+Kochstr.	331
+Kollegiengasse	332
+Konrad-Zuse-Str.	734
+Kornblumenweg	333
+Kösener Str.	882
+Kötschauweg	330
+Krautgasse	334
+Kreußlerstr.	335
+Kreuzgasse	9336
+Kritzegraben	337
+Kronfeldstr.	338
+Kunitzburgweg	3018
+Kunitzer Hirtengasse	3020
+Kunitzer Str.	340
+Kuno-Fischer-Ring	3150
+Kurt-Weill-Weg	3166
+Laasan	808
+Laasaner Oberweg	864
+Landgrafenstieg	342
+Lange Str.	804
+Lassallestr.	344
+Lauensteinweg	345
+Leibnizstr.	3057
+Leipziger Str.	346
+Leonhardtweg	350
+Leo-Sachse-Str.	349
+Lerchenstieg	351
+Lerchenweg	836
+Lessingstr.	352
+Leutra	746
+Leutraer Weg	5353
+Leutragraben	708
+Lichtenhainer Oberweg	709
+Lichtenhainer Str.	354
+Lilienweg	355
+Lindengasse	773
+Lindenhöhe	356
+Lindenstr.	2357
+Lindenweg	744
+Liselotte-Herrmann-Str.	2358
+Lobdeburgweg	2362
+Löbdergraben	677
+Löbderstr.	359
+Lobedaer Str.	8656
+Löbichauer Str.	360
+Löbstedter Str.	361
+Loderstr.	657
+Lommerweg	363
+Lortzingweg	3005
+Lucas-Cranach-Allee	821
+Luchsweg	3134
+Ludwig-Uhland-Weg	849
+Ludwig-Weimar-Gasse	365
+Luise-Seidler-Str.	366
+Lutherplatz	368
+Lutherstr.	369
+Lützener Str.	881
+Lützerodaer Str.	774
+Lützerodaer Weg	787
+Lützowstr.	364
+Lyonel-Feininger-Str.	822
+Mädertal	370
+Magdelstieg	371
+Magnus-Poser-Str.	372
+Malvenweg	609
+Mälzerstr.	3082
+Marderweg	844
+Margeritenweg	3094
+Maria-Pawlowna-Str.	3175
+Marie-Juchacz-Str.	3156
+Markt	374
+Marktstr.	2375
+Martin-Niemöller-Str.	2376
+Mathilde-Vaerting-Str.	3139
+Matthias-Domaschk-Str.	868
+Maurerstr.	378
+Max-Gräfe-Gasse	618
+Max-Grossmann-Str.	724
+Max-Reger-Weg	380
+Max-Steenbeck-Str.	8633
+Max-Wien-Platz	381
+Meisenweg	788
+Melanchthonstr.	383
+Mendelssohnweg	3006
+Merseburger Str.	879
+Merzenbergweg	384
+Michael-Häußler-Weg	9658
+Mittelstr.	386
+Mönchsgasse	387
+Moritz-Seebeck-Str.	389
+Moritz-von-Rohr-Str.	725
+Mozartweg	3007
+Mühlenstr.	390
+Mühlenweg	789
+Mühlgäßchen	391
+Mühlgasse	805
+Mühlstatt	861
+Mühltal	392
+Münchenroda	3107
+Münchenrodaer Grund	761
+Münchenrodaer Str.	758
+Munketal	394
+Murmeltierweg	3131
+Musäusring	2659
+Naumannstr.	395
+Naumburger Str.	396
+Nelkenweg	397
+Nennsdorfer Weg	1398
+Nesselweg	399
+Netzstr.	400
+Neue Schenke	750
+Neugasse	401
+Neunkirchner Str.	402
+Nietzschestr.	3060
+Nikolaus-Theiner-Str.	2403
+Nollendorfer Str.	404
+Nonnenplan	887
+Novalisstr.	2405
+Oberaue	406
+Obere Kernbergstr.	3138
+Oberes Munketal	407
+Oberlauengasse	408
+Okenstr.	409
+Olga-Benario-Weg	2410
+Orchideenweg	8608
+Orlaweg	731
+Oskar-Zachau-Str.	412
+Oßmaritzer Str.	8411
+Otto-Devrient-Str.	415
+Otto-Engau-Str.	416
+Otto-Eppenstein-Str.	3160
+Ottogerd-Mühlmann-Str.	660
+Otto-Liebmann-Ring	3058
+Otto-Militzer-Str.	2418
+Otto-Schott-Platz	419
+Otto-Schott-Str.	420
+Otto-Wagner-Str.	3164
+Pappelweg	3100
+Paradiesstr.	421
+Paraschkenmühle	3148
+Parkstr.	5422
+Parkweg	3101
+Paul-Klee-Str.	823
+Paul-Schneider-Str.	2423
+Paul-Weber-Str.	424
+Pennickental	1426
+Pestalozzistr.	428
+Pfälzer Str.	429
+Pfarrgartenstr.	837
+Pfarrgasse	430
+Pforte	2431
+Philipp-Müller-Str.	432
+Philosophenweg	433
+Platanenstr.	2434
+Prüssingstr.	5662
+Quendelweg	437
+Quergasse	438
+Rabenstieg	439
+Rathausgasse	873
+Rathausplatz	2440
+Rathenaustr.	442
+Rautal	443
+Reichardtstieg	663
+Reifsteinweg	2445
+Reinhold-Härzer-Str.	446
+Reinholdweg	447
+Rembrandtstr.	824
+Remderodaer Str.	759
+Rheinlandstr.	448
+Ricarda-Huch-Weg	449
+Richard-Sorge-Str.	2450
+Richard-Strauss-Weg	3008
+Richard-Zimmermann-Str.	2451
+Riedstr.	452
+Riemannstr.	453
+Robert-Blum-Str.	455
+Robinienweg	3098
+Rödigenweg	454
+Roland-Ducke-Weg	3171
+Rolfinckstr.	664
+Rosa-Luxemburg-Str.	459
+Rosenstr.	460
+Rosenweg	790
+Rotdornweg	3112
+Rothirschweg	3135
+Rubensstr.	825
+Rudolf-Breitscheid-Str.	2462
+Rudolf-Eucken-Str.	463
+Rudolf-Straubel-Str.	464
+Rudolstädter Str.	8465
+Saalbahnhofstr.	466
+Saalstr.	467
+Saalweg	2468
+Saarbrücker Str.	469
+Sachseneckweg	470
+Sackgasse	806
+Salvador-Allende-Platz	2471
+Salvador-Dali-Str.	826
+Sanddornstr.	2472
+Sandweg	473
+Schaefferstr.	474
+Schafberg	751
+Scharnhorststr.	476
+Scheidlerstr.	477
+Schenkstr.	478
+Schillbachstr.	479
+Schillergäßchen	480
+Schillerstr.	481
+Schillstr.	482
+Schlachthofstr.	483
+Schlegelstr.	2484
+Schlehendornweg	815
+Schleidenstr.	485
+Schlendorfer Oberweg	486
+Schlendorfer Str.	487
+Schlippenstr.	488
+Schloßberggasse	2620
+Schloßgasse	489
+Schneckengasse	2712
+Schomerusstr.	665
+Schreckenbachweg	491
+Schrödingerstr.	8666
+Schroeterstr.	667
+Schubertweg	3009
+Schulgasse	494
+Schulstr.	495
+Schulweg	862
+Schützenhofstr.	493
+Schweizerhöhenweg	496
+Seidelstr.	497
+Sellierstr.	498
+Semmelweisstr.	499
+Sickingenstr.	500
+Siebenschläferweg	3132
+Siedlung Göschwitz	5501
+Siedlung Sonnenblick	503
+Siegfried-Czapski-Str.	504
+Singerweg	505
+Sonnenbergstr.	507
+Sonnenblumenweg	3123
+Sonnenhof	3154
+Sophienhöhe	3089
+Sophienstr.	508
+Sperlingsweg	509
+Spitzbergstr.	2511
+Spitzweidenweg	512
+St.-Florian-Weg	3079
+St.-Jakob-Str.	513
+St.-Wendel-Stieg	514
+Stadtgraben	2515
+Stadthof	2516
+Stadtrat-Lehmann-Str.	517
+Stadtrodaer Str.	714
+Starweg	3113
+Stauffenbergstr.	2518
+Steingraben	519
+Steinweg	520
+Steubenstr.	521
+Stieglitzweg	3153
+Stifterstr.	715
+Stockholmer Str.	3124
+Stoystr.	522
+Strigelstr.	635
+Struvestr.	2528
+Stumpfenburgweg	529
+Susanne-Bohl-Str.	2530
+Talsteinstr.	807
+Talstr.	531
+Tatzendpromenade	532
+Tautenburger Str.	533
+Teichgasse	8534
+Teichgraben	535
+Telemannweg	3010
+Teutonengasse	536
+Theobald-Renner-Str.	2668
+Theodor-Fontane-Weg	855
+Theodor-Storm-Weg	848
+Theo-Neubauer-Str.	537
+Thomas-Mann-Str.	538
+Thomas-Müntzer-Weg	9720
+Thymianweg	541
+Tieckstr.	2542
+Treunertstr.	543
+Trießnitzweg	8544
+Tulpenweg	546
+Tümplingstr.	545
+Turmgasse	547
+Über dem Grund	3022
+Über den Teufelslöchern	3091
+Über der Viehtreibe	3039
+Überm Anger	838
+Ulmerstr.	549
+Ulrichweg	550
+Unstrutweg	728
+Unter dem Heuhm	893
+Unter der Kirche	5551
+Unter der Lobdeburg	2552
+Unterdorfstr.	1553
+Unterer Sachseneckweg	3162
+Unterlauengasse	554
+Unterm Markt	555
+Unterm Sande	745
+Unterm Schlegelsberg	636
+Unterm Schützenhof	556
+Van-Gogh-Str.	827
+Veilchenweg	557
+Victor-Goerttler-Str.	3145
+Vierzehnheiligen	764
+Viktor-von-Scheffel-Weg	558
+Villengang	559
+Völklinger Stieg	560
+Von-Fallersleben-Weg	857
+Von-Hase-Weg	561
+Vor dem Grünlaube	791
+Vor dem Neutor	563
+Vor dem Obertore	877
+Vor den Fuchslöchern	3158
+Wacholderweg	8565
+Wackenroderstr.	3152
+Wagnergasse	567
+Waldstr.	568
+Waldweg	792
+Walnussweg	3017
+Walter-Dexel-Str.	3012
+Wanderslebstr.	8670
+Wartburgstr.	569
+Wehrgasse	1570
+Weidenweg	571
+Weigelstr.	572
+Weimarische Str.	775
+Weinbergstr.	573
+Weißdornweg	574
+Weißenfelser Str.	3140
+Wenigenjenaer Platz	575
+Wenigenjenaer Ufer	576
+Werner-Seelenbinder-Str.	2577
+Westbahnhofstr.	578
+Westendstr.	579
+Wieselweg	846
+Wiesenstr.	580
+Wildenbruchstr.	581
+Wildstr.	582
+Wilhelm-Busch-Weg	856
+Wilhelm-Hauff-Weg	851
+Wilhelm-Külz-Str.	584
+Wilhelm-Pitt-Weg	587
+Wilhelm-Raabe-Weg	854
+Wilhelm-Rein-Str.	588
+Wilhelm-Stade-Str.	589
+Windbergstr.	590
+Windröschenweg	591
+Winkel	2592
+Winzergasse	8593
+Winzerlaer Str.	671
+Wittenbergstr.	594
+Wogauer Str.	597
+Wöllnitzer Oberweg	1595
+Wöllnitzer Str.	1596
+Zeitzer Str.	880
+Zenkerweg	598
+Ziegelmühlenweg	599
+Ziegenhainer Oberweg	1600
+Ziegenhainer Str.	601
+Ziegesarstr.	2672
+Zillestr.	602
+Zitzmannstr.	673
+Zu den acht Äckern	3035
+Zum alten Brauhaus	3036
+Zum Mühlgraben	3037
+Zum Rundling	3075
+Zum Tälchen	3076
+Zum Waldschlößchen	3095
+Zum Ziskauer Tal	3077
+Zur Lämmerlaide	3011
+Zur Windmühle	3045
+Zwätzengasse	605
